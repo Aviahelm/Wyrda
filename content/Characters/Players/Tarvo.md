@@ -1,0 +1,19 @@
+---
+title: Tarvo
+draft: false
+tags:
+  - Player
+enableToc: "false"
+---
+ 
+Taught by his mother how to read at an early age he spent in his days in the clan library. Even there when his clan was massacred by savage bandits. Until his mother took him down to the river to escape by boat. 
+
+Sadly his mother knew that the bandits would chase after her even if she escaped. With a heavy heart she used a spell to put him asleep as she used herself as a distraction. 
+
+Taken by the current of the river he lay awake in an unfamiliar place, the jungle. There he struggled for survival and had to leave his modern instincts for primal animalistic instincts. 
+
+Years had past and sadly he had forgotten about his mother, her name, her face and even her name in a matter of fact he forgot his own name. 
+
+All he had of his old life was a book about his favourite characters name. Tarvo.
+
+![Tarvo](https://media.discordapp.net/attachments/1322855716137992269/1330834074633506908/tarvo.png?ex=67aa7211&is=67a92091&hm=4be6fabd16f50aa8a27e5962a581ebd737b0e57eab4dc6748425c46e3f7ccac1&=&format=webp&quality=lossless&width=477&height=671)
