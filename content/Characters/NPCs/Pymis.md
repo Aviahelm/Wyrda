@@ -8,7 +8,7 @@ enableToc: "true"
  
 Growing up in a village overgrown by nature, everyone was happy, cheerful, and loved connecting with the wildlife around them. Pymis owned a shop for making little gadgets that seemed useless to his people but to Pymis, his creations meant everything to him. You see, Pymis is different from the rest of the Satyr. He grew tired of the high energy, the constant celebrating, and when his own people didn't appreciate his creations, he looked to live elsewhere. He just wanted a simple life, alone, where he can work on his gadgets, so he left home to find somewhere secluded to call home, so that he could finally be alone with his gadgets, because at the end of the day, who's going to love his gadgets more than their own creator?
 
-![Pymis](https://media.discordapp.net/attachments/1322855716137992269/1326079656029327401/cd3f12d9-4e4b-4401-91d7-f843a9f39ce7.jpg?ex=67aa49ab&is=67a8f82b&hm=7e6dcad5fe7dd5916b8fe7f9641e30e007aa14c5f5187b24bd944a19f35d9c32&=&format=webp&width=671&height=671)
+![Pymis](https://i.postimg.cc/ydQ56zhF/cd3f12d9-4e4b-4401-91d7-f843a9f39ce7.webp)
 
 
 ## The End of The Quest

@@ -16,4 +16,4 @@ Years had past and sadly he had forgotten about his mother, her name, her face a
 
 All he had of his old life was a book about his favourite characters name. Tarvo.
 
-![Tarvo](https://media.discordapp.net/attachments/1322855716137992269/1330834074633506908/tarvo.png?ex=67aa7211&is=67a92091&hm=4be6fabd16f50aa8a27e5962a581ebd737b0e57eab4dc6748425c46e3f7ccac1&=&format=webp&quality=lossless&width=477&height=671)
+![Tarvo](https://i.postimg.cc/v8KjpbZy/tarvo.webp)

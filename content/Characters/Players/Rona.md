@@ -18,5 +18,5 @@ There’s a fire in her—one even she doesn’t fully understand. Beneath the c
 
 Don't underestimate the powers slumbering inside her
 
-![Rona](https://media.discordapp.net/attachments/1322855716137992269/1322859084147331113/95c7b07a3bbcb6c39571b940d350a31d.jpg?ex=67aa6fc7&is=67a91e47&hm=f6b90b633931e6777b013100770d5c0b0fd92231f41127153db7f745fcc96d1e&=&format=webp&width=868&height=1356)
+![Rona](https://i.postimg.cc/28BJYM1Z/95c7b07a3bbcb6c39571b940d350a31d.webp)
 
