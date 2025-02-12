@@ -1,6 +1,6 @@
 ---
 title: Eliza
-draft: false
+draft: true
 tags:
   - NPC
 ---

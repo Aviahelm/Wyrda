@@ -4,16 +4,20 @@ draft: false
 tags:
   - World
 ---
- 
+_"Where the river runs dark, and the law is just a memory."_
 
-Once a thriving waypoint for travellers en route to Waterdeep, the town of Mere now stands as a shadow of its former self. Nestled along the banks of the **Rithnal River**, which winds its way toward the dense, untamed jungle to the south, Mere was once known for its **lumber exports**—hardwoods harvested from the surrounding forests, crafted into fine furniture, sturdy ships, and tools. The town’s economy flourished under the protection of a local warrior clan that kept its roads safe and its people secure.
+Once a vital waypoint for travelers heading to the great city of Waterdeep, **Mere** is now a hollow reflection of its former self—a town where ambition turned to ruin, and ruin gave rise to darkness. Nestled along the banks of the **Rithnal River**, Mere was once renowned for its **fine hardwoods** and the master craftsmen who transformed them into ships, furniture, and tools prized across the land. It was a place of honest trade, protected by the vigilance of a proud warrior clan whose name was spoken with reverence across Skarn.
 
-But that was before the **massacre**.
+But that was before the **Night of Red Ash**.
 
-A brutal raid by bandits left the warrior clan in ruins, their stronghold burned, their name now little more than a whispered legend. With its protectors gone, Mere fell swiftly into lawlessness. Merchants and honest travellers abandoned it, favouring newer, safer routes. In their place came **opportunists, thieves, and outlaws**—those who saw Mere not as a home, but as a **fortress to be taken**.
+A brutal raid swept through Mere like a tempest, leaving its defenders slaughtered and its once-proud stronghold reduced to smoking rubble. The bandits who orchestrated the attack vanished into the hills, but their legacy of ruin remained. Without its protectors, Mere descended into chaos. Merchants rerouted their caravans. Wealthy patrons fled, leaving behind only their crumbling homes and empty storefronts.
 
-Now, Mere is **a town ruled by crime**. The remnants of its **rustic wooden buildings** stand in various states of decay, some repurposed as hideouts, others long abandoned. The **once-bustling market square** now serves as a den of illicit trade, where smuggled goods change hands under the cover of darkness. The old town hall, once a symbol of order, has been overtaken by a gang that acts as the town’s new ruling force, enforcing their own brutal laws.
+In their absence, the **desperate and the dangerous** moved in.
 
-Despite its fall, Mere remains **a haven for those who know how to navigate its dangers**. A mix of **Tabaxi, Orcs, Humans, and Elves** still call it home, some trapped by circumstance, others finding opportunity in the chaos. The river continues to flow, carrying whispers of the jungle beyond, where rumours speak of hidden wealth and forgotten magic.
+Mere is now a town ruled by shifting factions, each vying for control of its crumbling streets. The once-thriving **market square** is a haven for smugglers and cutthroats, where whispered deals take place beneath the sagging awnings of abandoned stalls. **The old town hall**, once a proud seat of governance, serves as the base for the strongest gang in the region—**The Black Fang**, whose leader, it is said, drinks from a cup carved from the skull of the last clan chieftain.
 
-Though the days of Mere as a beacon of trade are gone, it is far from dead. It is a town of secrets, of shifting allegiances, and of those who seek to carve power from the wreckage. The question is—**will Mere ever be reclaimed, or is it destined to rot in the hands of thieves and cutthroats?**
+Yet not all in Mere have succumbed to the darkness. A stubborn few refuse to abandon their home. **Fishers and ferrymen** still ply the river, their eyes sharp for signs of danger. **Artisans** continue their craft behind locked doors, offering their wares only to those they trust. Even in its decay, Mere draws wanderers and outcasts who seek opportunity amid its lawless streets, lured by the promise of hidden wealth and whispered tales of **the southern jungle’s forbidden treasures**.
+
+But survival in Mere requires more than cunning. Trust is a currency more precious than gold, and betrayal is never far behind. For those who dare to linger too long, the town offers but one lesson:
+
+**In Mere, the strong endure, and the weak are forgotten.**
