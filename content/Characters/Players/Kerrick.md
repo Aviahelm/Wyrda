@@ -5,7 +5,7 @@ tags:
   - Player
 enableToc: "false"
 ---
-Meet Kerrick. 
+
 Growing up in a Sewing shop located in the Empire of Aerys, he was taught from a young age to always keep up his image, "A first impression is everything" as they would always say. 
 
 Witnessing his parents be treated like trash by the nobles they worked with, and the guards treat the nobles with upmost respect. He vowed to bring change to the guards ways by climbing his way through the ranks. He wanted to see fairness for all people. 
