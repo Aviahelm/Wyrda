@@ -3,6 +3,7 @@ title: Tarvo
 draft: false
 tags:
   - Player
+  - Aerys
 enableToc: "false"
 ---
  

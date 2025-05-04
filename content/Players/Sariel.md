@@ -3,6 +3,7 @@ title: Sariel
 draft: false
 tags:
   - Player
+  - Waterdeep
 enableToc: "false"
 ---
  

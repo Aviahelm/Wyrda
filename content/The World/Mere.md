@@ -5,6 +5,8 @@ tags:
   - World
   - Mere
 ---
+![Mere](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/44870d7c-584e-45e0-9d99-501728bea5d1/d8145cx-75f44e8e-f84e-4b0a-bb89-ee5dba69627f.jpg/v1/fill/w_1176,h_679,q_70,strp/the_watchman_by_stayinwonderland_d8145cx-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODAwIiwicGF0aCI6IlwvZlwvNDQ4NzBkN2MtNTg0ZS00NWUwLTlkOTktNTAxNzI4YmVhNWQxXC9kODE0NWN4LTc1ZjQ0ZThlLWY4NGUtNGIwYS1iYjg5LWVlNWRiYTY5NjI3Zi5qcGciLCJ3aWR0aCI6Ijw9MTM4NSJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.jDkvU8VjSxydVqmuziBtCwpEBAvgiu7OozrLvAiEN5E)
+
 _"Where the river runs dark, and the law is just a memory."_
 
 Once a vital waypoint for travelers heading to the great city of Waterdeep, **Mere** is now a hollow reflection of its former self—a town where ambition turned to ruin, and ruin gave rise to darkness. Nestled along the banks of the **Rithnal River**, Mere was once renowned for its **fine hardwoods** and the master craftsmen who transformed them into ships, furniture, and tools prized across the land. It was a place of honest trade, protected by the vigilance of a proud warrior clan whose name was spoken with reverence across Skarn.
@@ -15,10 +17,13 @@ A brutal raid swept through Mere like a tempest, leaving its defenders slaughter
 
 In their absence, the **desperate and the dangerous** moved in.
 
-Mere is now a town ruled by shifting factions, each vying for control of its crumbling streets. The once-thriving **market square** is a haven for smugglers and cutthroats, where whispered deals take place beneath the sagging awnings of abandoned stalls. **The old town hall**, once a proud seat of governance, serves as the base for the strongest gang in the region—**The Black Fang**, whose leader, it is said, drinks from a cup carved from the skull of the last clan chieftain.
+Mere is now a town ruled by shifting factions, each vying for control of its crumbling streets. The once-thriving **market square** is a haven for smugglers and cutthroats, where whispered deals take place beneath the sagging awnings of abandoned stalls. **The old town hall**, once a proud seat of governance, serves as the base for the strongest gang in the region—**The Black Axes**, whose leader, it is said, drinks from a cup carved from the skull of the last clan chieftain.
+
+They say the gangs are looking for a specific person. A person who is said to have the power to unite Mere... or destroy it. A [[The Mere Quest|quest]] given to those brave enough. 
 
 Yet not all in Mere have succumbed to the darkness. A stubborn few refuse to abandon their home. **Fishers and ferrymen** still ply the river, their eyes sharp for signs of danger. **Artisans** continue their craft behind locked doors, offering their wares only to those they trust. Even in its decay, Mere draws wanderers and outcasts who seek opportunity amid its lawless streets, lured by the promise of hidden wealth and whispered tales of **the southern jungle’s forbidden treasures**.
 
 But survival in Mere requires more than cunning. Trust is a currency more precious than gold, and betrayal is never far behind. For those who dare to linger too long, the town offers but one lesson:
 
 **In Mere, the strong endure, and the weak are forgotten.**
+

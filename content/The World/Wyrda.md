@@ -5,7 +5,7 @@ tags:
 enableToc: "true"
 ---
 
-![Wyrda Regions](https://i.postimg.cc/mZcRcdcb/Wyrda.png)
+![Wyrda Regions](https://i.postimg.cc/tTjd1LpK/Wyrda.png)
 ### Varna
 
 _"A land of shadows and whispered rebellion."_
