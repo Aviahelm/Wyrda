@@ -11,13 +11,13 @@ _"Where the river runs dark, and the law is just a memory."_
 
 Once a vital waypoint for travelers heading to the great city of Waterdeep, **Mere** is now a hollow reflection of its former self—a town where ambition turned to ruin, and ruin gave rise to darkness. Nestled along the banks of the **Rithnal River**, Mere was once renowned for its **fine hardwoods** and the master craftsmen who transformed them into ships, furniture, and tools prized across the land. It was a place of honest trade, protected by the vigilance of a proud warrior clan whose name was spoken with reverence across Skarn.
 
-But that was before the **Night of Red Ash**.
+But that was before the **Night of the Red Raids**.
 
 A brutal raid swept through Mere like a tempest, leaving its defenders slaughtered and its once-proud stronghold reduced to smoking rubble. The bandits who orchestrated the attack vanished into the hills, but their legacy of ruin remained. Without its protectors, Mere descended into chaos. Merchants rerouted their caravans. Wealthy patrons fled, leaving behind only their crumbling homes and empty storefronts.
 
 In their absence, the **desperate and the dangerous** moved in.
 
-Mere is now a town ruled by shifting factions, each vying for control of its crumbling streets. The once-thriving **market square** is a haven for smugglers and cutthroats, where whispered deals take place beneath the sagging awnings of abandoned stalls. **The old town hall**, once a proud seat of governance, serves as the base for the strongest gang in the region—**The Black Axes**, whose leader, it is said, drinks from a cup carved from the skull of the last clan chieftain.
+Mere is now a town ruled by shifting factions, each vying for control of its crumbling streets. The once-thriving **market square** is a haven for smugglers and cutthroats, where whispered deals take place beneath the sagging awnings of abandoned stalls. **The old town hall**, once a proud seat of governance, serves as the base for the strongest gang in the region—**[[The Black Axes]]**, whose leader, it is said, drinks from a cup carved from the skull of the last clan chieftain.
 
 They say the gangs are looking for a specific person. A person who is said to have the power to unite Mere... or destroy it. A [[The Mere Quest|quest]] given to those brave enough. 
 
