@@ -1,12 +1,11 @@
 ---
-title: Kerrick
+title: Kerrick, the Dragon Slayer of the West
 draft: false
 tags:
+  - Kerrick
   - Player
 enableToc: "false"
 ---
-![Kerrick](https://i.postimg.cc/yx2b9Xbx/7b66bc65-8a54-4f46-9e79-851ea6fd70d3.webp)
-
 Kerrick was born in the backroom of a modest sewing shop nestled within the Empire of Aerys—a realm gilded in power, but fraying at the seams with inequality. His parents, a humble tailor and dressmaker, stitched silks for the highborn while being treated as little more than lint beneath a noble’s boot. From the moment he could thread a needle, Kerrick was taught: _“A first impression is everything.”_ And he took that lesson to heart.
 
 But beneath the gleam of polished buttons and embroidered hems, Kerrick watched. He watched how the nobility walked like gods, while guards bent their knees and their wills to them. He watched his parents shrink before those who could buy beauty but not respect. And he swore that one day, he would rise—_not_ for wealth or glory, but to restore dignity to the uniform, to become a guard who protected the people, not their oppressors.
@@ -29,11 +28,11 @@ The King summoned him once more. Gwendolyn had given birth before her flight. A 
 
 Zachariah and Kerrick had never been allies. Their respect for one another was like steel: cold, tempered, and prone to sparks. The King had always known Kerrick harbored feelings for Gwendolyn, which only deepened their unspoken rivalry. Yet, in a twisted act of trust, Zachariah entrusted **only Kerrick** with this sacred task. Perhaps because of his devotion. Perhaps to test him.
 
-Kerrick’s search led him to[[The Mere Quest| Mere]], thieves, and whispered deaths. His presence there turned heads, but none dared challenge the Dragon Slayer.
+Kerrick’s search led him to [[Mere]] —a city of shadows, thieves, and whispered deaths. His presence there turned heads, but none dared challenge the Dragon Slayer.
 
 Two days into his stay, fate kicked down the tavern doors—literally—in the form of a ragtag band of adventurers. Among them was [[Tarvo]], a wild-born ranger raised by the forests and beasts. Gruff and instinctive, Tarvo seemed like any other mercenary… until a series of clues—bloodlines, scars, and a mother’s letter—revealed the truth: **Tarvo was the lost prince. The son of Gwendolyn.**
 
-United by fate, the group turned their eyes to Mere’s corrupt mayor, **Mikhail**, who had been trafficking his own people and once imprisoned Gwendolyn herself. The Mayor’s ledgers told a grim tale—of a mother forced to flee during **The Red Raids**, a dark chapter in Mere’s history. To save her child, she had abandoned Tarvo and vanished into the night.
+United by fate, the group turned their eyes to Mere’s corrupt mayor, **Mikhail**, who had been trafficking his own people and once imprisoned Gwendolyn herself. The Mayor’s ledgers told a grim tale—of a mother forced to flee during [[The Red Raids]], a dark chapter in Mere’s history. To save her child, she had abandoned Tarvo and vanished into the night.
 
 Her last known destination: **Waterdeep**.
 
