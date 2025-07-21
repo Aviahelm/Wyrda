@@ -18,12 +18,14 @@ Yep! So we started with a one-shot of the story of [[Revellia]].
 
 The #Player's had fun and so did I and wanted to continue in this world and expand on their own characters. I like story building and as a result this came about. 
 
+## Who are you ?
 
+My name is Aviahelm, Pagan or Zenn. I'll sometimes be referred to by the players by either or depending on who they are. Aviahelm is my gamertag, Zenn is my Discord tag and Pagan was a character I played!
+
+I'm the GM of this story! I make all the stuff with the help of [[How we do D&D| so many lovely creators]].
 ## Who are the players ?
 
 Great Question!
-
-I'll start Alphabetically. 
 
 1. LeeKoii who plays [[Sariel]]
 2. Eyegum who plays [[Tarvo]]
@@ -38,7 +40,7 @@ Yeah! Probably.
 They're really cool. Some cool links to find them. 
 
 **Streamers**
-1. KawaiiDragon is also on [Twitch](https://www.twitch.tv/babykawaiidragon)
+1. KawaiiDragon is also on [Twitch](https://www.twitch.tv/babykdragon)
 2. LeeKoii is also also on [Twitch](https://www.twitch.tv/leekoii)
 3. MrReddiez is on [Twitch](https://www.twitch.tv/reddiez) 
 

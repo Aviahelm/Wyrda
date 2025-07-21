@@ -1,11 +1,13 @@
 ---
-title: Kerrick, the Dragon Slayer of the West
+title: Kerrick
 draft: false
 tags:
   - Kerrick
   - Player
 enableToc: "false"
 ---
+![Kerrick](https://i.postimg.cc/yx2b9Xbx/7b66bc65-8a54-4f46-9e79-851ea6fd70d3.webp)
+
 Kerrick was born in the backroom of a modest sewing shop nestled within the Empire of Aerys—a realm gilded in power, but fraying at the seams with inequality. His parents, a humble tailor and dressmaker, stitched silks for the highborn while being treated as little more than lint beneath a noble’s boot. From the moment he could thread a needle, Kerrick was taught: _“A first impression is everything.”_ And he took that lesson to heart.
 
 But beneath the gleam of polished buttons and embroidered hems, Kerrick watched. He watched how the nobility walked like gods, while guards bent their knees and their wills to them. He watched his parents shrink before those who could buy beauty but not respect. And he swore that one day, he would rise—_not_ for wealth or glory, but to restore dignity to the uniform, to become a guard who protected the people, not their oppressors.
@@ -20,11 +22,11 @@ Yet at the peak of his ascent, the dream unraveled.
 
 While away on a six-month campaign to pacify a dragon threat in the wild lands of Roh, Kerrick returned to find the world changed. Gwendolyn—his unreachable star—had married **Zachariah, Herald of the Sun**, and now bore the title **First Empress of Aerys**.
 
-Heartbroken, Kerrick continued to serve the crown, his loyalty unwavering, his heart quiet. For fifteen long years he bore the weight of his station… until the impossible happened. Gwendolyn vanished. Branded a traitor. A ghost fleeing her throne. Without her, the Empire no longer felt whole. And Kerrick? He withdrew. He returned to the silent rooms above his parents’ shop. Five years passed in shadow. His bright flame dulled to embers, and in the stillness, he began to see the Empire more clearly—its choices, its rot, its burdens.
+Heartbroken, Kerrick continued to serve the crown, his loyalty unwavering, his heart quiet. For fifteen long years he bore the weight of his station… until the impossible happened. Gwendolyn vanished. Died in the Red Raids. Without her, the Empire no longer felt whole. And Kerrick? He withdrew. He returned to the silent rooms above his parents’ shop. Five years passed in shadow. His bright flame dulled to embers, and in the stillness, he began to see the Empire more clearly—its choices, its rot, its burdens.
 
 Then came the knock on his door.
 
-The King summoned him once more. Gwendolyn had given birth before her flight. A son. A _prince_. Kerrick’s mission was clear: **Find the Empress. Locate the child. Bring them both home**—for the glory of the Empire and the peace of Zachariah’s legacy.
+The King summoned him once more. Gwendolyn had given birth before her flight. A son. A _prince_. Kerrick’s mission was clear: **Find the truth on the former Empress. Locate the child. Bring them both home**—for the glory of the Empire and the peace of Zachariah’s legacy.
 
 Zachariah and Kerrick had never been allies. Their respect for one another was like steel: cold, tempered, and prone to sparks. The King had always known Kerrick harbored feelings for Gwendolyn, which only deepened their unspoken rivalry. Yet, in a twisted act of trust, Zachariah entrusted **only Kerrick** with this sacred task. Perhaps because of his devotion. Perhaps to test him.
 

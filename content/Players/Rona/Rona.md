@@ -6,6 +6,7 @@ tags:
   - Waterdeep
 enableToc: "false"
 ---
+ ![Rona](https://i.postimg.cc/28BJYM1Z/95c7b07a3bbcb6c39571b940d350a31d.webp)
  
 Rona was born in a coastal city near Waterdeep, known for its bustling trade and dangerous waters. Her mother served as a city guard, while her father and brother managed a thriving fish trade, their success bolstered by her father’s mysterious magical talents.
 
@@ -19,5 +20,5 @@ There’s a fire in her—one even she doesn’t fully understand. Beneath the c
 
 Don't underestimate the powers slumbering inside her
 
-![Rona](https://i.postimg.cc/28BJYM1Z/95c7b07a3bbcb6c39571b940d350a31d.webp)
+
 
