@@ -6,8 +6,6 @@ tags:
   - Player
 enableToc: "false"
 ---
-![Kerrick](https://i.postimg.cc/yx2b9Xbx/7b66bc65-8a54-4f46-9e79-851ea6fd70d3.webp)
-
 Kerrick was born in the backroom of a modest sewing shop nestled within the Empire of Aerys—a realm gilded in power, but fraying at the seams with inequality. His parents, a humble tailor and dressmaker, stitched silks for the highborn while being treated as little more than lint beneath a noble’s boot. From the moment he could thread a needle, Kerrick was taught: _“A first impression is everything.”_ And he took that lesson to heart.
 
 But beneath the gleam of polished buttons and embroidered hems, Kerrick watched. He watched how the nobility walked like gods, while guards bent their knees and their wills to them. He watched his parents shrink before those who could buy beauty but not respect. And he swore that one day, he would rise—_not_ for wealth or glory, but to restore dignity to the uniform, to become a guard who protected the people, not their oppressors.
@@ -38,4 +36,6 @@ United by fate, the group turned their eyes to Mere’s corrupt mayor, **Mikhail
 
 Her last known destination: **Waterdeep**.
 
-Now, with old loyalties tangled and the weight of destiny on his shoulders, **Kerrick walks a road between Empire and rebellion**—between duty and desire—haunted by the past and bound to a future not yet written.
+Now, with old loyalties tangled and the weight of destiny on his shoulders, **Kerrick walks a road between Empire and rebellion**—between duty and desire—haunted by the past and bound to a future not yet written..
+
+![Kerrick](https://i.postimg.cc/W4VRkvbt/STARK-portraits-KERRICK-BG.png)

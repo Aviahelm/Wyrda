@@ -1,6 +1,6 @@
 ---
 title: Yehnora
-draft: false
+draft: true
 tags:
   - NPC
 ---

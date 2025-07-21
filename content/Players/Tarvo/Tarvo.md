@@ -6,7 +6,6 @@ tags:
   - Aerys
 enableToc: "false"
 ---
- 
 Taught by his mother how to read at an early age he spent in his days in the clan library. Even there when his clan was massacred by savage bandits. Until his mother took him down to the river to escape by boat. 
 
 Sadly his mother knew that the bandits would chase after her even if she escaped. With a heavy heart she used a spell to put him asleep as she used herself as a distraction. 
@@ -17,4 +16,4 @@ Years had past and sadly he had forgotten about his mother, her name, her face a
 
 All he had of his old life was a book about his favourite characters name. Tarvo.
 
-![Tarvo](https://i.postimg.cc/v8KjpbZy/tarvo.webp)
+ ![Tarvo](https://i.postimg.cc/wTSY9NCX/STARK-portraits-TARVO-BG.png)
