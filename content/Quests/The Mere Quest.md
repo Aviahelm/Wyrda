@@ -26,3 +26,20 @@ She gives them an exaggerated grin before turning away to fill another mug, thro
 
 _"Just try not to make a mess on the way out, yeah? I’d hate to have to clean up after another batch of overconfident corpses."_
 
+## Mere's current finale
+
+From the moment the group stepped into Mere, they realized the city was far more overwhelming than anyone had warned. Their arrival plunged them into a brutal gang war—something the quest had conveniently left out. Each faction sought control of Daveed, a fractured soul whose shattered power was bound to the leaders of the gangs. Caught in the crossfire, the group was tasked with aiding one side or another, each faction driven by secrets and hidden motives.
+
+Arispira, raised by her adopted family, had believed her true parents were long dead. But Mere revealed a different truth—her parents were alive, somewhere still hidden in the world. This revelation shook her foundations and opened new paths she never expected.
+
+Kerrick had come searching for answers about Gwendolyn, desperate to learn what had become of her and her missing child. No one anticipated that the lost child was Tarvo—raised by the jungle, abandoned yet alive—unknowingly tied to the family he never knew.
+
+Meanwhile, Rona and Sariel faced their own reckoning. Back in Waterdeep, a bitter war brewed between Rebels led by Rona’s father and brother, and Nobles connected to Sariel’s family. Old loyalties and ancient grievances threatened to spill into bloodshed.
+
+The group uncovered a terrible truth: Daveed’s soul had been shattered, each gang leader clutching a fragment bound by dark curses. Their task became clear—reunite Daveed’s pieces and confront the heavy toll the curse exacted on them all.
+
+Rona took the ring from Veronica, Kerrick tore the chestplate from Daveed’s corpse, and Arispira was entrusted with a ring from Cassian—the final piece needed to complete the ritual. But the curses had grown too strong, too burdensome for any one person.
+
+After the ritual, Daveed’s madness trapped them in his mindspace, forcing them to confront the consuming curses—rage, indifference, paranoia—that gnawed at their resolve. Only when they convinced Daveed they would return the shards did he release them, completing the ritual. But the weight of those emotions overwhelmed the broken Daveed, culminating in a brutal, chaotic confrontation where the group was forced to kill him to stop him from destroying them all.
+
+Returning to the factions, they found the gangs still vying for power. With Mikhail dead, each offered gold to eliminate the last leader. Then Jorren stepped forward with another path: place him in control, and he would enforce a fragile peace—the Rule of Three—to end the needless death.
