@@ -6,7 +6,7 @@ tags:
   - Waterdeep
 enableToc: "false"
 ---
-Rona was born in a coastal city near Waterdeep, known for its bustling trade and dangerous waters. Her mother served as a city guard, while her father and brother managed a thriving fish trade, their success bolstered by her father’s mysterious magical talents.
+Rona was born in a coastal city near [[Waterdeep]], known for its bustling trade and dangerous waters. Her mother served as a city guard, while her father and brother managed a thriving fish trade, their success bolstered by her father’s mysterious magical talents.
 
 Unlike the rest of her family, Rona had no gift for magic. Instead, she found her passion in storytelling—spinning tales so vivid and captivating that they earned her a place among merchants and travelers.
 

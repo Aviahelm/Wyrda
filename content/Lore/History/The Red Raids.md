@@ -10,7 +10,7 @@ _Published by the Imperial Academy of Records and Truth, 7th Edition_
 
 **Chapter XII – The Red Raids and the Rise of Imperial Stewardship Beyond Borders**
 
-In the autumn of the 87th Year of First Light, a tragedy of profound scope unfolded across the coastal regions of the western continent. The cities of Revellia, Waterdeep, and Mere—at the time independent and unaligned with the Empire—were struck by a swift and brutal series of assaults now known as the _Red Raids_.
+In the autumn of the 87th Year of First Light, a tragedy of profound scope unfolded across the coastal regions of the western continent. The cities of [[Revellia]], [[Waterdeep]], and [[Mere]]—at the time independent and unaligned with the Empire—were struck by a swift and brutal series of assaults now known as the _Red Raids_.
 
 Though these cities had long prided themselves on their autonomy, their fragmented defenses proved insufficient in the face of such unrelenting violence. Over the course of less than a fortnight, raiders of unknown origin descended upon the coasts. Emerging from the sea under cover of night, these barbarous forces ransacked entire districts, set fire to marketplaces and granaries, and committed atrocities that echo grimly in the records of the age. No distinction was made between soldier and civilian, noble or peasant. The carnage was indiscriminate, and the loss incalculable.
 

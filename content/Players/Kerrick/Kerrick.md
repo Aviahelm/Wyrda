@@ -18,9 +18,9 @@ Still, Kerrick pressed on, rising further. His deeds became legend. They say he 
 
 Yet at the peak of his ascent, the dream unraveled.
 
-While away on a six-month campaign to pacify a dragon threat in the wild lands of Roh, Kerrick returned to find the world changed. Gwendolyn—his unreachable star—had married **Zachariah, Herald of the Sun**, and now bore the title **First Empress of Aerys**.
+While away on a six-month campaign to pacify a dragon threat in the wild lands of Myrcath, Kerrick returned to find the world changed. Gwendolyn—his unreachable star—had married **Zachariah, Herald of the Sun**, and now bore the title **First Empress of Aerys**.
 
-Heartbroken, Kerrick continued to serve the crown, his loyalty unwavering, his heart quiet. For fifteen long years he bore the weight of his station… until the impossible happened. Gwendolyn vanished. Died in the Red Raids. Without her, the Empire no longer felt whole. And Kerrick? He withdrew. He returned to the silent rooms above his parents’ shop. Five years passed in shadow. His bright flame dulled to embers, and in the stillness, he began to see the Empire more clearly—its choices, its rot, its burdens.
+Heartbroken, Kerrick continued to serve the crown, his loyalty unwavering, his heart quiet. For fifteen long years he bore the weight of his station… until the impossible happened. Gwendolyn vanished. Died in [[The Red Raids]]. Without her, the Empire no longer felt whole. And Kerrick? He withdrew. He returned to the silent rooms above his parents’ shop. Five years passed in shadow. His bright flame dulled to embers, and in the stillness, he began to see the Empire more clearly—its choices, its rot, its burdens.
 
 Then came the knock on his door.
 
@@ -32,9 +32,9 @@ Kerrick’s search led him to [[Mere]] —a city of shadows, thieves, and whispe
 
 Two days into his stay, fate kicked down the tavern doors—literally—in the form of a ragtag band of adventurers. Among them was [[Tarvo]], a wild-born ranger raised by the forests and beasts. Gruff and instinctive, Tarvo seemed like any other mercenary… until a series of clues—bloodlines, scars, and a mother’s letter—revealed the truth: **Tarvo was the lost prince. The son of Gwendolyn.**
 
-United by fate, the group turned their eyes to Mere’s corrupt mayor, **Mikhail**, who had been trafficking his own people and once imprisoned Gwendolyn herself. The Mayor’s ledgers told a grim tale—of a mother forced to flee during [[The Red Raids]], a dark chapter in Mere’s history. To save her child, she had abandoned Tarvo and vanished into the night.
+United by fate, the group turned their eyes to Mere’s corrupt mayor, [[Mikhail Valeska|Mikhail]], who had been trafficking his own people and once imprisoned Gwendolyn herself. The Mayor’s ledgers told a grim tale—of a mother forced to flee during [[The Red Raids]], a dark chapter in Mere’s history. To save her child, she had abandoned Tarvo and vanished into the night.
 
-Her last known destination: **Waterdeep**.
+Her last known destination: [[Waterdeep]].
 
 Now, with old loyalties tangled and the weight of destiny on his shoulders, **Kerrick walks a road between Empire and rebellion**—between duty and desire—haunted by the past and bound to a future not yet written..
 

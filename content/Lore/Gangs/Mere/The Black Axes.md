@@ -1,7 +1,8 @@
 ---
 title: The Black Axes
 draft: false
-tags: 
+tags:
+  - Mere
 enableToc: "false"
 ---
 ![The Black Axes](https://i.postimg.cc/9My5wKVC/Black-Axes.png) 
@@ -13,7 +14,7 @@ _“You askin’ about the Axes? Careful where you toss that name around.”_
 
 “They say Mere’s black market beats to one rhythm — the sound of cleaved bone. That’d be the Black Axes. Used to be just another merc band, carving paths through the wilds with real axes, clearing land for coin. [[Mikhail Valeska|Mikhail]] led ‘em then too. Back when his hands were only half as red.”
 
-“But after the Red Raids, something twisted. Maybe it broke him, maybe it woke him. Now they deal in flesh. Not just muscle-for-hire — we’re talkin’ organs, slaves, rare beasts… anything with blood that bleeds and coin that clinks. You lose a friend in Mere, don’t waste time lookin’. Odds are the Axes already sold the pieces.”
+“But after [[The Red Raids]], something twisted. Maybe it broke him, maybe it woke him. Now they deal in flesh. Not just muscle-for-hire — we’re talkin’ organs, slaves, rare beasts… anything with blood that bleeds and coin that clinks. You lose a friend in [[Mere]], don’t waste time lookin’. Odds are the Axes already sold the pieces.”
 
 “Biggest force in the city. Strongest, too. Not because they’re brave — but ‘cause they got no line they won’t cross. They still carry axes, yeah… but now it ain’t for trees.”
 

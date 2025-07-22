@@ -11,7 +11,7 @@ _"Where the river runs dark, and the law is just a memory."_
 
 Once a vital waypoint for travelers heading to the great city of Waterdeep, **Mere** is now a hollow reflection of its former self—a town where ambition turned to ruin, and ruin gave rise to darkness. Nestled along the banks of the **Rithnal River**, Mere was once renowned for its **fine hardwoods** and the master craftsmen who transformed them into ships, furniture, and tools prized across the land. It was a place of honest trade, protected by the vigilance of a proud warrior clan whose name was spoken with reverence across Skarn.
 
-But that was before the **Night of the Red Raids**.
+But that was before the Night of [[The Red Raids]].
 
 A brutal raid swept through Mere like a tempest, leaving its defenders slaughtered and its once-proud stronghold reduced to smoking rubble. The bandits who orchestrated the attack vanished into the hills, but their legacy of ruin remained. Without its protectors, Mere descended into chaos. Merchants rerouted their caravans. Wealthy patrons fled, leaving behind only their crumbling homes and empty storefronts.
 
@@ -27,3 +27,8 @@ But survival in Mere requires more than cunning. Trust is a currency more precio
 
 **In Mere, the strong endure, and the weak are forgotten.**
 
+## Credits
+
+Art by stayinwonderland
+
+DeviantArt: <https://www.deviantart.com/stayinwonderland/art/The-Watchman-485602593>

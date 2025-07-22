@@ -22,3 +22,5 @@ Hi! To make this campaign happen, I drew from a number of amazing creators who m
 1. [JB2A](https://www.patreon.com/c/JB2A/home)
 	 * Used for Token Animations for Spells and actions!
 2. [Boss Loot]
+	* Used for Token Animations
+	
