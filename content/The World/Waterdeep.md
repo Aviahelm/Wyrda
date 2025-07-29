@@ -1,6 +1,6 @@
 ---
 title: Waterdeep
-draft: true
+draft: false
 tags:
   - World
   - "#Waterdeep"
