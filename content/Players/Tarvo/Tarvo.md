@@ -6,8 +6,7 @@ tags:
   - Aerys
 enableToc: "false"
 ---
-![Tarvo](images/STARK-portraits-TARVO-BG.png)
-
+![Tarvo](/static/images/tarvo.png)
 **Played by Dingus**
 
 Taught by his mother how to read at an early age he spent in his days in the clan library. Even there when his clan was massacred by savage bandits. Until his mother took him down to the river to escape by boat. 

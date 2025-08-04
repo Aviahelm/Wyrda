@@ -6,7 +6,7 @@ tags:
   - Waterdeep
 enableToc: "false"
 ---
- ![Sariel](https://i.postimg.cc/657Nscm6/STARK-portraits-SARIEL-BG.png)
+![Sariel](/static/images/sariel.png)
 
 **Played by LeeKoii**
 
