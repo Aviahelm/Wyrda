@@ -15,7 +15,8 @@ Hi! To make this campaign happen, I drew from a number of amazing creators who m
     * Maps and tokens used in this game were created using assets from Forgotten Adventures
 3. **[2-Minute Tabletop](https://2minutetabletop.com/)**  
     * Maps were created using assets from 2-Minute Tabletop
-
+4. **[HeroForge](https://www.heroforge.com/)**
+	 * Character tokens were made with assets from HeroForge
 
 ## Animations
 

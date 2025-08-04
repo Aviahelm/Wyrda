@@ -6,6 +6,10 @@ tags:
   - Waterdeep
 enableToc: "false"
 ---
+ ![Sariel](https://i.postimg.cc/657Nscm6/STARK-portraits-SARIEL-BG.png)
+
+**Played by LeeKoii**
+
 Anyone who had the chance to meet **Sariel** would likely tell you the same thing:  
 They knew _close to nothing_ about him.
 
@@ -48,5 +52,5 @@ The road to Waterdeep was paved with uncertainty. But before the city even came 
 
 **“Promise me—no matter what happens in Waterdeep, we stay friends.”**
 
- ![Sariel](https://i.postimg.cc/657Nscm6/STARK-portraits-SARIEL-BG.png)
+
 
