@@ -6,8 +6,6 @@ tags:
   - NPC
 enableToc: "false"
 ---
-![Veronica](https://i.postimg.cc/sX1Q5JwZ/veronica.png)
-
 ## Backstory 
 
 Born into the underbelly of Mere, Veronica never knew her parents. She was raised by smugglers, thieves, and mercenaries who ran the town’s criminal networks. As a child, she learned the art of survival—how to read people, how to lie convincingly, and how to disappear when necessary.

@@ -22,7 +22,7 @@ The #Player's had fun and so did I and wanted to continue in this world and expa
 
 My name is Aviahelm, Pagan or Zenn. I'll sometimes be referred to by the players by either or depending on who they are. Aviahelm is my gamertag, Zenn is my Discord tag and Pagan was a character I played!
 
-I'm the GM of this story! I make all the stuff with the help of [[How we do D&D| so many lovely creators]].
+I'm the GM of this story! I make all the stuff with the help of[[How we do D&D| so many lovely creators]].
 ## Who are the players ?
 
 Great Question!
@@ -47,6 +47,17 @@ They're really cool. Some cool links to find them.
 **Artists**
 1. LeeKoii has commissions open on [VGen](https://vgen.co/leekoii)
 2. KawaiiDragon has commissions open on [VGen](https://vgen.co/BabyKDragon)
+
+**Writers**
+1. Jade has written some works on [ArchiveOfOurOwn](https://archiveofourown.org/users/Jadethecorn/profile)
+	* Please note there might be NSFW elements. 
+
+## You have guest roles?
+
+Yeah, guests are a great way for people we love to come join.
+
+1. Magnolia who streams on [Twitch](https://www.twitch.tv/missmagnoliagaming)
+2. Yoof Ools who is played by [Going2h on Twitch](https://www.twitch.tv/going2h)
 
 ## How do you do D&D ?
 

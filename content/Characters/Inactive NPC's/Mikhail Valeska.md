@@ -6,8 +6,6 @@ tags:
   - NPC
 enableToc: "false"
 ---
-![Victor](https://i.postimg.cc/GpnC1PBn/00011-1732341537.png)
-
 ## Backstory
 
 Mikhail wasn’t born into crime—he chose it. Raised in a wealthy merchant family in the empire’s outer territories, he had everything: education, privilege, and connections. But business was never enough for him. He found trade dull unless it involved control—control over people, over lives.

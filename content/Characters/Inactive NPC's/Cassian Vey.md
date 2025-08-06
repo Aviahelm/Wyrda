@@ -6,7 +6,6 @@ tags:
   - NPC
 enableToc: "false"
 ---
-![Cassian Vey](https://i.postimg.cc/Hs0pJJzF/cassian.png)
 ## Backstory
 
 Cassian Vey is the shadowy figure behind the **Dishonored**, though no one speaks his name openly. He’s known to the world as the dealer at one of [[Mere]]’s most exclusive underground casinos, where games of fortune and fate are played with as much skill as deception. He wears a tailored silk outfit that speaks of wealth, but his true power isn’t in his clothes—it’s in the way he moves, in the quiet authority that follows him.

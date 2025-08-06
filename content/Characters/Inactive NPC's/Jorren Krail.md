@@ -4,7 +4,6 @@ draft: false
 tags: 
 enableToc: "false"
 ---
-![Jorren Krail](https://i.postimg.cc/rF2VFG1S/jorren.png)
 ## Backstory
 
 Jorren Krail is the figurehead of the **Dishonored**, though few truly know him. His reputation is built on whispers of brutality and cold calculation, and those who’ve met him rarely leave unscathed. If they do, it’s not by accident—they’ve been spared for a reason. He is an orc of immense strength, both physically and in will, and commands respect simply by existing.
