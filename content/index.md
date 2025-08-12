@@ -29,9 +29,8 @@ Great Question!
 
 1. LeeKoii who plays [[Sariel]]
 2. Eyegum who plays [[Tarvo]]
-3. kawaiidragon1924 who plays [[Arispira]]
-4. jeido0jadethecorn who plays [[Rona]]
-5. mrreddiez who plays [[Kerrick]] and formerly [[Pymis]]
+3. jeido0jadethecorn who plays [[Rona]]
+4. mrreddiez who plays [[Kerrick]] and formerly [[Pymis]]
 
 ### Hmm some of those names sound familiar...
 
@@ -40,13 +39,11 @@ Yeah! Probably.
 They're really cool. Some cool links to find them. 
 
 **Streamers**
-1. KawaiiDragon is also on [Twitch](https://www.twitch.tv/babykdragon)
-2. LeeKoii is also also on [Twitch](https://www.twitch.tv/leekoii)
-3. MrReddiez is on [Twitch](https://www.twitch.tv/reddiez) 
+1. LeeKoii is also also on [Twitch](https://www.twitch.tv/leekoii)
+2. MrReddiez is on [Twitch](https://www.twitch.tv/reddiez) 
 
 **Artists**
 1. LeeKoii has commissions open on [VGen](https://vgen.co/leekoii)
-2. KawaiiDragon has commissions open on [VGen](https://vgen.co/BabyKDragon)
 
 **Writers**
 1. Jade has written some works on [ArchiveOfOurOwn](https://archiveofourown.org/users/Jadethecorn/profile)
@@ -56,8 +53,9 @@ They're really cool. Some cool links to find them.
 
 Yeah, guests are a great way for people we love to come join.
 
-1. Magnolia who streams on [Twitch](https://www.twitch.tv/missmagnoliagaming)
-2. Yoof Ools who is played by [Going2h on Twitch](https://www.twitch.tv/going2h)
+1. BabyKawaiiDragon who plays [[Arispira]] and is also on [Twitch](https://www.twitch.tv/babykdragon)
+2. Magnolia who streams on [Twitch](https://www.twitch.tv/missmagnoliagaming)
+3. Yoof Ools who is played by [Going2h on Twitch](https://www.twitch.tv/going2h)
 
 ## How do you do D&D ?
 

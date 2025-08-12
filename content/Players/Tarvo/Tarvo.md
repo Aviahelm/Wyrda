@@ -9,13 +9,29 @@ enableToc: "false"
 ![Tarvo](/static/images/tarvo.png)
 **Played by Dingus**
 
-Taught by his mother how to read at an early age he spent in his days in the clan library. Even there when his clan was massacred by savage bandits. Until his mother took him down to the river to escape by boat. 
+At an earlier time in his life, he was known as Adam. His parents were the emperor, Zachariah, and his mother, Gwendolyn.
 
-Sadly his mother knew that the bandits would chase after her even if she escaped. With a heavy heart she used a spell to put him asleep as she used herself as a distraction. 
+On the night of [[The Red Raids]], Adam was still a young boy. He ran with his mother through smoke and screaming until they reached the river of [[Mere]]. Faced with an unthinkable choice, Gwendolyn placed him under a sleep spell. His last sight was her face—tear-streaked, trembling—and then blackness.
 
-Taken by the current of the river he lay awake in an unfamiliar place, the jungle. There he struggled for survival and had to leave his modern instincts for primal animalistic instincts. 
+When he woke, the world was gone. So was she.
 
-Years had past and sadly he had forgotten about his mother, her name, her face and even her name in a matter of fact he forgot his own name. 
+The boat drifted for days, maybe weeks. Hunger carved him hollow. His lips split and bled. His mind frayed. He clutched a single book—its pages warped from river spray—because it was the only thing left that felt real.
 
-All he had of his old life was a book about his favourite characters name. Tarvo.
+He washed ashore on a place that didn’t know his name and didn’t care. There were no warm fires. No kind faces. Only the sharp truth: live or die.
+
+Every day, his body weakened, but his instincts sharpened. He learned to fight for scraps. To snarl at the sight of another starving thing. To sink teeth into flesh if it meant another breath.
+
+The days blurred. The suns fell and rose without meaning. The boy called Adam faded. Gwendolyn was a memory with no shape.
+
+Kill.
+
+Eat.
+
+Breathe.
+
+What was his name?
+
+Book. Tarvo.
+
+_"Tarvo."_
 
