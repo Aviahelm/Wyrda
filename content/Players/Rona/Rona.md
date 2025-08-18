@@ -39,7 +39,7 @@ Beneath the charm and performance, a power waited. Unnamed, unexplained. But pre
 Then she met **them**.
 
 The adventuring party she joined wasn’t just a way to earn coin or collect stories. Slowly, and without realizing it, she began to care. To protect.  
-Years later, she would pass her treasured flute to **Eliza**, a sickly girl she protected during [[The Revellia Quest]]. Because beneath the brightness and bravado, Rona’s heart beat loudest for the forgotten—for those left behind by the people who should have loved them.
+Years later, she would pass her treasured flute to **Eliza**, a sickly girl she protected during [[The Revellia Quest]]. Because beneath the brightness and bravado, Rona’s heart beat loudest for the forgotten, for those left behind by the people who should have loved them.
 
 Not wanting to part with her newfound companions, Rona followed them to [[Mere]], a city drowning in shadows and secrets. Mere took something from her. Twisted her thoughts through the curse of an object she took on willingly, for the sake of a city not her own. But it also gave her something she never expected —  the **need** to rely on others.
 
