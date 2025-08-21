@@ -32,7 +32,11 @@ Daveed’s heart beats within them, but it no longer beats with passion. It tick
 
 ## The Group's Influence
 
-Cassian Vey no longer carries the curse of Daveed’s heart. It was given to [[Arispira]] with a smile on his face.
+As the group made their way to his casino. He was a little surprised they took up his game. A simple game of probability stacked in their favor. At least that's what it seemed like. Through this he was able to learn and reveal a lot of information he had obtained from the Black Roses. 
+
+Curiously, it seemed he had gained more than he revealed as he saw [[Sariel]]'s expression once he had revealed his secret. Something about that flickered some sort of emotion in him. Something dormant that he wondered what it was. He wasn't surprised when Sariel had visited him that night however something had stopped him from giving it to Sariel. 
+
+Call it a curiousity as he gave the curse of Daveed’s heart to [[Arispira]] with a smile on his face.
 
 The weight that once dulled his emotions—his empathy and his sorrow—has passed to another. His thoughts are his own now, clearer and sharper. And in that clarity, the guilt has returned. Every move he made in the name of revolution, every innocent left broken in the wake of strategy, lingers now like ghosts at the edge of his mind. He sees the path the Dishonored have taken, the compromises and the cruelty, and wonders if he led them there with too steady a hand.
 
