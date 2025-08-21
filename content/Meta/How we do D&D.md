@@ -69,7 +69,6 @@ A lot of this I use for animation or to trigger things. Definitely check them ou
 - [Monk's Tokenbar](https://github.com/ironmonk108/monks-tokenbar)
 - [Monk's Active Tile Triggers](https://github.com/ironmonk108/monks-active-tiles)
 - [Tile Scroll](https://github.com/theripper93/tile-scroll)
-- [Token Magic FX](https://github.com/Feu-Secret/Tokenmagic)
 
 ### Scene & UI Enhancements
 
