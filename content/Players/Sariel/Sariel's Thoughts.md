@@ -7,30 +7,27 @@ enableToc: "false"
  
 ## Sariel's General Thoughts
 
-When I was younger, the dream of becoming an adventurer seemed so far away. The idea of chasing quest after quest, meeting and helping new people–all dampened by the rigid routines and expectations. … I’m free of that now, aren’t I? Well, for the most part. I’ve found friends, real ones this time, I hope. I don’t want to lose them. I… don’t think I can handle that.
+I thought it couldn’t get any worse, but my nerves are getting to me. My blade doesn’t cut where I want it to, and every bone in my body wants nothing more than to flee. If I couldn’t handle a fight with a simple hobgoblin, there’s absolutely no chance for me if we meet _him_.
 
-But now, we’re headed to Waterdeep. The laughter and jokes amongst the group keeps my thoughts from drifting to gloom, but each turn of the wagon wheels only worsens my anxiety. I’ve lived as “Sariel” for eight years, and I know that the moment we step foot there, it’ll be difficult to keep playing pretend. For now, there’s still time. There’s more important things going on than my troubles.
+Is it really a fight I want? No. Absolutely not. I want to leave this city, but I cannot. I’ve made a promise, after all. The guards seem to fear me. Whatever happens, I cannot pretend to be someone I’m not. I can’t do that again.
 ## Sariel's Thoughts on the group
 
 ### [[Arispira]]
 
-Arispira was a boost of self assuredness that I could never quite understand, but it was welcome. Every time I wracked my thoughts for words, she would have something to say, more often than not it would get us where we needed to be—unless it involved gold. She was an odd one, but the same could be said for the entire group.
+So, she’s chosen to leave us. I don’t fully understand why, but she looked troubled in Mere. I hope she finds the answers she’s looking for. Perhaps we may meet again, one day.
 
 ### [[Kerrick]]
 
-Kerrick feels like an anchor. The world might be a tumultuous mess, but he just seems so sturdy and capable. Sometimes he feels like a father, looking out for the entire group. Many people we’ve met make fun of his age, but I see a lot of wisdom in him. It’s pretty cool to see another warlock in action, after all the scribbled notes I’ve gone through. There’s a lot I still have to learn, and I hope I’m able to learn from him. He carries himself with a gentlemanly air that reminds me of some people in the halls of the manor, and yet he carves his own path in life.
+He’s so capable. Watching him in combat is an honour, especially after all my own fumbles. He’s observant too, I didn’t think he would overhear the guards’ words. The truth is at the tip of my tongue whenever he questions me, but I’m afraid of how he would react. He takes good care of Tarvo. I… Never mind.
 ### [[Rona]]
 
-Rona is the exact definition of a wildcard. When we first met, I thought she was a little eccentric but brave. Maybe a little _too_ brave, there was that close-call with a tavern brawl. But she’s exciting, she brings this refreshing breeze to the group, and I find myself looking towards her whenever something feels amiss. She’s the kind of person my family wouldn’t approve of. Seeing her endure the challenges from Daveed’s soul revealed another side of her that she doesn’t wear on her sleeve. I worry about her, and I’m afraid of what we’ll find in Waterdeep.
-
-I care for her.
+It’s strange having someone believe in me the way she does. I feel the bardic blessing she places on me whenever we fight, and I know my ears turn red whenever I make a fool of myself in front of her. Perhaps it’s because she’s so impressive and confident. We’re both scared of this place, and yet she talks to the guards as if she has nothing bothering her. I’m glad I have a friend like her on my side. *She thinks I’m pretty. That’s new.*
 ### [[Tarvo]]
 
-Tarvo is fascinating. He’s intimidating in the way an experienced hunter is, yet sometimes quite comical in the way he handles things. After being on the receiving end of one of his arrows, I know it’s best to stay on his good side. But underneath that wild exterior, we’ve seen something more. I’ll never forget the look on his face when we found that storybook. My heart breaks for him… I really hope that we’re able to find his mother.
+All it took was a kick of the tavern door, and suddenly I feel taken back to the first time he’d done it. For a moment, I felt like I could laugh off the tenseness—he eases the constant surge of worries on my mind and lets me distract myself, even for a second or two. I wish we could talk more, so that he’d see me as more than a pirate. I should probably fix the way I dress.
 
 ## Sariel's Thoughts on specific NPCs
 
-### [[Cassian Vey]]
+### Faust
 
-I never thought I would be into a man so haunted by his past decisions. He’s aggravating, knows exactly which buttons to push. He's regretfully charming. I can’t believe he brought _that guy_ up.
-I can’t believe I still slept with him. What in the hells is wrong with me? I’m never speaking of this again. 
+*Oh no.*

@@ -8,38 +8,44 @@ enableToc: "false"
 ---
 ## Kerrick's General Thoughts
 
-First impressions often linger longer than they should. Mine were not kind. I saw them as scattered, ill-mannered, and careless with the simplest courtesies. Misfits, I thought. Not the sort of company one would trust with matters of weight.
+I find myself increasingly contemplative as our journey progresses. There is a tension among us, subtle, but persistent. Waterdeep weighs on the minds of some. I suspect their worries stem from past entanglements, perhaps family or unfinished business. One among us carries knowledge they are not yet willing to share, while another seems baffled by the recognition they receive in the streets, as though unaware of their own reputation.
 
-In time, I learned how wrong I had been. They welcomed me without hesitation, even when the truths of my past were revealed. In Mere I felt a stranger, my armor too polished and my voice too rigid for such a place. Yet they fit the streets as though they had always walked them, and through that familiarity they gave me direction. Their strengths became a guide when my own faltered.
+Though this city is new to me, I take some comfort in knowing that most of my companions appear just as unfamiliar with its ways. We are, it seems, a family bound by purpose, yet separated by secrets.
 
-When Mikhail fell, I understood the bond more clearly. This is not a band of convenience. These are companions I would trust to guard my back in places where light dares not reach.
+### On Waterdeep
 
-Family is a word I rarely speak, for it carries weight. With them, the word feels right. If blood must be spilled to keep them safe, I will not hesitate.
+Waterdeep is, at first glance, a marvel. Its architecture speaks of centuries of care and craftsmanship, this place is like a lighthouse of civilization, streets brimming with color and commerce. Yet beneath that splendor lies unease.
+
+The attack outside the gate was concerning to say the least. Should there be unrest within the city, it would be wise to remain inconspicuous. The last thing I need is to be implicated, especially given my heritage. The name of Aerys carries weight here, and not the kind that earns one a welcome.
+
+For now, I keep my head down and my blade sheathed, but the city watches, and I shall watch back, For if there is any information to find of Gwendolyn, I'll leave no stone left unturned to uncover it. 
 
 ## Kerrick's Thoughts on the group
 
-### [[Arispira]]
-
-On any ordinary day I would have been ordered to drag someone like Arispira before the magistrates. She lives on the wrong side of the law and carries herself as though she owes nothing to it. Yet there is something different about her. It feels as though her thefts carry purpose, whether to help those beneath the heel of nobles or to fill her own purse. I cannot fault her for that. My parents were once treated as vermin by the noble class, so I know too well how heavy that boot can fall.
-
 ### [[Rona]]
 
-Rona often finds herself tangled in awkward exchanges, and I have had to step in more than once to ease the tension. Somehow she always lands on her feet regardless. There is something about her that feels split, as if she is always half-prepared to leave us behind. I wonder what it is that keeps her so divided, and I hope in time she will trust me enough to tell me.
+Rona wears her unease like a shroud. There is something in this city that unsettles her deeply. I’ve noted the closeness growing between her and Sariel. They share a quiet understanding, a silent language built not only on words but almost seem to stem from shared experience.
+
+If I were to speculate, and I often do, there is more between them than mere camaraderie. Perhaps it is trauma that binds them. If so, then I wonder, whose past are we walking into?
 
 ### [[Sariel]]
 
-Sariel possesses a depth of empathy that binds this group together more than anything else. He gives of himself without hesitation, caring for us ten times more than he does for his own well-being. I cannot yet claim to know much about his history, yet I suspect it holds scars that explain both his distance and his kindness. It is a rare man who can be guarded and selfless at the same time.
+Sariel is, without question, a curious individual. I cannot yet determine whether he is a man of influence or merely resembles one. Regardless, the effect is the same. People defer to him with remarkable deference, even caution. It is almost unsettling to watch. 
+
+There is power in mystery, and Sariel wields it, whether knowingly or not. I intend to learn more of this strange phenomenon, though I must tread carefully. Waterdeep is not the place to draw undue attention, not for one such as myself.
 
 ### [[Tarvo]]
 
-Tarvo is in many ways the reflection of everything I was trained not to become. He is raw, primal, and driven by survival above all else. I understand, though, that this life was forced upon him rather than chosen. Learning that Tarvo was Adam reshaped my entire journey. I left Aerys nearly defeated, believing my mission had failed before it even began. Then came the revelation that Adam had lived through it all, and with it came new fire. If Adam could survive against the impossible, then perhaps Gwendolyn did as well. Protecting Tarvo is now my duty, not only for who he is but for what he represents. His survival has shaken my faith in the Empire’s words. They told me Gwendolyn was dead. Now I wonder what else was hidden from me.
+Tarvo stirs a different kind of concern in me. Gentle, yet persistent. He is pure in a way that few men are. His connection to the natural world is admirable, though it sets him apart in ways he may not yet comprehend.
+
+His curiosity is boundless, and therein lies the danger. The world is not always kind to the curious. I fear he will stumble into peril simply by wanting to understand it. Still, I shall do what I can to shield him, though I know better than most that the world does not always permit such luxuries.
 
 ## Kerrick's Thoughts on specific NPCs
 
 ### Gwendolyn
 
-She has always been the light in a world that grows darker by the day. No matter how close I came, she was always one step out of reach. She is my happiness, my goal, the reason I keep moving forward. I cannot stop wondering what drove her away from the Empire. When I find the truth, things will change, no matter what that truth is.
+The closer I draw to Gwen, the heavier my heart becomes. The memory of the Red Raids lingers like smoke, and with it the questions that haunts me. Is she still alive? Years have passed. Anything could have happened.
 
-### Zachariah
+She was Royalty in Aerys. If Waterdeep discovered her title, what fate might they have forced upon her? Why, of all places, would she flee here, to a city beyond the reach of the Empire, yet no safer in reality?
 
-I have worked with Zachariah for years, but respect was never part of it. The only reason we have not cut each other down is our shared loyalty to the Empire of Aerys. In my heart I believe he stole Gwendolyn from me, and in doing so, he stole the life I could have had. I gave everything to earn recognition, yet the only reward I ever received was the mark of a Dragon Slayer. It was not an honor. It was a sentence. They wanted me gone, kept me at the edges of the Empire, hoping the life of a Slayer would end me quickly. Most of us do not live long, but I refused to fall. I had to come home. I had to see Gwendolyn’s face again, no matter the cost.
+What did she suffer to choose exile over silence? I fear the answers await me, and that they may wound more than they heal.

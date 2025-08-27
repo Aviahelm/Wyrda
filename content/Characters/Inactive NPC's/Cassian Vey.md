@@ -32,7 +32,7 @@ Daveed’s heart beats within them, but it no longer beats with passion. It tick
 
 ## The Group's Influence
 
-As the group made their way to his casino. He was a little surprised they took up his game. A simple game of probability stacked in their favor. At least that's what it seemed like. Through this he was able to learn and reveal a lot of information he had obtained from the Black Roses. 
+As the group made their way to his casino. He was a little surprised they took up his game. A simple game of probability stacked in their favor. At least that's what it seemed like. Through this he was able to learn and reveal a lot of information he had obtained from [[The Black Roses]]. 
 
 Curiously, it seemed he had gained more than he revealed as he saw [[Sariel]]'s expression once he had revealed his secret. Something about that flickered some sort of emotion in him. Something dormant that he wondered what it was. He wasn't surprised when Sariel had visited him that night however something had stopped him from giving it to Sariel. 
 
