@@ -8,44 +8,40 @@ enableToc: "false"
 ---
 ## Kerrick's General Thoughts
 
-I find myself increasingly contemplative as our journey progresses. There is a tension among us, subtle, but persistent. Waterdeep weighs on the minds of some. I suspect their worries stem from past entanglements, perhaps family or unfinished business. One among us carries knowledge they are not yet willing to share, while another seems baffled by the recognition they receive in the streets, as though unaware of their own reputation.
+It has been some time since I’ve gotten some real time away from duty. Life in Waterdeep, though foreign to my years in the Empire of Aerys, has been… unexpectedly pleasant! I spent much of my adulthood amidst stone halls and military postings, and spent much of my service afar on sanctioned hunts and border patrols. Rarely did I dwell within the Kingdom, and rarer still did I find time to enjoy it.
 
-Though this city is new to me, I take some comfort in knowing that most of my companions appear just as unfamiliar with its ways. We are, it seems, a family bound by purpose, yet separated by secrets.
+Yet here, in this sprawling jewel of the Sword Coast, I’ve found a renewed spirit. Perhaps it is the company I keep, or perhaps, the ghost of someone I once knew, now echoed through her son.
 
 ### On Waterdeep
 
-Waterdeep is, at first glance, a marvel. Its architecture speaks of centuries of care and craftsmanship, this place is like a lighthouse of civilization, streets brimming with color and commerce. Yet beneath that splendor lies unease.
+It lives and breathes like no place I have ever known. Aerys, for all its strength and order, is rigid, and at times suffocating. Waterdeep is wild, vibrant, and free. I understand now why so many speak of it with reverence. It is not merely the architecture or commerce that sets it apart. it is the soul of the place. I have grown fond of it, though I cannot shake the feeling that beneath the beauty lies something festering. Whispers of rebellion move through the crowds of people like smoke. If danger comes, it will come from within.
 
-The attack outside the gate was concerning to say the least. Should there be unrest within the city, it would be wise to remain inconspicuous. The last thing I need is to be implicated, especially given my heritage. The name of Aerys carries weight here, and not the kind that earns one a welcome.
+It has been some time since I have known true respite from duty. Life in Waterdeep, so unlike my years in the Empire of Aerys, has been unexpectedly pleasant. I spent much of my adulthood within stone halls and military posts, and much of my service abroad on sanctioned hunts and border patrols. Rarely did I dwell within the Kingdom, and rarer still did I grant myself the chance to enjoy it.
 
-For now, I keep my head down and my blade sheathed, but the city watches, and I shall watch back, For if there is any information to find of Gwendolyn, I'll leave no stone left unturned to uncover it. 
+Here, in this sprawling jewel of the Sword Coast, I have found a renewed spirit. Perhaps it is the company I keep, or perhaps it is the ghost of someone I once knew, now echoed through her son.
 
 ## Kerrick's Thoughts on the group
 
 ### [[Rona]]
 
-Rona wears her unease like a shroud. There is something in this city that unsettles her deeply. I’ve noted the closeness growing between her and Sariel. They share a quiet understanding, a silent language built not only on words but almost seem to stem from shared experience.
-
-If I were to speculate, and I often do, there is more between them than mere camaraderie. Perhaps it is trauma that binds them. If so, then I wonder, whose past are we walking into?
+A sharp eye and a kind heart. She notices what others do not, the subtle shifts in the city, the undercurrents that ripple beneath the cobbled surface. Her presence brings a grounding calm to the group. That being said, there was a tension today between her and Sariel, prominent enough that even young Tarvo took note. Emotions simmer near the surface lately. This city seems to stir more than just memories.
 
 ### [[Sariel]]
 
-Sariel is, without question, a curious individual. I cannot yet determine whether he is a man of influence or merely resembles one. Regardless, the effect is the same. People defer to him with remarkable deference, even caution. It is almost unsettling to watch. 
-
-There is power in mystery, and Sariel wields it, whether knowingly or not. I intend to learn more of this strange phenomenon, though I must tread carefully. Waterdeep is not the place to draw undue attention, not for one such as myself.
+There is something shadowed in his demeanor. Reserved, calculating, he moves like a man with ghosts at his heels. The others may not voice it, but I see the uncertainty in their eyes when he speaks too softly, or or is pointed out in a crowd. He blends in well, too well, but not well enough. I find myself wondering, are we safe following him, or guided into peril? Still, I will not pass judgment hastily. One cannot survive long in this world without learning to hide one's truth. All the same, I shall remain vigilant. My duty is foremost to my Lord and I will not see him led blindly into danger.
 
 ### [[Tarvo]]
 
-Tarvo stirs a different kind of concern in me. Gentle, yet persistent. He is pure in a way that few men are. His connection to the natural world is admirable, though it sets him apart in ways he may not yet comprehend.
+His appetite for both food and life has grown each day since we arrived. I watch with some amusement as he devours half a market square’s worth of bread before noon. A boy of royal blood and boundless curiosity, he grows ever more inquisitive of his late mother. The bond between a child and their mother is sacred, and though I have long accepted Lady Gwendolyn’s death, the lad’s belief that she may yet live stirs something deep within me. If he feels her presence, I would be remiss not to lend credence to that instinct. There is strength in such connections, beyond what even the most hardened soldiers can explain.
 
-His curiosity is boundless, and therein lies the danger. The world is not always kind to the curious. I fear he will stumble into peril simply by wanting to understand it. Still, I shall do what I can to shield him, though I know better than most that the world does not always permit such luxuries.
+Showing him the city has brought me more joy than I ever anticipated. The way his eyes light up with wonder, much like his mother’s did when she first came to Aerys in our youth, it reminds me how precious and fleeting such moments are. I admit, the knees aren’t what they once were, and chasing him through crowds is no small task, but it is worth every ache.
 
 ## Kerrick's Thoughts on specific NPCs
 
-### Gwendolyn
+### Goblins
 
-The closer I draw to Gwen, the heavier my heart becomes. The memory of the Red Raids lingers like smoke, and with it the questions that haunts me. Is she still alive? Years have passed. Anything could have happened.
+Their role within the city is… unorthodox. In Aerys, goblins are more often found at the end of a spear than in the employ of shopkeepers and masons. I have never seen such integration. Still, I cannot turn a blind eye to the recent attacks outside the city, nor the raids that I've put an end to myself. My instinct, long honed through battle, whispers caution. Whether they are pawns, victims, or perpetrators remains to be seen, regardless, I can't help but be suspicious of their presence.
 
-She was Royalty in Aerys. If Waterdeep discovered her title, what fate might they have forced upon her? Why, of all places, would she flee here, to a city beyond the reach of the Empire, yet no safer in reality?
+### Billie the Bread Lady
 
-What did she suffer to choose exile over silence? I fear the answers await me, and that they may wound more than they heal.
+I’ve consumed rations baked by royal chefs and battle-hardened quartermasters, but none compare to the passion kneaded into every loaf this woman makes. She speaks of flour like a bard speaks of adventure. Her stand is modest, but I suspect the gods themselves would queue for her Pecan Pie. If there is justice in this world, she’ll have her own bakery one day.

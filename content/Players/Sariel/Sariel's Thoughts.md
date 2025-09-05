@@ -5,29 +5,31 @@ tags:
 enableToc: "false"
 ---
  
-## Sariel's General Thoughts
+## Sariel(?)'s General Thoughts
 
-I thought it couldn’t get any worse, but my nerves are getting to me. My blade doesn’t cut where I want it to, and every bone in my body wants nothing more than to flee. If I couldn’t handle a fight with a simple hobgoblin, there’s absolutely no chance for me if we meet _him_.
+I feel small in this city. The salty sea air is marred by the memories of what once was home, and every gaze I meet is terrified of me. What has _he_ done to these people? How do I explain that I would never do the things he does? I worry that all these reactions build a sense of distrust with my friends. I see the way Kerrick looks at me. I have to tell them all, but I never can find the right time.
 
-Is it really a fight I want? No. Absolutely not. I want to leave this city, but I cannot. I’ve made a promise, after all. The guards seem to fear me. Whatever happens, I cannot pretend to be someone I’m not. I can’t do that again.
+Is it even believable if I tell them that I’m Florien, not Faust?
+
+But the city denies the existence of Florien Wolfric—I have nothing to prove that what I’m saying is true. Even my "passport" only digs me a deeper grave. With each passing moment, the name _Sariel_ feels like an ill-fitted glove. Waterdeep only serves to remind me of the person I left behind.
 ## Sariel's Thoughts on the group
-
-### [[Arispira]]
-
-So, she’s chosen to leave us. I don’t fully understand why, but she looked troubled in Mere. I hope she finds the answers she’s looking for. Perhaps we may meet again, one day.
 
 ### [[Kerrick]]
 
-He’s so capable. Watching him in combat is an honour, especially after all my own fumbles. He’s observant too, I didn’t think he would overhear the guards’ words. The truth is at the tip of my tongue whenever he questions me, but I’m afraid of how he would react. He takes good care of Tarvo. I… Never mind.
+I’m afraid that he doesn’t trust me as much as he did before. He questioned me yesterday, and I saw the look on his face when the woman at the tavern addressed me as Faust. It almost reminded me of the way Father looked at me all those years ago. It’s the same sinking pit of fear of disappointing my elders. If there’s anyone I must clear my name with, it’s Kerrick. I want to believe that he would trust me, even with the bleak amount of proof I have.
 ### [[Rona]]
 
-It’s strange having someone believe in me the way she does. I feel the bardic blessing she places on me whenever we fight, and I know my ears turn red whenever I make a fool of myself in front of her. Perhaps it’s because she’s so impressive and confident. We’re both scared of this place, and yet she talks to the guards as if she has nothing bothering her. I’m glad I have a friend like her on my side. *She thinks I’m pretty. That’s new.*
+I will never forgive myself for standing by when she was disrespected. I heard those guards, I heard everything—but I did _nothing_. I couldn’t do anything. One small action might lead to a bigger one and I don’t dare to make things worse. Not with the ties she and I have to the ongoing conflict. What can I do? What should _we_ do? I hate to see her upset, it weighs heavy on the party.
+
+She tries her best to help me, and I’m afraid that all I’ve done is push her away. I don’t want to lose the bond we have, I have to do better and be there for her too.
 ### [[Tarvo]]
 
-All it took was a kick of the tavern door, and suddenly I feel taken back to the first time he’d done it. For a moment, I felt like I could laugh off the tenseness—he eases the constant surge of worries on my mind and lets me distract myself, even for a second or two. I wish we could talk more, so that he’d see me as more than a pirate. I should probably fix the way I dress.
+He continues to surprise me. Just when I feel as if things are falling apart, Tarvo is that solid rock that I can brace myself on, even for a bit. He’s a lot more emotionally intelligent than I thought. Maybe I can talk to him first, he might be more likely to believe me. We don’t get to talk often, and every time I’m reminded that he’s a prince, it does elicit a feeling of nervousness. But Tarvo is Tarvo. I can trust him.
 
 ## Sariel's Thoughts on specific NPCs
 
 ### Faust
 
-*Oh no.*
+I hope we don't run into him.
+
+
