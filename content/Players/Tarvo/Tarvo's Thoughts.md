@@ -8,74 +8,38 @@ enableToc: "false"
 ---
 ## Tarvo's General Thoughts
 
-"_Why are we wasting time here? We should be finding Gwen. I am sick of these lovebirds always boasting their intimate connection, meanwhile I am stuck with an old man who... no. I shall not go there._"
+**Tarvo happy. Tarvo have family now. We fight, but not to hurt. Not with swords. Not like bad men.**
 
-**A silence almost deafening drags out in Tarvo’s mind.**
-
-"_Meathead focus! Focus, you fool. Please... do not forget why we are here Tarvo. Mother._"
-
-"Tarvo here is with friends. Sariel... Rona... they need me. Kerrick help us find Gwen. Mother. It ok. Do not worry."
-
-"_Did he? No. He didn't. Did he? Tarvo..._"
-
-**Silence**
-
-_"I didn't think so."_
+*"Drama… exquisite, was it not? As though I were seated at the theatre itself, if ever I had stooped to such indulgence. The emotions, thick enough to drown in, the very air heavier than blood. And then… he ate the paper. Absurd. Laughable. Almost endearing in its stupidity. Yet still, Tarvo. You heard me. You even saw me. How precious. Try not to make a fool of yourself next time."*
 ## Tarvo's Thoughts on the group
-
-### [[Arispira]]
-
-_"This meathead needed you here. You loud-mouthed rogue. He is in a place where you would have thrived, he needed you and deep down you knew that. Why did you have to abandon us again."_
-
-"Tarvo does feel abandoned. Again. It ok. Tarvo is ok with it. Tarvo. Ok."
-
-_"You are not. Ok. Tarvo."_
-
-"Tarvo. Ok."
-
-_"Can you hear me? Tarvo..."_
-
-"Tarvo. Ok."
-
-_"What am I thinking? You have never heard me. Not once, my simple fool."_
-
-"Tarvo. Ok. Tarvo. Ok. Tarvo. Ok. Tar.."
-
 
 ### [[Kerrick]]
 
-*"Kerrick keeping me well fed. Great hunter. Teach me many things. Peaceful. That what Gwen smile look like. Th-ank you. Kerrick."
+**Kerrick look stern, like parent, but not with anger. He want to know, but not hurt. His voice strong, his face worry. Tarvo see it. Tarvo feel maybe safe… maybe Kerrick care.**
 
-_"What is your true goal here Kerrick? Why are you leading this buffoon around in circles? Are we not here for Gwen! Each second is wasted among these peasants. Your duty is not Rona or Sariel. Not even us. It's her... it's always been her, hasn't it Kerrick? Gwen, the one that got away. However, don't forget your place. You, Kerrick, are the Dragon Slayer of the West. Use that power. You soft old fool."_
-
-_"..._
-
-_"I thought so."_
+*"Hah. The old man bared his teeth today. Vindictive, sharp, just as I hoped. Not nearly so useless as I once thought. Perhaps there is still some fire left in the so-called Dragon of the West."*
 
 ### [[Rona]]
 
-"Tarvo is going to get his hair braided. This makes Tarvo very happy."
+**Tarvo happy today. Rona make Tarvo remember good things. Warm things. In clothes store we see someone… scary. Tarvo not like, but still… happy stay with Rona.**
 
-_She used to do that. They both did. Happier times for us both, wasn’t it, my simple fool._
+*"Rona, trying to end it today, were you? Plain idiocy. What would I do without you? Do not be daft, your life matters more than you seem to think. Pull yourself together. But mark me: if you ever put Gwen or Tarvo in real danger, I will not stand idly by. I will stop you."*
 
-_"Your kindness, Rona, why do you share it with him? Of all people, you—someone fit to be a true noble—should not be wasting time with a beast, a wild beast at that. He is not a child, he is a killer. If it meant you or us... Tarvo would... Tarvo has... please. Be careful. You remind us of her. Zeds... please, just be careful."_
+### [[Sariel|Florien]]
 
-**A moment of pondering between these two minds happens.**
+**Flower. Today Florian brave again… bravest Tarvo knows. Tarvo not afraid of much, but only ’cause Tarvo not know many things. Florian knows… and still he brave.**
 
-"Tarvo will NOT hurt Rona. No more pain for people Tarvo cares about. NO MORE."
-
-### [[Sariel]]
-
-"Tarvo wish he could be there more. My pirate friend said, 'ARGH, don't change for I am a pirate and you are my compass at sea.'"
-
-_"Tarvo, he did not say... you know what, never mind."_
-
-"Tarvo will be a way for you, Sariel. Tarvo knows how to feel lost. He found himself and only himself. Tarvo will help."
-
-_"Moving onto you, Sariel. You look pale. However, today you have peeked my interest, pirate boy, or rather Faust. Who is this fellow people mistake you for? Why does that name 'Faust' and your face bring more gravity to the air than gravity itself? The mask you wear, is it slipping with each step you take? You think have concern? No. I am just worried you and your problems will get in my way towards Gwen. Whoever you are. Sariel. I am watching."_
-
+*"Florian, you are a brave man. You did not spill everything, but you gave Tarvo something real. I appreciate that. Do not mistake me, Tarvo is no scholar of feelings; he is clumsy with them. Yet I saw you drop your guard, that flicker of vulnerability. It mattered."*
 ## Tarvo's Thoughts on specific NPCs
 
-_"Still wasting time not talking to anyone who would know anything about Gwen. Useless group."_
+### Nikki
 
-"Tarvo know bread lady name. Billie. Heh."
+**She mean to Tarvo’s friends. Tarvo not like that. Next time… Tarvo might shoot. Tarvo not proud.**
+
+*"She had bite. All fire, passion, and no shortage of sass. Exactly the sort that keeps things interesting."*
+
+### Aiko
+
+**She have many tales… many stories. Tarvo wants… wants to meet her again. Tarvo listen. Tarvo learn.**
+
+*"She carried wisdom — plenty of it. We respect our elders, Tarvo, and she was the perfect example of why."*

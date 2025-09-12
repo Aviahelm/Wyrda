@@ -8,40 +8,30 @@ enableToc: "false"
 ---
 ## Kerrick's General Thoughts
 
-It has been some time since I’ve gotten some real time away from duty. Life in Waterdeep, though foreign to my years in the Empire of Aerys, has been… unexpectedly pleasant! I spent much of my adulthood amidst stone halls and military postings, and spent much of my service afar on sanctioned hunts and border patrols. Rarely did I dwell within the Kingdom, and rarer still did I find time to enjoy it.
+There was much revealed today. Truths spoken plainly, some heavy with consequence. I find myself grateful for the candor. Trust is a rare and fragile thing in these times, and I do not take it lightly.
 
-Yet here, in this sprawling jewel of the Sword Coast, I’ve found a renewed spirit. Perhaps it is the company I keep, or perhaps, the ghost of someone I once knew, now echoed through her son.
-
-### On Waterdeep
-
-It lives and breathes like no place I have ever known. Aerys, for all its strength and order, is rigid, and at times suffocating. Waterdeep is wild, vibrant, and free. I understand now why so many speak of it with reverence. It is not merely the architecture or commerce that sets it apart. it is the soul of the place. I have grown fond of it, though I cannot shake the feeling that beneath the beauty lies something festering. Whispers of rebellion move through the crowds of people like smoke. If danger comes, it will come from within.
-
-It has been some time since I have known true respite from duty. Life in Waterdeep, so unlike my years in the Empire of Aerys, has been unexpectedly pleasant. I spent much of my adulthood within stone halls and military posts, and much of my service abroad on sanctioned hunts and border patrols. Rarely did I dwell within the Kingdom, and rarer still did I grant myself the chance to enjoy it.
-
-Here, in this sprawling jewel of the Sword Coast, I have found a renewed spirit. Perhaps it is the company I keep, or perhaps it is the ghost of someone I once knew, now echoed through her son.
+Waterdeep is a city of undeniable beauty. The harbor teems with life, the streets bustle with purpose, and its citizens, for all their rough edges, carry pride in their homeland. It saddens me to see how the strain upon our company blinds some to the city's grace. I do not blame them; weariness hangs thick, yet it is a shame all the same. If only relations between Aerys and Waterdeep were not so strained, I might allow myself to consider a future here. It is a city worth admiring.
 
 ## Kerrick's Thoughts on the group
 
 ### [[Rona]]
 
-A sharp eye and a kind heart. She notices what others do not, the subtle shifts in the city, the undercurrents that ripple beneath the cobbled surface. Her presence brings a grounding calm to the group. That being said, there was a tension today between her and Sariel, prominent enough that even young Tarvo took note. Emotions simmer near the surface lately. This city seems to stir more than just memories.
+We now know her kin are behind the attacks the city guard were concerned about upon our arrival. She claims no allegiance to them any longer, and I believe her but her desire to seek them out troubles me. Is it closure she seeks, or reckoning? Her outburst at the tailor’s gave me pause. There is fire in her. Sharp, unrelenting, and it burns brighter now than I have seen before. She is unsettled, caught between past and present. Still, when the time comes, I trust she will stand with us. Her words cut as cleanly as any blade, and when she strikes, it is always with purpose.
+### [[Sariel|Florien]]
 
-### [[Sariel]]
-
-There is something shadowed in his demeanor. Reserved, calculating, he moves like a man with ghosts at his heels. The others may not voice it, but I see the uncertainty in their eyes when he speaks too softly, or or is pointed out in a crowd. He blends in well, too well, but not well enough. I find myself wondering, are we safe following him, or guided into peril? Still, I will not pass judgment hastily. One cannot survive long in this world without learning to hide one's truth. All the same, I shall remain vigilant. My duty is foremost to my Lord and I will not see him led blindly into danger.
+As suspected, the bloodline runs deeper than he let on, Wolfric. The name rings familiar, and his honesty in confessing it brings me some peace. Yet my concerns persist, centering on the brother: Faust. The Butcher. That name is whispered in these streets with genuine fear. If the two should meet, I doubt any words will pass before steel. I fear that day draws near. Florian holds himself well, but even steel can bend under sufficient heat.
 
 ### [[Tarvo]]
 
-His appetite for both food and life has grown each day since we arrived. I watch with some amusement as he devours half a market square’s worth of bread before noon. A boy of royal blood and boundless curiosity, he grows ever more inquisitive of his late mother. The bond between a child and their mother is sacred, and though I have long accepted Lady Gwendolyn’s death, the lad’s belief that she may yet live stirs something deep within me. If he feels her presence, I would be remiss not to lend credence to that instinct. There is strength in such connections, beyond what even the most hardened soldiers can explain.
-
-Showing him the city has brought me more joy than I ever anticipated. The way his eyes light up with wonder, much like his mother’s did when she first came to Aerys in our youth, it reminds me how precious and fleeting such moments are. I admit, the knees aren’t what they once were, and chasing him through crowds is no small task, but it is worth every ache.
+A rare moment today, I embraced the man. A simple gesture, yet it seemed to strike a chord deep within him. He lingered in thought afterward, as if stirring embers from long ago. Tarvo’s care for our fellowship is unwavering, though he struggles with the finer intricacies of social exchange. In truth, that very struggle lends him a certain purity, one not clouded by politics or posturing. Tonight, he was our anchor, steadfast in the storm. I am proud of him. We must redouble our efforts to uncover some trace of Gwendolyn. He is fraying at the edges, though he hides it well. Perhaps I ought to see him properly outfitted. The man deserves more than rags.
 
 ## Kerrick's Thoughts on specific NPCs
 
-### Goblins
+### Aiko
 
-Their role within the city is… unorthodox. In Aerys, goblins are more often found at the end of a spear than in the employ of shopkeepers and masons. I have never seen such integration. Still, I cannot turn a blind eye to the recent attacks outside the city, nor the raids that I've put an end to myself. My instinct, long honed through battle, whispers caution. Whether they are pawns, victims, or perpetrators remains to be seen, regardless, I can't help but be suspicious of their presence.
+A woman of uncommon grace and depth. There is wisdom in her eyes, aged not by years alone, but by what she has endured. She remembers the Red Raids. I wonder, might she hold some clue to Gwendolyn’s fate? There is something amiss in this city, and I cannot ignore that dry, silent well at its center. Waterdeep is surrounded by water, and yet here the well lies barren. A quiet omen, perhaps. I look forward to crossing paths with her again.
 
-### Billie the Bread Lady
+### Nikki
 
-I’ve consumed rations baked by royal chefs and battle-hardened quartermasters, but none compare to the passion kneaded into every loaf this woman makes. She speaks of flour like a bard speaks of adventure. Her stand is modest, but I suspect the gods themselves would queue for her Pecan Pie. If there is justice in this world, she’ll have her own bakery one day.
+Brazen, confident, and blessed with a sharp tongue. She judges appearances with the precision of a craftsman, yet it is not vanity that drives her. It is mastery. She knows her craft and speaks with the assuredness of one who has earned the right to be heard. Still, I worry for her. Should she and Rona cross paths again, and tempers rise, there may be more than words exchanged.
+
