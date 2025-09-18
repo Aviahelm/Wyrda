@@ -1,7 +1,7 @@
 ---
-title: Sariel's Thoughts
+title: Florien's Thoughts
 draft: false
-tags: 
+tags:
 enableToc: "false"
 ---
 ## Florien's General Thoughts
