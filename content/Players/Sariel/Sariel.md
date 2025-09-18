@@ -1,16 +1,16 @@
 ---
-title: Sariel
+title: Florien
 draft: false
 tags:
   - Player
   - Waterdeep
 enableToc: "false"
 ---
-![Sariel](/static/images/sariel.png)
+![Sariel](/static/images/florien.png)
 
 **Played by LeeKoii**
 
-Anyone who had the chance to meet **Sariel** would likely tell you the same thing. They knew _close to nothing_ about him.
+Anyone who had the chance to meet **Sariel/Florien** would likely tell you the same thing. They knew _close to nothing_ about him.
 
 Beyond the ethereal halo that marked him unmistakably as an **Aasimar**, the rest of him was a puzzle, scraps of image and implication held together by silence. He dressed like a pirate, with an eyepatch, scars to match, and swaggering boots. If asked, he would deny it with almost comical insistence. When questioned further, he had a habit of not answering or not being there at all.
 

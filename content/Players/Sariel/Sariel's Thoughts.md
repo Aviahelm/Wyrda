@@ -6,49 +6,65 @@ enableToc: "false"
 ---
 ## Florien's General Thoughts
 
-I was foolish to shoulder all this self doubt. Foolish to think so little of my friends, that they would turn their backs on me for my past. I may not have shared the full weight of my burdens but at the very least, I feel lighter. Reclaiming this name of mine fills me with a rush of anxiety, but it feels like a puzzle piece slotting into its intended place. Florien Wolfric may not exist to the people of Waterdeep, but to this party, I do. The new look will take some time to get used to, but at the very least I don’t look like a pirate anymore.
+I am no stranger to the feeling of someone attacking me with the intent to kill. Years have passed, but the sensation is the same—though my legs were no longer rooted into the ground. I hate that this face of mine places a target on my head for any of his enemies. So much for keeping my head down in Waterdeep.
 
-## Florien's Thoughts on Sariel
+My family still holds so much power, but my words hold no weight. What is the use of being a Wolfric if I cannot do anything but watch innocents die? I…
 
-Thank you for letting me pretend to be someone else, for giving me a chance to feel confident, even if it was fleeting. It’s time for me to live as myself now, as terrifying as that may be.
+I refuse to take a life unless I must. I am _not_ the Butcher.
+
+But I look even more like him now. I caught my reflection in the glass, and for a split second my heart sank. He always kept his hair short. All that sets us apart is the eyepatch and scars. And the piercings too, I don’t think those are to his taste. I know that we are as different as can be, but I fear the similarities that go unnoticed by myself.
+
+I need to be braver. I can—No. I must do more to help. I don’t know what influence I can have, but if it saves even just one life, I’ll sleep better at night.
+
 ## Florien's Thoughts on Waterdeep
 
-Now that those worries are no longer at the forefront of my thoughts, I find myself unsure on what to do for the people of this city. _My_ city. Am I allowed to call it that?
-
-The guards scorn the rebels, but I know that a rebellion doesn’t begin without resentment. I need to find out more. The thought of encountering my family scares me… What exactly is their involvement in the conflict? This city allows us no rest. I know not to lower my guard, and yet I believed we would be allowed a moment of respite. I need to help, though I worry that my presence might complicate things.
+This city is more divided than I thought. The guards say the rebels did it, but I don’t believe them. There are always two sides to a story, and I hope we find someone who can give us the truth. Is that too much to ask for?
 
 ## Florien's Thoughts on the group
 
 ### [[Kerrick]]
 
-There are few things in this world scarier than a man of his stature when he holds suspicion for a person. Yet, when he uttered my name for the first time, I felt that fear melt away. Kerrick is comforting, his approval feels like a paternal presence guiding me. I still don’t know how to approach him at times, but at the very least, I no longer feel as though he peers straight into my soul whenever we talk. There is still a sense of reservation within him, and I hope I’m able to reach a point where he trusts me enough to speak with me.
+_“I will give you the blood you seek. Your time will come.”_
+
+What… was that? Everything I’ve known about Kerrick tells me that he’s a man of honour with a code of conduct who kills only when necessary. But that sight, that lone figure amidst the smoke and corpses, and that voice—Who are you, Kerrick Lurgan? The Dragon Slayer of the West, yes, I know that. But what things have you done? Whose blood have you spilled in your duties?
+
+I wish I hadn’t overheard those words. Kerrick was supposed to be someone I could look up to, but now I find myself hesitating to look in his direction. I avoid his gaze. When he noticed I’d heard, he spoke so softly but those words felt laced with caution. Like he would strike me down if I reacted wrongly.
+
+First it was the goblins, and now the way he talks about the rebels. There are minute details in the way he does things that is so reminiscent of a warrior. His past battles seem to have etched itself into his movements, his mindset.
+
+Then there was the laugh. What the _fuck_ was that? It felt evil—no. Malicious. Whatever that was, that was not Kerrick.
 ### [[Rona]]
 
-The longer I get to know you, the more you surprise me. You care so deeply for me, and it’s such a foreign feeling. I’ve never been so fiercely defended before. It was something so trivial too, just clothing, but you stood up for me. You have my back, and I promise to have yours. I make a lot of promises, don’t I?
+Since we stepped foot in Waterdeep, I have been by your side as much as you would allow me to be. I thought it would be safer to keep you away from that place, but _something_ happened. I don’t know what you witnessed but you looked shattered. I’m sorry I wasn’t there for you. You and I are so interwoven into the conflict, but where I haven’t chosen my side, I know you have. The rebels. Your family.
 
-If it wasn’t for you, who knows how long I would have taken to speak my mind? You taught me that it would be safe to be myself, that I should trust in the group. I don’t think you realize how much that helped me overwrite some of the ghosts of my past.
+I admire the courage you have, to still stand against the guards. But that courage will get you hurt one day, Rona. I don’t want to see that happen. But Waterdeep—this place is more cruel than I remember. I know you wanted me to keep away from trouble, but was that really so easy when those guards spoke to you like that? My body moved on its own. I didn’t care if those guards fired at me, just as long as you were unscathed. I finally could protect you, but I’m sorry we couldn’t save those men. Innocence does not matter when those guards have their sights set on covering the truth.
 
-The silence that settles between us when we’re alone sometimes makes me anxious. I find myself scrambling to find my words, but I think I’ve messed up the more I try. It worries me, will I be able to speak when it matters most?
+The emotions that surface whenever you turn to me are complicated. I care so deeply about you, it worries me. Every little thing I do has its consequence, and I fear that what I’ve done will have its rebuttal. I protected you, and when Faust finds out, does that not single you out?
 
-Will you be okay? The rebels are so close by, and I worry that you’re pretending everything’s fine. Whatever happens next, I’ll do what I can to protect you. I want to protect you all.
-### [[Tarvo]]
+If it ever comes down to it, please, don’t throw your life aside. I know it’s a noble thing to do, but allow me to be selfish for this one thing. I can’t say this to you, I’m not that brave. But… life feels lighter with you around.
+### [[Tarvo|Adam/Tarvo]]
 
-He _ate_ the paper. That passport, which I feared would dictate how the people would see me—gone, just like that. I didn’t know whether to laugh or cry, it was so abrupt. I think it was exactly what I needed, though. He does things with so much heart, every single time, and I admire it. Tarvo has such a way with words and I don’t think he knows it.
+I knew something was up. He sounded different. I thought he’d hit his head too hard, but he even carried himself differently. I don’t fully understand, but he’s no longer the Tarvo we knew. Adam, he calls himself.
 
-_Flower_.
+I initially thought that maybe that ‘Tarvo’ had been an act. But the way he behaved was like an entirely other person now piloted that same body. He was… coherent. He was a lot more careful too. He made Rona keep a secret, however brief. Funny, since I remember Tarvo saying he wouldn’t like us to keep secrets from each other anymore.
 
-I have cried enough today, but whenever I think back to Tarvo’s words, I feel a warmth that just comforts me.
+I miss Tarvo, but it looks like Adam is here to stay. He called me Flower, and it didn’t feel right. I don’t know this man, and I wonder if I will ever see ‘Tarvo’ again. I want to understand what’s going on, but everyone is allowed their secrets. Perhaps I need to talk to him more, but he seems to hold everyone at an arm’s length.
 
 ## Florien's Thoughts on specific NPCs
 
-### Aiko (The Old Woman)
+### Billie
 
-She told us it was okay to be lost. I never realised how much I needed to hear that. I hope that she is safe.
-
-### Nikki (The Shopkeeper)
-
-Well, that was lively. She brought out the fire in Rona, and I have to confess that it was better than any theatre to watch.
-
+I can still taste the blueberry pie. I remember her friendliness, passion and those teasing remarks. Billie was full of life, and though I hesitated to speak with her, I appreciated her. This city has lost a kind soul, and I know more losses will come. Rest easy.
 ### Faust
 
-_The Butcher_. What have you done, Faust? You never were cruel, but a lot can change in eight years. I dread meeting you. I wonder how you are. Are our parents healthy? Are you? I fear every corner I round in Waterdeep, it feels as if you might be there.
+It’s strange. I met people who trusted you, who put their lives in your hands, claiming that you swore to protect them. The guards regard you with fear, I’ve seen it first hand. Does The Butcher of Waterdeep have a heart? Do you truly care for these people, or is it simply part of your duties?
+
+You were here. Perhaps we were separated by the smoke, but wherever you were, I… I was glad to hear that you were alive. Huh. That thought brought a twist to my gut. Is that guilt?
+
+In another life, perhaps we would be fighting alongside one another to help the people.
+
+### Faust’s Right Hand Man
+
+I don’t think I’ve seen him before, have I? That look of distaste he gave me was so reminiscent of the look Faust used to give me. This man definitely works closely with him.
+
+He’s off to tell him all about what happened. I have a feeling this isn’t the last time I’ll be seeing him.

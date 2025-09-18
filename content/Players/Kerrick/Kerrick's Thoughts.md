@@ -8,30 +8,37 @@ enableToc: "false"
 ---
 ## Kerrick's General Thoughts
 
-There was much revealed today. Truths spoken plainly, some heavy with consequence. I find myself grateful for the candor. Trust is a rare and fragile thing in these times, and I do not take it lightly.
+War, flame, and death. These are not unfamiliar companions to Wyrda. Our history is inked in ash and blood, and I have stood faithfully amidst many of its chapters. Yet this unrest… this feels unlike any war I have known. It is not a matter of battlefield honor or clear boundaries drawn in the dirt. No, this is something far murkier. Twisted. Divided.
 
-Waterdeep is a city of undeniable beauty. The harbor teems with life, the streets bustle with purpose, and its citizens, for all their rough edges, carry pride in their homeland. It saddens me to see how the strain upon our company blinds some to the city's grace. I do not blame them; weariness hangs thick, yet it is a shame all the same. If only relations between Aerys and Waterdeep were not so strained, I might allow myself to consider a future here. It is a city worth admiring.
+Rona and Florien have uncovered troubling information: shipments to the tavern, marked with the seal of the rebels, containing explosive charges. Though it was delivered not by rebel hands, but by… the guards..? The implications are chilling. Are we to believe the rebels orchestrated this with such precision, to the place they call home even if temporary? Or are the guard setting fire to the very ground they swore to protect..?
+
+### The Public Execution
+
+I've never felt so powerless. Those poor rebels, they seemed confused... I wish I could have helped Rona and Florien, though I fear my intervention would have caused more harm than good.  
+“False Wolfric.” That phrase stuck with me. I have not heard such venom since my youth, when I saw the Aerys Guard treat my parents as filth beneath their gilded boots. I pray this is not history repeating itself.
+
 
 ## Kerrick's Thoughts on the group
 
 ### [[Rona]]
 
-We now know her kin are behind the attacks the city guard were concerned about upon our arrival. She claims no allegiance to them any longer, and I believe her but her desire to seek them out troubles me. Is it closure she seeks, or reckoning? Her outburst at the tailor’s gave me pause. There is fire in her. Sharp, unrelenting, and it burns brighter now than I have seen before. She is unsettled, caught between past and present. Still, when the time comes, I trust she will stand with us. Her words cut as cleanly as any blade, and when she strikes, it is always with purpose.
+Once more, Rona proved herself to be the heart of our fellowship. In the tavern, she stepped forward with poise and authority, drawing out truths where the rest of us might have faltered. Her ties to the rebels still weigh on my mind, yet I cannot deny the steadiness she lends us. Today, she stood more firmly than I, and though it shames me to admit it, perhaps that was what we all needed.
+
 ### [[Sariel|Florien]]
 
-As suspected, the bloodline runs deeper than he let on, Wolfric. The name rings familiar, and his honesty in confessing it brings me some peace. Yet my concerns persist, centering on the brother: Faust. The Butcher. That name is whispered in these streets with genuine fear. If the two should meet, I doubt any words will pass before steel. I fear that day draws near. Florian holds himself well, but even steel can bend under sufficient heat.
+He overheard me as I struggled to quiet Sekaroth, the voice resounding far too loud in my mind. I thought myself discreet, but not enough. The Knight’s interruption spared me from revealing more, yet I caught the look in Florien’s eyes. Suspicion... perhaps even fear.
 
 ### [[Tarvo]]
 
-A rare moment today, I embraced the man. A simple gesture, yet it seemed to strike a chord deep within him. He lingered in thought afterward, as if stirring embers from long ago. Tarvo’s care for our fellowship is unwavering, though he struggles with the finer intricacies of social exchange. In truth, that very struggle lends him a certain purity, one not clouded by politics or posturing. Tonight, he was our anchor, steadfast in the storm. I am proud of him. We must redouble our efforts to uncover some trace of Gwendolyn. He is fraying at the edges, though he hides it well. Perhaps I ought to see him properly outfitted. The man deserves more than rags.
+Tarvo conducted himself with unexpected bravery today. Though fear lingered in his eyes, he did not falter. Yet when we parted ways, something changed. His speech grew refined, his posture more regal. I fear my lord may be caught in the grip of amnesia or some other spell. It is as though he has become the very embodiment of Adam himself...
 
 ## Kerrick's Thoughts on specific NPCs
 
-### Aiko
+### Gwendolyn
 
-A woman of uncommon grace and depth. There is wisdom in her eyes, aged not by years alone, but by what she has endured. She remembers the Red Raids. I wonder, might she hold some clue to Gwendolyn’s fate? There is something amiss in this city, and I cannot ignore that dry, silent well at its center. Waterdeep is surrounded by water, and yet here the well lies barren. A quiet omen, perhaps. I look forward to crossing paths with her again.
+Where are you, Gwen? You came to Waterdeep and vanished into its shadows, and I fear the city’s darkness may have claimed you. If you found refuge among the rebels, I cannot fault you. In such times, survival bears its own kind of honor. I only pray you escaped. That beyond these walls, you yet live. For the certainty of that truth, I would endure a thousand battles more.
 
-### Nikki
+### Sekaroth
 
-Brazen, confident, and blessed with a sharp tongue. She judges appearances with the precision of a craftsman, yet it is not vanity that drives her. It is mastery. She knows her craft and speaks with the assuredness of one who has earned the right to be heard. Still, I worry for her. Should she and Rona cross paths again, and tempers rise, there may be more than words exchanged.
+It has been some time since I last called upon Sekaroth. Foolishly, I believed I could leave him dormant, but today I needed him, and he answered. His fury was immediate, near overwhelming. He has not forgotten my neglect, for the flame is not a gift but a debt, and the interest grows with every swing of my blade. His anger seared through me; years of silence had only stoked it further. I know I will need his strength in the days ahead, yet I fear what will follow should I embrace him fully once more. Sekaroth’s blade is never easily wielded, and each time I draw upon it, less of myself returns.
 
