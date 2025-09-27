@@ -46,13 +46,9 @@ I envy the relationship they have the chance to build. It’s a beautiful thing,
 
 ### Gwendolyn
 
-Sekaroth took more of a toll on me than I expected. I’m tired. It’s making me reflect on things I haven’t thought about in years. I dreamed about you today—a painful vision of when I learned of your disappearance. It dragged me back to a dark place, somewhere I fought so hard to escape.
+Sekaroth took more of a toll on me than I thought. I’m tired. It’s causing me to reflect on things I haven’t thought about in years. I dreamed about you today.  A painful vision of when I found out about your disappearance. It brought me to a dark place, somewhere I tried my very best to get out of.
 
-When you left the Kingdom, I was lost. I had no sense of direction. I always returned home to you, so when I came back and you were gone, I had no desire to do anything at all anymore—so I did nothing.
-
-I have so many questions for you.
-
-I will find you again.
+When you left the Kingdom, I was lost, I had no sense of direction. I always returned home to you, so when I returned and you were gone, I had no desire to do anything at all anymore, so that’s exactly what I did. Nothing.   
 
 ### Willow
 
