@@ -8,37 +8,55 @@ enableToc: "false"
 ---
 ## Kerrick's General Thoughts
 
-War, flame, and death. These are not unfamiliar companions to Wyrda. Our history is inked in ash and blood, and I have stood faithfully amidst many of its chapters. Yet this unrest… this feels unlike any war I have known. It is not a matter of battlefield honor or clear boundaries drawn in the dirt. No, this is something far murkier. Twisted. Divided.
-
-Rona and Florien have uncovered troubling information: shipments to the tavern, marked with the seal of the rebels, containing explosive charges. Though it was delivered not by rebel hands, but by… the guards..? The implications are chilling. Are we to believe the rebels orchestrated this with such precision, to the place they call home even if temporary? Or are the guard setting fire to the very ground they swore to protect..?
-
-### The Public Execution
-
-I've never felt so powerless. Those poor rebels, they seemed confused... I wish I could have helped Rona and Florien, though I fear my intervention would have caused more harm than good.  
-“False Wolfric.” That phrase stuck with me. I have not heard such venom since my youth, when I saw the Aerys Guard treat my parents as filth beneath their gilded boots. I pray this is not history repeating itself.
-
-
+I carry a lot of regret from earlier today. The heartbroken look in Rona’s and Florien’s eyes destroyed me. We have to find out what’s really going on here, and soon. I don’t know how much more of this senseless slaughter I can endure. My heart may be trained for war, but it is not made of stone.
 ## Kerrick's Thoughts on the group
 
 ### [[Rona]]
 
-Once more, Rona proved herself to be the heart of our fellowship. In the tavern, she stepped forward with poise and authority, drawing out truths where the rest of us might have faltered. Her ties to the rebels still weigh on my mind, yet I cannot deny the steadiness she lends us. Today, she stood more firmly than I, and though it shames me to admit it, perhaps that was what we all needed.
+Rona and Florien's bond seems to have grown like a beautiful flower whose roots found themselves embedded in a rocky path. It seemed as though we interrupted a date of sorts between them, though I pray our arrival did not sour their rare moment of peace.
+
+I appreciate her for asking about the statue outside, but I fear there is more to it than just decor. I wonder if there are any warlocks here.
 
 ### [[Sariel|Florien]]
 
-He overheard me as I struggled to quiet Sekaroth, the voice resounding far too loud in my mind. I thought myself discreet, but not enough. The Knight’s interruption spared me from revealing more, yet I caught the look in Florien’s eyes. Suspicion... perhaps even fear.
+Florien seems to grow red whenever Rona is near. It is a breath of fresh air, seeing such a bond take shape in times as bleak as these. A sign of youthful affection, pure and unspoiled by the harsh reality forced upon us. It reminds me of what we fight for.
 
-### [[Tarvo]]
+### [[Tarvo|Adam]]
 
-Tarvo conducted himself with unexpected bravery today. Though fear lingered in his eyes, he did not falter. Yet when we parted ways, something changed. His speech grew refined, his posture more regal. I fear my lord may be caught in the grip of amnesia or some other spell. It is as though he has become the very embodiment of Adam himself...
+~~Tarvo~~ Adam is different. He's stern, knows exactly what he wants, and isn't afraid to say what's on his mind. Our disagreement felt needed; he has been cooped up in Tarvo's mind for some time now. The first change I noticed was when he took the lead in looking for Gwendolyn. I grew comfortable and was enjoying my time. I let my goal leave my head for a moment, and that’s never a good thing. I grew too comfortable, lost in fleeting joys and trivial distractions. If there is going to be any chance of finding Gwen, I must be rid of such distractions and strengthen my resolve.
+
+He scolded me for putting Tarvo in danger. It’s clear that he cares more for him than I ever could. Tarvo is not a sibling or imaginary friend; he is a part of Adam, and I need to accept that. When he went to the adventurers guild, Adam’s apology to Rona and his foresight in seeking Arispira’s kin revealed a man coming into his own.
+
+He’s taking charge in my moments of weakness, and I appreciate that more than anything.
+
+I am proud of the man he is growing to be.
+
+
+### Rona and Florien's Relationship
+
+I envy the relationship they have the chance to build. It’s a beautiful thing, and I can’t help but wonder what kind of relationship Lady Gwendolyn and I would have built in the same situation. We were never given that chance.
 
 ## Kerrick's Thoughts on specific NPCs
 
+### Arispira
+
+Adam mentioned you today. I wonder how you are holding up on your travels. We found information about your family in the most fitting way possible—stealing it. You were always the best in our group at that, a blessing and a curse in my opinion. I'm not proud of my actions today, but if it gets us closer to finding Gwendolyn, I'll do anything. I wonder what your family knows of her disappearance.
+
+### Bryson
+
+He was very nice, but oblivious at best. I don't know how a guild could have this as the front face of their establishment, but it must speak volumes about who is in charge.
+
 ### Gwendolyn
 
-Where are you, Gwen? You came to Waterdeep and vanished into its shadows, and I fear the city’s darkness may have claimed you. If you found refuge among the rebels, I cannot fault you. In such times, survival bears its own kind of honor. I only pray you escaped. That beyond these walls, you yet live. For the certainty of that truth, I would endure a thousand battles more.
+Sekaroth took more of a toll on me than I expected. I’m tired. It’s making me reflect on things I haven’t thought about in years. I dreamed about you today—a painful vision of when I learned of your disappearance. It dragged me back to a dark place, somewhere I fought so hard to escape.
 
-### Sekaroth
+When you left the Kingdom, I was lost. I had no sense of direction. I always returned home to you, so when I came back and you were gone, I had no desire to do anything at all anymore—so I did nothing.
 
-It has been some time since I last called upon Sekaroth. Foolishly, I believed I could leave him dormant, but today I needed him, and he answered. His fury was immediate, near overwhelming. He has not forgotten my neglect, for the flame is not a gift but a debt, and the interest grows with every swing of my blade. His anger seared through me; years of silence had only stoked it further. I know I will need his strength in the days ahead, yet I fear what will follow should I embrace him fully once more. Sekaroth’s blade is never easily wielded, and each time I draw upon it, less of myself returns.
+I have so many questions for you.
+
+I will find you again.
+
+### Willow
+
+"Free drinks" came off the tongue almost too suspiciously, yet I didn't suspect a thing. An excellent host, and clearly they chose the right person for the job, because she seems to have information on everything, even if it is only a rumor. It's a shame I couldn't play her game for longer; I know she could have answered some of the questions I seek answers to. She seemed to know more about the rebels than she led us to believe.
 

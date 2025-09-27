@@ -53,10 +53,15 @@ They're really cool. Some cool links to find them.
 
 Yeah, guests are a great way for people we love to come join.
 
-1. BabyKawaiiDragon who plays [[Arispira]] and is also on [Twitch](https://www.twitch.tv/babykdragon)
-2. Magnolia who streams on [Twitch](https://www.twitch.tv/missmagnoliagaming)
-3. Yoof Ools who is played by [Going2h on Twitch](https://www.twitch.tv/going2h)
+1. Magnolia who streams on [Twitch](https://www.twitch.tv/missmagnoliagaming) and plays Nikki and Willow!
 
+## What other links do you have?
+
+1. We have a [YouTube Channel ](https://www.youtube.com/@WorldOfWyrda)for the previous 'episodes'
+
+### Wow the thumbnails look awesome!
+
+Yeah, we have an amazing artist working on thumbnails and Discord Emotes/Stickers. You can find them at [TheatricalThing](https://bsky.app/profile/theatricalthing.bsky.social)
 ## How do you do D&D ?
 
 We use Foundry and Discord! 
