@@ -30,12 +30,6 @@ He scolded me for putting Tarvo in danger. It’s clear that he cares more for h
 He’s taking charge in my moments of weakness, and I appreciate that more than anything.
 
 I am proud of the man he is growing to be.
-
-
-### Rona and Florien's Relationship
-
-I envy the relationship they have the chance to build. It’s a beautiful thing, and I can’t help but wonder what kind of relationship Lady Gwendolyn and I would have built in the same situation. We were never given that chance.
-
 ## Kerrick's Thoughts on specific NPCs
 
 ### Arispira
@@ -45,6 +39,10 @@ Adam mentioned you today. I wonder how you are holding up on your travels. We fo
 ### Bryson
 
 He was very nice, but oblivious at best. I don't know how a guild could have this as the front face of their establishment, but it must speak volumes about who is in charge.
+
+### Rona and Florien's Relationship
+
+I envy the relationship they have the chance to build. It’s a beautiful thing, and I can’t help but wonder what kind of relationship Lady Gwendolyn and I would have built in the same situation. We were never given that chance.
 
 ### Gwendolyn
 

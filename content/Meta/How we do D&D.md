@@ -8,7 +8,14 @@ _“It takes a village to raise a child.”_
 
 Hi! To make this campaign happen, I drew from a number of amazing creators who made it possible for me to bring my vision to life. Here’s where I sourced the assets and tools that make it all work — massive thanks to each of them:
 
-I do this over [The Forge](https://as.forge-vtt.com/) with Foundry!
+
+## Art in General!
+
+1. We have LeeKoii doing the character art for all of the player characters and the DM!
+2. We have TheatricalThing working on thumbnails and Discord Emotes/Stickers!
+
+Check out [[content/index|our main page]] for their links!
+
 
 ## 🗺️ Map & Token Assets
 
@@ -20,6 +27,7 @@ We use these for Map Making- Tokens and just general Immersion.
 - **[HeroForge](https://www.heroforge.com/)** – Character tokens made with HeroForge assets
 
 ---
+
 
 ## ✨ Spell & Token Animations
 
@@ -35,6 +43,8 @@ These just give us some lovely looking animations based on the spells.
 ## 🔌 FoundryVTT Modules
 
 These are the modules I use for Foundry (With Github links)
+
+I do this over [The Forge](https://as.forge-vtt.com/) with Foundry!
 
 ### Combat & Effects
 
