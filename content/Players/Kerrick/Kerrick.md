@@ -5,7 +5,7 @@ tags:
   - Kerrick
   - Player
 enableToc: "false"
-socialImage: static/images/kerrick.png
+socialImage: images/kerrick.png
 socialDescription: Kerrick Lurgan - Dragon Slayer of the West
 ---
 ![Kerrick](/static/images/kerrick.png)
