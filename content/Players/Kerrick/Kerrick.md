@@ -5,6 +5,8 @@ tags:
   - Kerrick
   - Player
 enableToc: "false"
+socialImage: images/kerrick.png
+socialDescription: Kerrick Lurgan - Dragon Slayer of the West
 ---
 ![Kerrick](/static/images/kerrick.png)
 **Played by MrReddiez**
