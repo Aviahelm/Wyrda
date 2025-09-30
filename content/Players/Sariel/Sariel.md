@@ -5,6 +5,8 @@ tags:
   - Player
   - Waterdeep
 enableToc: "false"
+socialImage: images/florien.png
+socialDescription: Florien Wolfric
 ---
 ![Sariel](/static/images/florien.png)
 

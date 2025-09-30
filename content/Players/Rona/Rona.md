@@ -1,10 +1,12 @@
 ---
-title: Rona
+title: Rona Loran
 draft: false
 tags:
   - Player
   - Waterdeep
 enableToc: "false"
+socialImage: images/rona.png
+socialDescription: Rona Loran
 ---
 ![Rona](/static/images/rona.png)
 **Played by Jade**

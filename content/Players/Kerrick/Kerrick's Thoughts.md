@@ -5,6 +5,8 @@ tags:
   - Kerrick
   - Player
 enableToc: "false"
+socialImage: images/kerrick.png
+socialDescription: Kerrick's Thoughts
 ---
 ## Kerrick's General Thoughts
 

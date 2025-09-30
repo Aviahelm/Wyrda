@@ -1,8 +1,12 @@
 ---
 title: Rona's Thoughts
 draft: false
-tags: 
+tags:
+  - Kerrick
+  - Player
 enableToc: "false"
+socialImage: images/rona.png
+socialDescription: Rona's Thoughts
 ---
 ## Rona's General Thoughts
 

@@ -2,7 +2,11 @@
 title: Florien's Thoughts
 draft: false
 tags:
+  - Florien
+  - Player
 enableToc: "false"
+socialImage: images/florien.png
+socialDescription: Florien's Thoughts
 ---
 ## Florien's General Thoughts
 

@@ -5,6 +5,8 @@ tags:
   - Tarvo
   - Player
 enableToc: "false"
+socialImage: images/tarvo.png
+socialDescription: Tarvo's Thoughts
 ---
 ## Tarvo's General Thoughts
 

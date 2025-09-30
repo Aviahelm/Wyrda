@@ -5,6 +5,8 @@ tags:
   - Player
   - Aerys
 enableToc: "false"
+socialImage: images/tarvo.png
+socialDescription: Tarvo - Son of Aerys
 ---
 ![Tarvo](/static/images/tarvo.png)
 **Played by Dingus**
