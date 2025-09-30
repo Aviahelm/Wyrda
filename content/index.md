@@ -24,7 +24,7 @@ The #Player's had fun and so did I and wanted to continue in this world and expa
 
 My name is Aviahelm, Pagan or Zenn. I'll sometimes be referred to by the players by either or depending on who they are. Aviahelm is my gamertag, Zenn is my Discord tag and Pagan was a character I played!
 
-I'm the GM of this story! I make all the stuff with the help of[[How we do D&D| so many lovely creators]].
+I'm the GM of this story! I make all the stuff with the help of [[How we do D&D| so many lovely creators]].
 ## Who are the players ?
 
 Great Question!
