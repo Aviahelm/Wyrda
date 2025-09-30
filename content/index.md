@@ -1,8 +1,10 @@
 ---
 title: Main Page
 draft: false
-tags: 
+tags:
 enableToc: "true"
+socialImage: /static/WYRDA_3.png
+socialDescription: Welcome to our D&D Website!
 ---
 ## What is this ?
 
