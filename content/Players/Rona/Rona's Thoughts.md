@@ -21,15 +21,15 @@ Whatever it is Florien needs you to explain to him, I need to hear it too. There
 
 ### [[Sariel|Florien]]
 
-The moments with you today meant everything to me. I still can’t believe that, in the middle of all the destruction and fear we both carry, you found a way to make me laugh — and today, more than ever. The way you said you would keep an eye on me after I told you to keep one eye open, the banter we have… I love feeling carefree like that. It’s strange how being this close can be comforting, as much as the smell of your jacket made sleeping on a chair feel warm and safe from the inside out. What a strange but beautiful feeling that was.
+The moments with you today meant everything to me. I still can’t believe that, in the middle of all the destruction and fear we both carry, you found a way to make me laugh, and today more than ever. The way you said you would keep an eye on me after I told you to keep one eye open, the banter we share… I love feeling carefree like that. It’s strange how being this close can be comforting, as much as the smell of your jacket made sleeping on a chair feel warm and safe from the inside out. What a strange but beautiful feeling that was.
 
-And what a delight it was to trim your hair. There’s something special about putting my mark on you like that — helping choose your clothes, fixing your hair. It’s like a small piece of me stays with you, so even if I were gone, you might still be reminded of me.
+And what a delight it was to trim your hair. There’s something special about putting my mark on you like that, helping choose your clothes, fixing your hair. It’s like a small piece of me stays with you, so even if I were gone, you might still be reminded of me.
 
-I don’t know why I grew insecure about meeting your family for a moment when I asked if they would like me. Maybe I sense a connection you have with Faust that you’re not ready to break — or never want to — and it scares me. However much I might be part of your life, I worry it could cause problems if you want to be close to them but they don’t want me there. But that’s nonsense; there are far more important things to worry about. Besides, there seems to be a part of you that wants to run from your family, a sweet rebellious part. I can hardly believe you and I might have crossed paths before. Waterdeep is so big, yet you and I could have been there all those years ago — you running from the person you didn’t want to be, and me, on my journey for more, for adventure and the excitement of experience.
+I don’t know why I grew insecure about meeting your family for a moment when I asked if they would like me. Maybe I sense a connection you have with Faust that you’re not ready to break, or never want to, and it scares me. However much I might be part of your life, I worry it could cause problems if you want to be close to them but they don’t want me there. But that’s nonsense; there are far more important things to worry about. Besides, there seems to be a part of you that wants to run from your family, a sweet rebellious part. I can hardly believe you and I might have crossed paths before. Waterdeep is so big, yet you and I could have been there all those years ago, you running from the person you didn’t want to be and me on my journey for more, for adventure and the excitement of experience.
 
-I was so surprised when you offered for us to start again, to meet each other for the first time as who you truly are. Florien Wolfric… the bow… my heart nearly jumped out of my chest. I hope you couldn’t hear it. It’s times like these I’m glad for how well I can stay composed, though I seem to slip more and more into the opposite when it comes to you. I’ve had thoughts I never had before… but holding your hand is already more than I can take right now. And your sweet flusteredness — I never tire of it.
+I was so surprised when you offered for us to start again, to meet each other for the first time as who you truly are. Florien Wolfric… the bow… my heart nearly jumped out of my chest. I hope you couldn’t hear it. It’s times like these I’m glad for how well I can stay composed, though I seem to slip more and more into the opposite when it comes to you. I’ve had thoughts I never had before, but holding your hand is already more than I can take right now. And your sweet flusteredness, I never tire of it.
 
-I’m curious how you would enjoy spending time with me again in a calmer setting, where no worries weigh on our shoulders. Thank you, Florien, for everything — for your encouraging words, your patience and honesty, and for giving me a shoulder where I can rest my head and simply be.
+I’m curious how you would enjoy spending time with me again in a calmer setting, where no worries weigh on our shoulders. Thank you, Florien, for everything, for your encouraging words, your patience and honesty, and for giving me a shoulder where I can rest my head and simply be.
 
 ### [[Tarvo|Adam/Tarvo]]
 
@@ -37,7 +37,7 @@ I’m curious how you would enjoy spending time with me again in a calmer settin
 
 How are you holding up? I can’t tell you how much I missed you today. We went to a tavern, and the man and his daughter we once protected were there. I bet you would have loved to see them again. I wonder if you are aware of things in this moment.
 
-They even had a barrel of fish, and I had to giggle to myself — I knew you would have wanted one.
+They even had a barrel of fish, and I had to giggle to myself. I knew you would have wanted one.
 
 I have to admit, I struggle at times with Adam. He can be difficult to talk to, but that’s all right. He’s learning. Still, when he said everyone hates bards, that stung my ego.
 
@@ -45,7 +45,8 @@ At first, I wasn’t thrilled about splitting up, but in the end it turned out t
 
 He is trying. And oh, Tarvo, he cannot hold his liquor for anything. I’ll have to train him in the art of acting sober, or else he might spill too many secrets by accident.
 
-Still, he seems sweet, and just as lost as the rest of us. He is so different from you, but he shares your childlike heart — only his laughs come less easily than yours.
+Still, he seems sweet, and just as lost as the rest of us. He is so different from you, but he shares your childlike heart, only his laughs come less easily than yours.
+
 
 ## Rona's Thoughts on specific NPCs
 
@@ -59,8 +60,8 @@ And this system in Waterdeep… it needs fixing. They should be teaching healing
 
 ### Willow
 
-Then there’s this intriguing woman in the bar of the casino — the one with the striking hair. I haven’t come across someone like her before. She’s the most interesting person I’ve seen in all of Waterdeep. She knows how to persuade people, and that makes me curious. She plays her card game like someone who’s played it a hundred times. She could be a great ally, but her fixation on Florien bothers me. What is it about him that draws people in?
+Then there’s this intriguing woman in the bar of the casino, the one with the striking hair. I haven’t come across someone like her before. She’s the most interesting person I’ve seen in all of Waterdeep. She knows how to persuade people, and that makes me curious. She plays her card game like someone who has played it a hundred times. She could be a great ally, but her fixation on Florien bothers me. What is it about him that draws people in?
 
-I don’t trust that strange drink she’s been sipping. It’s fine — I don’t have to drink it. But… hmmm. Something feels off. A strange taste. Wait. Every drink here has that same taste.
+I don’t trust that strange drink she has been sipping. That’s fine, I don’t have to drink it. But… something feels off. A strange taste. Wait... Every drink here has that same taste.
 
-My head feels… light. Need to… avoid water… Willow—
+My head feels light. Need to… avoid water… Willow—
