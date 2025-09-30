@@ -68,9 +68,8 @@ export default (() => {
             <meta property="og:image:url" content={ogImageDefaultPath} />
             <meta name="twitter:image" content={ogImageDefaultPath} />
             <meta
-              //property="og:image:type"
-              //content={`image/${getFileExtension(ogImageDefaultPath) ?? "png"}`}
-              property="og:image:type" content="image/png"  
+              property="og:image:type"
+              content={`image/${getFileExtension(ogImageDefaultPath) ?? "png"}`}
             />
           </>
         )}
