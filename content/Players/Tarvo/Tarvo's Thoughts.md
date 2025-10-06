@@ -12,7 +12,7 @@ socialDescription: Tarvo's Thoughts
 
 Well… that went much worse than I expected. I did not exactly plan on getting drugged. By someone who I *later* found out was one of the many "people" behind that  very bomb. 
 
-What that did to do Tarvo, what it did *US*. To Billie? Does that not mean *anything!?
+What that did to Tarvo, what it did *US*. To Billie? Does that not mean *anything!?*
 
 But listen here for anyone with reason finding this letter. Now this. 
 
