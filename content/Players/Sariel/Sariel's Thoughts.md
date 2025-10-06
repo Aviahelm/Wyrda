@@ -10,28 +10,56 @@ socialDescription: Florien's Thoughts
 ---
 ## Florien's General Thoughts
 
-There is a strange quiet in me now, a calm that feels out of place. My body still trembles with the memory of panic, yet my thoughts no longer dwell on the horrors I have seen. Instead, I recall that even in the darkest hours, there are still moments of goodness—small favors given, debts repaid, proof that people can surprise you.
+It hurts to be reminded of what I’ve already known. I do not exist. All my years spent in this city, this hometown of mine, and what do I have to show for it? Nothing. Absolutely nothing. The scars on my face sting from the memories, reopening each time he is mentioned. Faust Wolfric. Florien Wolfric. Only one exists, only one is known. I cannot prove who I am, no matter how hard I try. One wrong move could end my life, or the lives of my friends. What can I do?
 
-I feel changed. Tired, yes, and unsure of what lies ahead for this city or for the friends I hold close. But beneath the exhaustion is a fragile determination. It wavers like a candle flame in the wind, yet it burns all the same. I did not feel this years ago with those mercenaries. Back then, all I had was fear. Now, there is something more.
+I glimpsed my own reflection earlier. I miss my long hair. I look just like him, everyone is right about that. My eyepatch seems like a meager disguise. My scars… Mother’s words ring in my head. Some things truly seem to find their place within my mind, festering. I wonder if you would want me to return, Mother. And Father—I don’t want to imagine what he thinks of me. The thought of _family_ brings an ache to my chest.
+
+Surely, a family that denies their own cannot truly be a family? Or am I foolish and unlearned to think that? I fear that I will never find my place. My people. I fear that my ~~friends~~ family is falling apart, desperately holding on to loosening seams. I don’t want to lose what we have.
+
+Please, you are all that Florien has.
+
+Who am I without them?
 
 ## Florien's Thoughts on the group
 
 ### [[Kerrick]]
 
-I still need to talk to him about that bloodbath, he owes me that much of an explanation.
+That suspicion, it’s returned in his gaze. He may not say it, but hearing those accusations must have turned his opinions against me. I cannot say I blame him. If I heard of a slaughter, committed even by my own friend, I too would be hesitant.
+
+He is too honest, and yet dishonest all at once. I see him speak in transactions, not of coin, but of information. It makes me wonder just how much I can tell him, if he would ever use that against me. I hate this doubt. He is my friend, but I cannot continue to deny just how little I know of him.
 
 ### [[Rona]]
 
-How I would love to see you dance one day, free of all the worries that weigh on your shoulders. It felt so good to spend time together again; we haven’t had that chance since Mere. You’re always so easy to talk to, and being near you sets me at ease.
+You promised to stay alive. I expect that promise to be kept. I tried my best to etch the memory of your features deep within my mind. What if we never meet again? What if I… What if I lose you? The very thought makes my chest tighten.
 
-You tease me often, saying you love it when I fluster. My mind always scrambles for words, but I welcome the warmth that rises with it. I’ll carry the memory of our “date” with fondness—like a safety net waiting to catch me when everything feels bleak.
+I kept my word, brought you to your family. I was foolish to think that I could possibly stay by your side, knowing damn well that the blood that runs through my veins is one that your brother wants to see spilled. I see the way they look at me, fury and disgust in their eyes when I stand close to you. I hoped it might be different. I thought I could prove my innocence. I wanted to be by your side, Rona. I wanted to be helpful. But my path has been paved for me, and it veers away from yours.
+
+After this is all over, and please, allow me just a moment of delusion—I will find my way back to you.
 
 ### [[Tarvo|Adam/Tarvo]]
 
-I never thought I would see my friend(?) drunk before. Has he ever had a lick of liquor? I only remember his bottomless appetite.
+_Friend_. I heard it, loud and clear in that voice of yours. You think of me as your friend. Have I done anything to deserve that affection? I feel guilty for missing Tarvo, but as time passes and Adam’s presence gets bolder, I find myself enjoying your company. You speak what’s on your mind, and your words cut sharp, precise, like a knife that’s wielded with care.
+
+I never was good at talking, and if I had tried, I would only have made a fool of myself. You _defended_ me. I thought you were different from Tarvo, but I see that loyalty you both hold towards your friends.
+
+I am lucky to know you.
 
 ## Florien's Thoughts on specific NPCs
 
 ### Willow
 
-Does she know who I am? The way she said my name — so pointed, so deliberate — felt like a knife sliding between the seams of my disguise. Those questions weren’t idle; they were aimed. She knows. She _definitely_ knows. But how? No one in Waterdeep should even know I exist.
+The venom in which she speaks my name feels laced with pain. She wouldn’t say how, but it’s clear to me that she knew Faust. Somehow, somewhere, their paths intertwined and something went awry. I do not dare to pry, she seemed like she would kill me if I asked further.
+
+She seemed amicable with Rona. Perhaps they could get closer, that might be good for them. Waterdeep has proven to be a city hostile against the Loran name, and it’s nice to see someone being cordial to Rona.
+
+I found myself apologising to Willow regardless. I do not know if that did more harm than good, hearing an apology from someone who only bears the face of the perpetrator. She does not trust me. I only hope I can prove my identity to her, in due time.
+
+### Yasin Loran
+
+That embrace he shared with Rona… I found myself wondering if I would ever be able to have that with my own brother.
+
+… Probably not. He would sink his blade in my chest for even allowing the thought to cross my mind.
+
+I wonder if there is a common ground we can agree on. It seems he has only clashed with Faust—would I have a chance to change his mind? There _has_ to be a way to resolve this conflict without any more bloodshed.
+
+I hope he keeps Rona safe from harm. She searched for him for _years_, and this is how he treats her. It leaves me with an ill feeling, not knowing if we made the right decision to let her on this quest alone.

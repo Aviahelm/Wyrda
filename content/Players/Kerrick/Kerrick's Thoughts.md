@@ -10,49 +10,38 @@ socialDescription: Kerrick's Thoughts
 ---
 ## Kerrick's General Thoughts
 
-I carry a lot of regret from earlier today. The heartbroken look in Rona’s and Florien’s eyes destroyed me. We have to find out what’s really going on here, and soon. I don’t know how much more of this senseless slaughter I can endure. My heart may be trained for war, but it is not made of stone.
+ I find myself increasingly troubled by the actions of these rebels. Their intentions, they claim, are noble. They seek the betterment of their people. Yet the means by which they pursue these goals are… questionable at best. Lies, thievery, and the sacrifice of their own number seem to be acceptable tools in their eyes. It is difficult for me to see how such choices might sustain them in the long term, even should they meet with short-term success. The groups choices may lie in different places, but the trust stays strong. Rona might think she's going into this alone, but I hope she knows that I'll be right around the corner with my eye on her every step of the way. 
+  
 ## Kerrick's Thoughts on the group
 
 ### [[Rona]]
 
-Rona and Florien's bond seems to have grown like a beautiful flower whose roots found themselves embedded in a rocky path. It seemed as though we interrupted a date of sorts between them, though I pray our arrival did not sour their rare moment of peace.
+*"These guards have so much power, you want to give them more?"* Ah, Rona. If only you could see the truth of things. Guards are powerless in this world. That is precisely why so many among us act out, why we cling to the orders given us. We are much like your family’s rebels, bound to obey, yet rarely told why. That knowledge is reserved for those above. 
 
-I appreciate her for asking about the statue outside, but I fear there is more to it than just decor. I wonder if there are any warlocks here.
+I worry that you are being manipulated by your Brother. He tasks you with something that could get you imprisoned, and yet you follow blindly, just as his soldiers did. Please, Rona, for your own safety, come back to us. The last thing I want is for Yasin to send you in as a sacrifice as well. 
 
 ### [[Sariel|Florien]]
 
-Florien seems to grow red whenever Rona is near. It is a breath of fresh air, seeing such a bond take shape in times as bleak as these. A sign of youthful affection, pure and unspoiled by the harsh reality forced upon us. It reminds me of what we fight for.
+*"A decade apart, and nothing to offer but a difficult decision"* You surprised me today, Your quiet demeanour had led me to believe you required protection. Yet today proved me mistaken. You possess courage enough to stand for your convictions, no matter the cost. I never thought I would witness you and Rona have a difference, but it's bound to happen with everyone who has grown as close as you two have. It is clear you care for her, she must now come to see that for herself.  
 
 ### [[Tarvo|Adam]]
 
-~~Tarvo~~ Adam is different. He's stern, knows exactly what he wants, and isn't afraid to say what's on his mind. Our disagreement felt needed; he has been cooped up in Tarvo's mind for some time now. The first change I noticed was when he took the lead in looking for Gwendolyn. I grew comfortable and was enjoying my time. I let my goal leave my head for a moment, and that’s never a good thing. I grew too comfortable, lost in fleeting joys and trivial distractions. If there is going to be any chance of finding Gwen, I must be rid of such distractions and strengthen my resolve.
+*"He's using your kindness against you"* Those words of yours struck me deeply. Not that long ago, I held similar thoughts regarding Tarvo. Adam, the wilderness has left its mark upon you. Not only in hardship but in growth. I wonder of what kind of people you encountered on your travels, for it is clear they have instilled in you a profound empathy. Yet empathy is a blessing and a curse. It reveals the world’s pain to you, yes, but not all men can bear such weight. 
 
-He scolded me for putting Tarvo in danger. It’s clear that he cares more for him than I ever could. Tarvo is not a sibling or imaginary friend; he is a part of Adam, and I need to accept that. When he went to the adventurers guild, Adam’s apology to Rona and his foresight in seeking Arispira’s kin revealed a man coming into his own.
-
-He’s taking charge in my moments of weakness, and I appreciate that more than anything.
-
-I am proud of the man he is growing to be.
 ## Kerrick's Thoughts on specific NPCs
 
-### Arispira
+### R.A.T.I
 
-Adam mentioned you today. I wonder how you are holding up on your travels. We found information about your family in the most fitting way possible—stealing it. You were always the best in our group at that, a blessing and a curse in my opinion. I'm not proud of my actions today, but if it gets us closer to finding Gwendolyn, I'll do anything. I wonder what your family knows of her disappearance.
-
-### Bryson
-
-He was very nice, but oblivious at best. I don't know how a guild could have this as the front face of their establishment, but it must speak volumes about who is in charge.
-
-### Rona and Florien's Relationship
-
-I envy the relationship they have the chance to build. It’s a beautiful thing, and I can’t help but wonder what kind of relationship Lady Gwendolyn and I would have built in the same situation. We were never given that chance.
-
-### Gwendolyn
-
-Sekaroth took more of a toll on me than I thought. I’m tired. It’s causing me to reflect on things I haven’t thought about in years. I dreamed about you today.  A painful vision of when I found out about your disappearance. It brought me to a dark place, somewhere I tried my very best to get out of.
-
-When you left the Kingdom, I was lost, I had no sense of direction. I always returned home to you, so when I returned and you were gone, I had no desire to do anything at all anymore, so that’s exactly what I did. Nothing.   
+An interesting being, something completely made of metal, his voice still echoes in my mind. How did this contraption come to be? I've heard stories of such contraptions, but they were mostly historical text I read while still in Aerys.
 
 ### Willow
 
-"Free drinks" came off the tongue almost too suspiciously, yet I didn't suspect a thing. An excellent host, and clearly they chose the right person for the job, because she seems to have information on everything, even if it is only a rumor. It's a shame I couldn't play her game for longer; I know she could have answered some of the questions I seek answers to. She seemed to know more about the rebels than she led us to believe.
+She follows orders, for this I relate to her, she is put in a rough spot because of her position, but her empathy cannot be ignored. She was the one who truly spent all that time with those Soldiers, not Yasin. I hope she grows to be heard and respected because she deserves that at the very least.
 
+### Yasin
+
+Explosives, sending his soldiers in blindly, letting them be pieces in his big game of chess, the very thought of it makes my stomach turn. People, lives, souls, they exist, these soldiers believed in what they were doing, in the cause, yet had no idea they were actually just sacrificial pawns for a plan with no end in sight.  
+
+### Gwendolyn
+
+The time for hesitation is over. It is time to find you.
