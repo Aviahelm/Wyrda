@@ -18,19 +18,19 @@ It is time for me to grow up.
 
 ## Rona's Thoughts on the group
 
-### [[Kerrick]]
-
-I'm curious how you handled it when you went to war, Kerrick, how you learned to endure the suffering and pain of others and still push forward. How do you treat people who lost everything, even parts of themselves, and still go on? How do I show my respect right? I feel like a child again; I have so much to learn about the world. I would like to learn some of it from you. And please, keep Adam from drifting too far into the wrong direction. He is so easily influenced with the wrong ideas.
-
-### [[Sariel|Florien]]
-
-I miss you. I feel like I won't be the same again when we meet. I am actually pretty certain that you won't recognize me. Perhaps I am more of who I am supposed to be now than I ever was before. That's a good thing, right? Stay safe... Florien
-
 ### [[Tarvo|Adam]]
 
 You and I are two sides of the same coin, Adam. Yours is gleaming, polished and displayed, yet coated with deceit and pollution, while mine is scuffed and honest, having been spent on the world. I think we both know that we won't ever be able to reach for the other side, not if stubbornness dictates our actions from here on out. I love you, and that might be the only bond we have: my care for you and your care for me. I just hope it can last.
 
 I saw you as a little brother, but as I learned now, even with my own blood, that it means nothing. Things can grow cold and distant. The worst of all is knowing that my actions are what make the difference in those relationships I try to care for, because it turns out, I am blindly reaching for what to do more than I was aware of. I'm afraid; I don't know how to keep this string intact that connects us. After all, I will not let my sympathy get in the way of the help for the rebels. I won't.
+
+### [[Sariel|Florien]]
+
+I miss you. I feel like I won't be the same again when we meet. I am actually pretty certain that you won't recognize me. Perhaps I am more of who I am supposed to be now than I ever was before. That's a good thing, right? Stay safe... Florien
+
+### [[Kerrick]]
+
+I'm curious how you handled it when you went to war, Kerrick, how you learned to endure the suffering and pain of others and still push forward. How do you treat people who lost everything, even parts of themselves, and still go on? How do I show my respect right? I feel like a child again; I have so much to learn about the world. I would like to learn some of it from you. And please, keep Adam from drifting too far into the wrong direction. He is so easily influenced with the wrong ideas.
 
 ## Rona's Thoughts on specific NPCs
 
