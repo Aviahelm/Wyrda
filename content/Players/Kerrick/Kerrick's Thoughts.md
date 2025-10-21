@@ -10,38 +10,48 @@ socialDescription: Kerrick's Thoughts
 ---
 ## Kerrick's General Thoughts
 
- I find myself increasingly troubled by the actions of these rebels. Their intentions, they claim, are noble. They seek the betterment of their people. Yet the means by which they pursue these goals are… questionable at best. Lies, thievery, and the sacrifice of their own number seem to be acceptable tools in their eyes. It is difficult for me to see how such choices might sustain them in the long term, even should they meet with short-term success. The groups choices may lie in different places, but the trust stays strong. Rona might think she's going into this alone, but I hope she knows that I'll be right around the corner with my eye on her every step of the way. 
+The lead of Arispira's family got us far, yet I now suspect we have reached the final leg of that particular pursuit. Rumors, speak of survivors of the Red Raids taking shelter within the Apartments. It is there, I believe, that our next course lies.  
+  
+The region in which these Apartments stand is of singular beauty. It is as though the city life is absent all together from this place. It’s quite peaceful in times like this.
+
+### Rumors about myself
+
+A dragon’s roar as I swing? Utter nonsense, of course… albeit rather flattering. I admit, such theatrics would make for a fine entrance.  
+  
+I appreciate Adam standing up for me, shutting down the rumors, for if I were to stand up to them myself, it would only confirm that a Dragon Slayer was indeed in Waterdeep, and I can’t have that information being out there. I’ll let these false rumors stand. Let them jest and whisper all they want.
   
 ## Kerrick's Thoughts on the group
 
-### [[Rona]]
+### [[Tarvo|Adam]]
 
-*"These guards have so much power, you want to give them more?"* Ah, Rona. If only you could see the truth of things. Guards are powerless in this world. That is precisely why so many among us act out, why we cling to the orders given us. We are much like your family’s rebels, bound to obey, yet rarely told why. That knowledge is reserved for those above. 
-
-I worry that you are being manipulated by your Brother. He tasks you with something that could get you imprisoned, and yet you follow blindly, just as his soldiers did. Please, Rona, for your own safety, come back to us. The last thing I want is for Yasin to send you in as a sacrifice as well. 
+Adam remains a curious fellow. I suspect he perceives me as lacking in conviction, hesitant, perhaps even timid. He is mistaken. I act with deliberation, not fear. There is a time to step forward and a time to observe. I pride myself on knowing the difference.
+  
+His conversation with the Dryad seemed to bring him Hope, “She’s alive” he said. I hope the words this creature speaks are true. Though, I cannot dismiss the knowledge that many beings of the wild possess manipulative tactics. Their wisdom, their truths, often cloaked in riddles, serves as the end of many individuals.
 
 ### [[Sariel|Florien]]
 
-*"A decade apart, and nothing to offer but a difficult decision"* You surprised me today, Your quiet demeanour had led me to believe you required protection. Yet today proved me mistaken. You possess courage enough to stand for your convictions, no matter the cost. I never thought I would witness you and Rona have a difference, but it's bound to happen with everyone who has grown as close as you two have. It is clear you care for her, she must now come to see that for herself.  
+Florien, a man of quiet resolve, charting his own course through a world, rare nowadays it seems. There is a discipline in him, he is still maturing, but I have seen the beginnings of something admirable. A careful mind, nimble hand, and a growing mastery of his blade. I trust he can take care of himself. The city is no place for the unprepared, I sense he understands this well.
 
-### [[Tarvo|Adam]]
+### [[Rona]]
 
-*"He's using your kindness against you"* Those words of yours struck me deeply. Not that long ago, I held similar thoughts regarding Tarvo. Adam, the wilderness has left its mark upon you. Not only in hardship but in growth. I wonder of what kind of people you encountered on your travels, for it is clear they have instilled in you a profound empathy. Yet empathy is a blessing and a curse. It reveals the world’s pain to you, yes, but not all men can bear such weight. 
+I find myself concerned for her wellbeing. There is a weight upon her shoulders, that much is clear. Though it seems like she was really considering these reckless acts her brother is asking of her.  
+  
+By the Gods Rona, you better stay out of trouble, I can’t save you if you end up in the prison here in Waterdeep. The law is as strong as iron here, and even a Dragon Slayer has legal limitations.
+
 
 ## Kerrick's Thoughts on specific NPCs
 
-### R.A.T.I
+### Bertram the Tabaxi
 
-An interesting being, something completely made of metal, his voice still echoes in my mind. How did this contraption come to be? I've heard stories of such contraptions, but they were mostly historical text I read while still in Aerys.
+It’s rare that I come across Tabaxi,  A gentle soul, soft of speech and deep of thought. Few of his kind remain in the city, and fewer still who would risk sheltering the young. I offered him a path, sending the children to Aerys, where they may yet find peace. I pray he considers it.  
+  
+He seemed to have come across Arispira’s Family, but he knew of her as Melody, maybe a false name? He said they went to Ashvara, but something about that didn’t sit right with me. Ashvara, veiled and sealed as it is, does not permit entry lightly. Only those of a certain soul may pass through.  
 
-### Willow
+### DRYAD
 
-She follows orders, for this I relate to her, she is put in a rough spot because of her position, but her empathy cannot be ignored. She was the one who truly spent all that time with those Soldiers, not Yasin. I hope she grows to be heard and respected because she deserves that at the very least.
-
-### Yasin
-
-Explosives, sending his soldiers in blindly, letting them be pieces in his big game of chess, the very thought of it makes my stomach turn. People, lives, souls, they exist, these soldiers believed in what they were doing, in the cause, yet had no idea they were actually just sacrificial pawns for a plan with no end in sight.  
+A mystical creature, a creature of deep rooted magic and memory, it took the form of a tree before our very eyes. I was left wondering, what tongue did it speak? How is it that Adam understood it so naturally? It granted him comfort regarding Gwendolyn, but what could this creature know? Could it really have been around for long enough that it knows of even the Red Raids themselves? I should consult with Sekaroth about this creature, maybe he’s seen them around when he was on this plane.
 
 ### Gwendolyn
 
-The time for hesitation is over. It is time to find you.
+Adam seems to be confident of your survival now, this brings me more peace than I think he realized. One step at a time, we will find you. One step at a time. 
+
