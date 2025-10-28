@@ -1,5 +1,5 @@
 ---
-title: Adam's Thoughts
+title: Tarvo's Thoughts
 draft: false
 tags:
   - Tarvo
