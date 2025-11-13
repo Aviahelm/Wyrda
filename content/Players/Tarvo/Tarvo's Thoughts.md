@@ -10,25 +10,25 @@ socialDescription: Tarvo's Thoughts
 ---
 ## Tarvo's General Thoughts
 
-Where is Tarvo? Why Kerrick look. Sad. At least Tarvo found other man with brain. Hope flower and Rona ok. 
+That man. Weak. Tarvo kill. Are all guards this weak. Tarvo too strong. Tarvo did right thing. Guard was using power for wrong reason. Tarvo protect cubs. 
 
 ## Tarvo's Thoughts on the group
 
 ### [[Sariel|Florien]]
 
-Tarvo rock. You. Flower. Tarvo stay same. Tarvo strong
+Flower. Thank you. Saved me. You weak but protect Tarvo. Tarvo happy but a little embarrassed. Thank you for heal. 
 
 ### [[Kerrick]]
 
-Tarvo sorry about bread lady. Tarvo knew you liked her. Tarvo will kill anyone who hurts you do not worry. Tarvo strong.
+Kerrick. Tarvo sorry. Hope you ok. Gwen. Find. Her. Tarvo will catch up. Tarvo has impeccable tracking skills. 
 ### [[Rona]]
 
-Tarvo wonder where Rona is. Hope ok. Tarvo will come. Tarvo strong.
+Tarvo. He like new hair. Tarvo feel something different. Air. Smell. Face. You changed. Tarvo sorry he left. You are soft and weak. Tarvo strong and tough. 
 
 ## Tarvo's Thoughts on specific NPCs
 
-### Nirmal (Strong Looking Hunter Man)
+### Random Guard
 
-Tarvo like smart men.
+Tarvo got you good. Weak. Tarvo strong. 
 
 

@@ -10,89 +10,72 @@ socialDescription: Rona's Thoughts
 ---
 ## Rona's General Thoughts
 
-I am trembling on unknown territory, and I am shaken. It feels like a thin layer of ice has turned into the path I am walking upon, and every step could cause this sensitive ground to crumble and break further until not only I drown, but everyone around me does, too. My actions have consequences; my ignorance comes to everyone’s disadvantage. Have I forgotten so much what suffering looks like? I once knew how it felt to be caged, to be pushed to do something I didn’t want to do but had to, just to save my own life. I killed... and yet I judge others. 
+I already had the suspicion that there was a higher power behind all of this. There are too many signs pointing to a third party being involved. The coincidence that we found this letter… it's either our luck or our misfortune. But I have to tell Yasin. Eventually, there must be a way to end this cycle of loss and pain, by striking at the root of the problem itself. I'll tell him that Florien was the one who warned us.
 
-I have judged. But it makes sense. I am so far up on my high horse. I got too comfortable with a life without boundaries, without consequences, without needing to care for anyone but myself. Everyone has made me feel insignificant and small, and now I experience how it feels not to be able to charm anyone, or to convince them with my smile, or to gain sympathy that easily. And I just notice what a naïve child I am for even wanting to do that. I have no right to say I care for the people when I realize how selfish I must have seemed. I could bang my head against the desk. They are sleeping cosy and sound in their beds, eating their food, and not once have I asked. I haven't looked. I haven't seen. Yasin's missing hand, Willow's missing eye, the pain she went through with Faust, and I only cared for Florien. Those are real people with real pain, and they have no time for a child like me to look after. 
+I keep wondering who it was that came to Waterdeep and made everything worse. I heard the guards talking about Lower Waterdeep and its people, as if they were dangerous. Just as Yasin said, the people there are treated as lesser. "Rebel" is just another word they use to degrade them.
 
-It is time for me to grow up.
+I'm afraid to learn more about these underground fight clubs. I'm afraid there are darker things happening beneath the surface. The fact that there are no patrols in that part of the city means something. I know what that kind of silence hides... from my time at sea, I've seen what happens behind closed doors when no one is asking questions.
+
+So I'll stay close to my friends. Maybe I can learn something useful. Even if it's harder to keep myself unseen with a group around me. I hate needing to keep my distance, but I have bigger responsibilities now.
 
 ## Rona's Thoughts on the group
 
-### [[Tarvo|Adam]]
+### [[Tarvo|Adam/Tarvo]]
 
-You and I are two sides of the same coin, Adam. Yours is gleaming, polished and displayed, yet coated with deceit and pollution, while mine is scuffed and honest, having been spent on the world. I think we both know that we won't ever be able to reach for the other side, not if stubbornness dictates our actions from here on out. I love you, and that might be the only bond we have: my care for you and your care for me. I just hope it can last.
+Tarvo, this back and forth between you and Adam is starting to worry me. You take it lightly, though not as lightly as Adam did when he first appeared. I've missed your warmth, but somehow, you seem wilder than before. Reckless.
 
-I saw you as a little brother, but as I learned now, even with my own blood, that it means nothing. Things can grow cold and distant. The worst of all is knowing that my actions are what make the difference in those relationships I try to care for, because it turns out, I am blindly reaching for what to do more than I was aware of. I'm afraid; I don't know how to keep this string intact that connects us. After all, I will not let my sympathy get in the way of the help for the rebels. I won't.
+I saw you kill a man without hesitation. I really hope you don't do that to everyone you meet. This isn't the wilderness. The rules here are different. As much as I love you, you could become a danger to my cause if you keep acting this way.
+
+If you truly are the great mother wolf you claim to be, then remember, protection also means restraint. Sometimes, to keep your cubs safe, you have to hold yourself back.
+
+Still… I'm so glad you're back. I just don't know how much of a wild card you and Adam really are. He's unpredictable with his words, and you with your actions. It makes me anxious.
+
+I don't mean to distrust you. I still see the same charming boy beneath it all, but… what are you doing? You don't belong in a jail, Tarvo. Think about your mother.
 
 ### [[Sariel|Florien]]
 
-I miss you. I feel like I won't be the same again when we meet. I am actually pretty certain that you won't recognize me. Perhaps I am more of who I am supposed to be now than I ever was before. That's a good thing, right? Stay safe... Florien
+I don't know what's happening to you. You met Faust alone, and now you're acting so unlike yourself. You were anxious before, but this feels different.
+
+It reminds me of Mere... of when I heard my mother's voice in my head. That same panic, that same need to pull away. Maybe it's something we can't understand, something only you can feel. I don't know what power he holds over you, or maybe it's just the memory of him, but I wish this wasn't something you had to face alone.
+
+I remember how you were there for me in Mere. Now I understand what it's like... to want to help, but to know all you can do is give someone space and watch.
+
+Whoever Tyr is… I thought Tyr was a god. Do you pray to him to feel better? I'm curious. If it helps, breathing, space, then I'll make sure you have it.
+
+I just wish we had more time to enjoy the normal moments. The usual banter. That whole husband-and-wife act made me smile. It felt normal, like the distance between us wasn't so wide after all. It was too short-lived. How do we hold on to those brief moments when everything else is so heavy?
+
+I don't know what I can do for you when you face Faust again. But I'm with you, always. We've parted once more, but at least this time it doesn't feel like forever.
+
+I only hope Faust hasn't cursed you, or that your memories aren't what's hurting you. You once said you don't know how long you'll have us, but the truth is, you already have us within you. You'll have us forever.
+
+Stay strong, Florien.
 
 ### [[Kerrick]]
 
-I'm curious how you handled it when you went to war, Kerrick, how you learned to endure the suffering and pain of others and still push forward. How do you treat people who lost everything, even parts of themselves, and still go on? How do I show my respect right? I feel like a child again; I have so much to learn about the world. I would like to learn some of it from you. And please, keep Adam from drifting too far into the wrong direction. He is so easily influenced with the wrong ideas.
+It makes sense that the rebels don't distrust you as much as they do Adam or Florien. You're quiet, and most of the time, wise. You keep yourself hidden too, and there's a compassion in you that helps you understand the rebels, even if I haven't told you everything I could. I knew you would understand anyway.
+
+We haven't connected much yet, but I think I can trust you. I know I have a strong man watching my back for whatever comes next, even if, for the most part, I have to face this alone. You're a friend who knows what I need to do, and why it's necessary.
+
+I think I finally understand the reason behind your restrained demeanour. You and I, we're both devoted to what we care about. For you, it may be Gwendolyn. For me, it's my people. Perhaps there's someone else significant for both of us, but I can't focus on that now. The cause comes first.
+
+I'm glad I understand you better now. Before, you were just an old man, too kind, too forgiving of Adam and Tarvo's actions. But I see it differently now. You're still learning how to be a parental figure yourself, with no one to show you how.
+
+I may not have children of my own, but I've always been good with them. I'll gladly share what I know to help you shape our beloved wilderness prince into a good man. Adam and Tarvo, both need guidance. Until he's reunited with his mother, I'll care for him, both of them, as best I can.
+
+You helped an orphanage once, didn't you? You care for those who will shape the future. I respect that deeply.
+
+I hope the encounter we're about to face brings you the answers you need and brings you a step closer to Gwendolyn.
 
 ## Rona's Thoughts on specific NPCs
 
-### Betty
-
-Thank you for feeding me. I am grateful for every crumb of food I can get, and for being served a delicacy like a French toast. I hope that man called French knows how good his creation tastes, though it is Betty who brought it into existence with her skilled hands.
-
-May we be able to prevent you from losing more than your leg. I hope I can leave Waterdeep someday knowing wonderful people like you don't have to make sacrifices like that anymore.
-
-### Bob (The Tailor)
-
-I have been too used to sweet-talking and saying the right and nice things during my travels and being surrounded by the wrong and false faces of the world that I was surprised to be hit with so much brutal honesty. I also had never had anyone tell me my clothing was terrible. The whole experience was obscure, but I can't deny it: I am utterly satisfied with my new outfit.
-
-Him not getting paid for his hard work made me feel guilty; it feels like I am taking away from the little the people already have.
-
-Thank you, Bob. I do disagree: green suits me very well, but blue even more so.
-
-### Children of Lower Waterdeep
-
-It is incredibly terrifying to see a child drop to their knees and beg not to be killed, and have that be just a game to them. They have seen and heard such gruesome things already at their young age that it has carved deeply into them and become a game... a fucking game. The guards are monsters.
-
-I will teach these kids a better game, one that they can enjoy, one that doesn't steal their innocence. The future generation should remember, but they should not be ripped off their childhood in that way.
-
-I will cherish the sweet act of the braiding of my hair forever, the little rings in my hair, everything, a reminder for me of what I will fight for from now on. These children deserve to feel safe, to be fed, and to be medicated. I won't stand by and just watch these monsters do this any longer! Mother, send me strength for this!
-
-### Faust
-
-You better watch your back, Butcher.
-
-### R.A.T.I
-
-That I would feel guilty for intruding on the space of a being like you was not on my list. I know I sound judgmental, and I apologize for being so green behind the ears, not knowing anything about you and not asking either. To be honest, maybe getting to know you is a good way to learn more about this world, even if my guilt or empathy matter none to you. I have yet to figure out if you feel, think, or if you are pure calculation. I am sorry for causing you a sleepless night. The rebels rely on you, and so I respect you, just like I respect anyone else here.
-
-### The Lady at the Shipyard
-
-Sorry, ma'am, for making you sacrifice your break for nothing. The disappointed look crushed my soul. You are hardworking to keep things running, and I come with my silly hair requests. It made all too much sense that others thought I was crazy. I think I am.
-
 ### Willow
 
-I wonder what must have pushed you so far that you had to kill someone, and how bad that person must have been to cause you to do it. I don't think you acted out of malice. I know not much about Faust, but I can't imagine he had a reasonable (or at least, a good enough) reason for telling on you and having you arrested. Yet, I do wonder what could have pushed him to betray someone he supposedly loved. Did you kill someone close to him?
+Somehow, you were more right about who to trust than I realized. I had barely left the rebels when I was forced to hide again, one of my friends murdered a guard. I won't cry for the guard, but it's dangerous to be seen with a killer. It puts the entire cause at risk.
 
-I don't mean to judge; I just want to understand what could have gotten him to betray you in this way. Was he doing it willingly?
+And Florien… he's been acting strange. I wonder if this is something you experienced with Faust too.
 
-I hope I get to learn the truth someday, not for the sake of knowing more about Faust, but to learn more about you, your motives, your wishes, your stories. I think I want to meet the Willow that my brother knows. So far, I know you are incredibly strong and, just like everyone else down here, you fight for the future generation, and you are willing to give everything for it.
-
-I get the feeling you and I relate in that way, though you have actually fought, actually suffered. I would love to stick around and learn from you, to see the world through your eye. I'm sorry for my naivety, for questioning your ways. It is easier to judge the violence than to see what there truly is left to do.
-
-The children, this game they played. That is your daily reality, and yet I find myself wincing at things like that. Sometimes I feel like I am no better than these nobles, who are so disconnected from reality. But I know I have a choice: to keep my eyes open and listen, to see the truth and change something.
-
-Change is possible. That is a belief I think we both share, and I, too, am willing to make sacrifices. Let's make a change together.
+I have to admit, I miss having you beside me. Another feminine presence, it was comforting. It made me feel grounded. I was reminded of Sir French's toast, and even though my time in Lower Waterdeep humbled me, I find myself missing the charm of that place. Maybe it felt more like home than I ever realized.
 
 ### Yasin
 
-You're not my little brother anymore. You're a man, a person, a being that lives on for these people down here, the rebels. None of you deserved what happened to you, but I know sweet words don't matter; they do little to nothing. You're right, I am useless for most things, but the little I can do, I will do. You can rely on me.
-
-It is me who needs to grow up. I am far from knowing what you've been through. I could bite myself for how ignorant I was, and how blind, to walk this world not seeing the gruesome reality. I know now that it is better to sometimes shut up and listen, to know when it is my turn to put my focus on what truly matters.
-
-Yasin, maybe our family connection doesn't matter right now, but it is what allows my friends and I to be here. I used my charm and my bold assumption that I had a right to get any special treatment before to walk in your space and take time and resources without question, and you offered from the little you have. Thank you, brother, but I will not go on doing this again. I want to give back to you.
-
-The task you give me, I will do. I will do exactly as you said. I will not question you; I will follow in line. I know anything else can put the people at risk, and I don't want that. I chose to be here, and I do not back out, no matter what.
-
-
-### Yosef Loran
-
-I said everything I had to say. There are no more words left. Find your Peace.
+I have my head straight at the task at hand, Brother. I will not disappoint you.

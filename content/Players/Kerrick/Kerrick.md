@@ -23,7 +23,7 @@ Still, Kerrick pressed on, rising further. His deeds became legend. They say he 
 
 At the peak of his ascent, the dream unraveled.
 
-While away on a six-month campaign to pacify a dragon threat in the wild lands of Myrcath, Kerrick returned to find the world changed. Gwendolyn his unreachable star had married **Zachariah, Herald of the Sun**, and now bore the title **First Empress of Aerys**.
+While away on a six-month campaign to pacify a dragon threat in the lands of Iskar, Kerrick returned to find the world changed. Gwendolyn his unreachable star had married **Zachariah, Herald of the Sun**, and now bore the title **First Empress of Aerys**.
 
 Heartbroken, Kerrick continued to serve the crown. His loyalty remained unwavering, though his heart grew quiet. For fifteen long years he bore the weight of his station, until the impossible happened. Gwendolyn vanished. She died in [[The Red Raids]]. Without her, the Empire no longer felt whole. And Kerrick withdrew. He returned to the silent rooms above his parents’ shop. Five years passed in shadow. His bright flame dulled to embers, and in the stillness, he began to see the Empire more clearly... its choices, its rot, its burdens.
 
