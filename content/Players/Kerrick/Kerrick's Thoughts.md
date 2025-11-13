@@ -14,14 +14,21 @@ A lot has happened today, far too much to comprehend right now, for I need my an
 
 ## Kerrick's Thoughts on the group
 
-### [[Tarvo|Adam/Tarvo]]
+### [[Tarvo|Adam]]
+
+There is something that happened between him and Hypatia. 
+
+I cannot fathom why he chose to conceal her presence from me, especially given her history with Gwendolyn. Hypatia appears shaken, haunted by something tormenting her. I must discover what befell her, and what role Adam played in it. 
+
+Did he truly take the letter and depart without a word? The matter reeks of deeper mischief. I will have my answers, one way or another.
+
+### Tarvo
 
 Today’s events were nothing short of alarming. He panicked under pressure, an error even seasoned men are not immune to, but to fire upon a guard while amidst hostile territory? Such recklessness could have doomed us all. 
 
 I thought I taught you better than that, to stay low while were in enemy territory. It pains me to criticize someone who's grown to be a son to me, but sometimes discipline is necessary. 
 
 I am thankful for Florien standing up for you, for if he didn't we might have had an all out battle on our hands, and possibly even a war. 
-
 ### [[Sariel|Florien]]
 
 To meet Faust in secret was ill advised at best, and treacherous at worst. You've been on our radar since we found out your name was actually Florien. What are you hiding under that fragile demeanour? What did you and Faust talk about? I worry about who you truly are, and what you refuse to show us. 

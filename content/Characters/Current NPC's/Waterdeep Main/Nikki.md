@@ -24,7 +24,7 @@ Nikki wears a sparkling blonde sequin dress and diamond earrings, carefully chos
 
 ### Mannerisms: 
 
-Nikki is direct and unflinching, often coming across as rude or disrespectful. She does not mince words, speaking with brutal honesty, yet her knowledge and experience are evident. Her frankness can serve a practical purpose, helping travelers navigate Upper Waterdeep and avoid missteps that might mark them as outsiders or of lower status.
+Nikki is direct and unflinching, often coming across as rude or disrespectful. She does not mince words, speaking with brutal honesty, yet her knowledge and experience are evident. Her frankness can serve a practical purpose, helping travellers navigate Upper Waterdeep and avoid missteps that might mark them as outsiders or of lower status.
 
 ### Allegiance: 
 

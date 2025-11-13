@@ -16,7 +16,7 @@ Artist
 
 ### Location:
 
-Lower Waterdeep
+The Route to Lower Waterdeep
 
 ### Appearance:
 
