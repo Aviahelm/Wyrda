@@ -1,5 +1,5 @@
 ---
-title: Session 9
+title: Tarvo's Thoughts
 draft: false
 tags:
   - Tarvo
