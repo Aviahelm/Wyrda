@@ -3,6 +3,8 @@ title: The Character Thoughts
 draft: false
 tags:
 enableToc: "false"
+socialImage: images/WYRDA_1.png
+socialDescription: Character Thoughts
 ---
 ## Welcome to the Character Thoughts
 
