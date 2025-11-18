@@ -32,7 +32,7 @@ Pronounced:
 
 [[Tarvo|Adam:]]
 
-[[Sariel|Florien:]]
+[[Florien|Florien:]]
 
 [[Kerrick|Kerrick Lurgan:]]
 

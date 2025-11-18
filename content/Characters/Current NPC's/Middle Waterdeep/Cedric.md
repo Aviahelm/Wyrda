@@ -36,6 +36,6 @@ Cedric is regarded as one of the great translators, capable of understanding mos
 
 ### Relationships:
 
-[[Sariel|Florien:]] Positive
+[[Florien|Florien:]] Positive
 
 Florien has brought him a conundrum which he seems very keen to solve. He looks forward to their next meeting.

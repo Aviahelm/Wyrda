@@ -28,6 +28,6 @@ She clung to that hope, vowing to rise from the darkness. One day, she would wie
 
 She'd write letters to her heroes hoping that it would fill them with the same kind of happiness that she'd get receiving them. 
 
-She wrote letters to [[Rona]] about how she was learning the flute, to [[Pymis]] asking more about spells and teasing him with things about Tessa, to [[Arispira]] and [[Sariel]] wanting to know more about them and to [[Tarvo]] where she drew pictures of him hoping he'd understand them after some encouragement from Bran. 
+She wrote letters to [[Rona]] about how she was learning the flute, to [[Pymis]] asking more about spells and teasing him with things about Tessa, to [[Arispira]] and [[Florien]] wanting to know more about them and to [[Tarvo]] where she drew pictures of him hoping he'd understand them after some encouragement from Bran. 
 
 *Here's to you heroes*

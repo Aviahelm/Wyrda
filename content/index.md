@@ -23,7 +23,7 @@ Great Question!
 
 1. Eyegum who plays [[Tarvo]]
 2. Jade who plays [[Rona]]
-3. LeeKoii who plays [[Sariel|Florien]]
+3. LeeKoii who plays [[Florien|Florien]]
 4. Reddiez who plays [[Kerrick]] and formerly [[Pymis]]
 
 ### You have guest roles?

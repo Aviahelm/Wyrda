@@ -38,7 +38,7 @@ Pronounced: *jay-mz*
 
 [[Tarvo|Adam:]]
 
-[[Sariel|Florien:]]
+[[Florien|Florien:]]
 
 [[Kerrick|Kerrick Lurgan:]]
 

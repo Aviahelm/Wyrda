@@ -36,7 +36,7 @@ The Public sees them as a genius. Their artwork moving most of Waterdeep. The fa
 
 ### Relationships:
 
-[[Sariel|Florien:]] Neutral
+[[Florien|Florien:]] Neutral
 
 While they have met Florien. They've totally forgotten about him entirely.
  

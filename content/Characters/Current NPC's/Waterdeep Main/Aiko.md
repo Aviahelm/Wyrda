@@ -36,7 +36,7 @@ Most of Waterdeep sees Aiko as an older woman who keeps to herself. She is often
 
 ### Relationships:
 
-[[Sariel|Florien:]] Neutral
+[[Florien|Florien:]] Neutral
 
 [[Kerrick|Kerrick Lurgan:]] Neutral
 

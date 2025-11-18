@@ -1,5 +1,5 @@
 ---
-title: Tarvo's Thoughts
+title: Session 9
 draft: false
 tags:
   - Tarvo
@@ -14,7 +14,7 @@ That man. Weak. Tarvo kill. Are all guards this weak. Tarvo too strong. Tarvo di
 
 ## Tarvo's Thoughts on the group
 
-### [[Sariel|Florien]]
+### [[Florien|Florien]]
 
 Flower. Thank you. Saved me. You weak but protect Tarvo. Tarvo happy but a little embarrassed. Thank you for heal. 
 

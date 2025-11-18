@@ -37,7 +37,7 @@ The adventuring party she joined was not just a way to earn coin or collect stor
 
 Not wanting to part with her newfound companions, Rona followed them to [[Mere]], a city drowning in shadows and secrets. Mere took something from her. It twisted her thoughts through the curse of an object she accepted willingly for the sake of a city not her own. But it also gave her something she never expected: the **need** to rely on others.
 
-She grew close to [[Sariel]], mysterious and guarded. He listened more than he spoke, and for the first time in her life, Rona allowed herself to want someone to carry her, if only for a moment.
+She grew close to [[Florien]], mysterious and guarded. He listened more than he spoke, and for the first time in her life, Rona allowed herself to want someone to carry her, if only for a moment.
 
 She admired [[Tarvo]], wild and strange, with a soul more open than anyone she had ever met. His strength came not from pain, but from love. She saw it, and it changed her.
 

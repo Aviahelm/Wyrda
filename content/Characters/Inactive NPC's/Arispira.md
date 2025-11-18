@@ -22,7 +22,7 @@ She believed her parents were dead. Grief quickly hardened into rage. Under the 
 
 When she came of age, she left the elves behind and began hunting the raiders responsible for Mere’s fall. One by one, she tracked them down across the land. Some fell to her blade, others to misfortune or the hands of strangers, and each time she felt a little less satisfied. Years passed, and when at last she believed the last of them was dead, she was left hollow.
 
-She wandered, unsure where to go, until she saw a [[The Revellia Quest|posting]] for a job that paid next to nothing. For reasons she couldn’t explain, she took it. That choice brought her to [[Tarvo]], [[Pymis]], [[Sariel]], and [[Rona]] and, unexpectedly, to companionship that felt more permanent than the work itself.
+She wandered, unsure where to go, until she saw a [[The Revellia Quest|posting]] for a job that paid next to nothing. For reasons she couldn’t explain, she took it. That choice brought her to [[Tarvo]], [[Pymis]], [[Florien]], and [[Rona]] and, unexpectedly, to companionship that felt more permanent than the work itself.
 
 After saving a girl during that quest, the group learned that Mere was once again under attack. This time, Arispira didn’t hesitate. Something about these people made her believe she could rely on them, and she set out with them for her old home. Pymis stayed behind for his so-called “girlfriend,” but the rest pressed on.
 

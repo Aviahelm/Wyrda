@@ -1,5 +1,5 @@
 ---
-title: Rona's Thoughts
+title: Rona Thoughts
 draft: false
 tags:
   - Kerrick
@@ -32,7 +32,7 @@ Still… I'm so glad you're back. I just don't know how much of a wild card you 
 
 I don't mean to distrust you. I still see the same charming boy beneath it all, but… what are you doing? You don't belong in a jail, Tarvo. Think about your mother.
 
-### [[Sariel|Florien]]
+### [[Florien|Florien]]
 
 I don't know what's happening to you. You met Faust alone, and now you're acting so unlike yourself. You were anxious before, but this feels different.
 

@@ -40,7 +40,7 @@ Though many view Nikki as rude or disrespectful, her striking appearance and pol
 
 [[Tarvo|Adam:]]Slightly Negative
 
-[[Sariel|Florien:]] Slightly Negative
+[[Florien|Florien:]] Slightly Negative
 
 [[Kerrick|Kerrick Lurgan:]] Slightly Negative
 

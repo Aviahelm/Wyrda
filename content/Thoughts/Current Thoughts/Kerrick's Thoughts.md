@@ -1,5 +1,5 @@
 ---
-title: Kerrick's Thoughts
+title: Kerrick Thoughts
 draft: false
 tags:
   - Kerrick
@@ -29,7 +29,7 @@ Today’s events were nothing short of alarming. He panicked under pressure, an 
 I thought I taught you better than that, to stay low while were in enemy territory. It pains me to criticize someone who's grown to be a son to me, but sometimes discipline is necessary. 
 
 I am thankful for Florien standing up for you, for if he didn't we might have had an all out battle on our hands, and possibly even a war. 
-### [[Sariel|Florien]]
+### [[Florien|Florien]]
 
 To meet Faust in secret was ill advised at best, and treacherous at worst. You've been on our radar since we found out your name was actually Florien. What are you hiding under that fragile demeanour? What did you and Faust talk about? I worry about who you truly are, and what you refuse to show us. 
 

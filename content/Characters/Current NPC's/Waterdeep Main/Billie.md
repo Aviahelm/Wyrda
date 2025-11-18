@@ -40,7 +40,7 @@ She will be missed.
 
 [[Tarvo|Adam:]] Positive
 
-[[Sariel|Florien:]] Neutral
+[[Florien|Florien:]] Neutral
 
 [[Kerrick|Kerrick Lurgan:]] Positive
 

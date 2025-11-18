@@ -1,8 +1,10 @@
 ---
-title: Adam's Thoughts
+title: Adam Thoughts
 draft: false
-tags: 
+tags:
 enableToc: "false"
+socialImage: images/tarvo.png
+socialDescription: Adam's Thoughts
 ---
  
 ## Adam's General Thoughts
@@ -11,7 +13,7 @@ What is it that they love about you so much. You murdered someone in cold blood.
 
 ## Adam's Thoughts on the group
 
-### [[Sariel|Florien]]
+### [[Florien|Florien]]
 
 You, Florien, saved *us*. 
 The both of us.
