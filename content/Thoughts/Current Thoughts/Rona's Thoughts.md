@@ -71,7 +71,7 @@ Thank you for trusting me enough to see these parts of your life, to meet someon
 
 ## Rona's Thoughts on specific NPCs
 
-### FanFic Guy
+### FanFic Guy ([[Zeffo]])
 
 I cannot wait to read the story about these vampire and human romances and the eventual hybrid they produce. I wonder if I could write a song about that, spreading the word of the coming story. I am intrigued. What a fan fiction writer is truly capable of. Maybe a way to convey my appreciation for who I am a fan of. A bard and elf tale perhaps.
 
