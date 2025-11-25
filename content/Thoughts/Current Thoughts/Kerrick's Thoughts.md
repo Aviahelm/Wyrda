@@ -14,6 +14,17 @@ socialDescription: Kerrick's Thoughts
 
 Waterdeep has proven to me that I can't deal with things like I used to. Enough is enough, I have found a way to make myself a little closer to how powerful I once was, and I won't be turning that down, not now that I need to protect my friends the most. What would have happened if Florien wasn't there the day Tarvo killed that guard? We probably would have all been killed.... I have had to sit back, and watch as those my friends cared about were executed right in front of my eyes. More importantly, I was powerless in your decisions... Gwendolyn…
 
+### Gwendolyn
+
+You never made it to Waterdeep.. so where could you be? The last time you were seen or heard from was the Red Raids. I hear Adam say you're alive, but was that dryad creature just giving him hope? Then this ritual? Was it the ritual that Daveed was involved in? 
+
+I don't want to think that you're gone, but it's hard not to at this point... I have nothing. No leads, no ideas, nothing. Just more questions. If Waterdeep wasn't meant to be your final destination. Where was? I do not want to believe you’re gone. Yet what am I left with? No trail. No direction. Nothing but questions tightening like a noose.
+
+If Waterdeep, with your family, was not meant to be your final destination… then where were you meant to end up?
+
+Is it too late for me to find you..? 
+
+
 ### The Marrowfins
 
 I will not take Hypatia's words lightly, she claims you are more dangerous than the higher ups in Aerys. I intend to see that with my own eye. If you indeed stole this home from her and my people, then I will be the one to make sure that justice is served.
@@ -44,15 +55,6 @@ Despite our past disagreement, I see clearly that you still care deeply for Flor
 
 ## Kerrick's Thoughts on specific NPCs
 
-### Gwendolyn
-
-You never made it to Waterdeep.. so where could you be? The last time you were seen or heard from was the Red Raids. I hear Adam say you're alive, but was that dryad creature just giving him hope? Then this ritual? Was it the ritual that Daveed was involved in? 
-
-I don't want to think that you're gone, but it's hard not to at this point... I have nothing. No leads, no ideas, nothing. Just more questions. If Waterdeep wasn't meant to be your final destination. Where was? I do not want to believe you’re gone. Yet what am I left with? No trail. No direction. Nothing but questions tightening like a noose.
-
-If Waterdeep, with your family, was not meant to be your final destination… then where were you meant to end up?
-
-Is it too late for me to find you..? 
 
 ### Hypatia
 
