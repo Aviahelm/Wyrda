@@ -32,7 +32,7 @@ You are becoming a puzzle whose pieces others hold with tighter grips than you d
 
 What are you hiding, Florien? 
 
-The Wolfrick family’s rise to power after the Varnok incident is no coincidence. Your house guard rules with conviction bordering on aggression. A man does not earn the title “The Butcher” by being gentle. This matter of Time magic  Hypatia mentioned, echoes strangely with the arcane distortions we encountered in Mere.
+The Wolfrics family’s rise to power after the Varnok incident is no coincidence. Your house guard rules with conviction bordering on aggression. A man does not earn the title “The Butcher” by being gentle. This matter of Time magic  Hypatia mentioned, echoes strangely with the arcane distortions we encountered in Mere.
 
 ### [[Rona]]
 
