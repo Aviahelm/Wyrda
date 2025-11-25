@@ -14,15 +14,15 @@ Mother, I saved the life of four wolves this week. Me? Who, if you remember, eve
 
 So she left us… I kinda felt it already, the last time I talked to her in Mere, she was already behaving so detached from us. I thought it was a thing between her and me, that I messed up our relationship after the curse and everything. I pushed her away, but I didn't think she felt so separated from us that she couldn't tell us to our faces, that she would leave. We maybe never knew each other closely enough for me to be sad, but there is hurt inside me. I thought we could be like sisters eventually. Guess I was wrong.
 
-### [[Kerrick]]
+### Kerrick
 
 Wow, I never imagined I would experience hearing that an old geezer can still flirt, but I was proven wrong. Maybe he has more fire up his old ass than I assumed. I mean, he has a pretty attractive moustache, though I would never go for such an old guy in my life. It was funny to see how I was the only one really capable in that fight against the goblins and wolves, while that old man seemed to struggle with his rusty joints to swing his sword, but it looked cool how he swung it. For his sake, and the group's sake of needing to hear him keep yapping about Gwendolyn, I hope we find her soon. Keep an eye out for him, will you mother.
 
-### [[Florien|Sariel]]
+### Sariel
 
 Oh my poor little boy failure, just how much I enjoy watching you miss every single time you get flustered. It's almost too easy to get you worked up. I wonder if one of these days you will realize that you don't impress me with swinging a sword right, but rather with your clumsy attempts. But maybe try not to get hurt so much while you try. Oh mother, he did hold my hand and guide me up the stairs in Waterdeep, my heart was beating so fast I was actually relieved when Tarvo mimicked that with Kerrick, that was the funniest sight ever. But now that we are here, I am worried. I think he underestimates it too much being exposed in the city, not disguising himself. I don't want him to become everyone's target. I can't protect him as much as I wish I could. I don't want him to think I don't trust in his strength or ability to protect himself, but something just makes me nervous. I don't know what it is, but I'm afraid there is something coming for him that I can't stop... please mother, look after him particularly.
 
-### [[Tarvo]]
+### Tarvo
 
 **HE PUT HIS CROSSBOW OVER MY SHOULDER FOR SHOOTING, WHAT THE FUCK. HE RUINED MY GARMENTS WITH HIS DIRT.**
 

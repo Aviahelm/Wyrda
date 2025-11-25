@@ -11,11 +11,11 @@ It’s so strange to be the one they rely on. Most days I feel like a headless c
 I think I’m beyond relieved whenever we finally find something to move toward. My family, the rebels, maybe even Gwendolyn — anything at all would help at this point.
 ## Rona's Thoughts on the group
 
-### [[Kerrick]]
+### Kerrick
 
 Whatever it is Florien needs you to explain to him, I need to hear it too. There’s something going on with you, and it scares me. An old man like you shouldn’t make me feel so uneasy. And yet, you’re still the same man who speaks with kindness in his heart, so I won’t judge you too quickly. I just don’t like you being so… unpredictable.
 
-### [[Sariel|Florien]]
+### Florien
 
 The moments with you today meant everything to me. I still can’t believe that, in the middle of all the destruction and fear we both carry, you found a way to make me laugh, and today more than ever. The way you said you would keep an eye on me after I told you to keep one eye open, the banter we share… I love feeling carefree like that. It’s strange how being this close can be comforting, as much as the smell of your jacket made sleeping on a chair feel warm and safe from the inside out. What a strange but beautiful feeling that was.
 
@@ -27,7 +27,7 @@ I was so surprised when you offered for us to start again, to meet each other fo
 
 I’m curious how you would enjoy spending time with me again in a calmer setting, where no worries weigh on our shoulders. Thank you, Florien, for everything, for your encouraging words, your patience and honesty, and for giving me a shoulder where I can rest my head and simply be.
 
-### [[Tarvo|Adam/Tarvo]]
+### Adam/Tarvo
 
 **Tarvo, my friend,**
 

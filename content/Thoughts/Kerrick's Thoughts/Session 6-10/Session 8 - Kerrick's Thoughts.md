@@ -10,7 +10,7 @@ Today was complicated. Traveling with Adam has been different, My suspicions, lo
 
 ## Kerrick's Thoughts on the group
 
-### [[Tarvo|Adam]]
+### Adam
 
 What is going on with you? First it was the Dryad, The creature spoke to you in a tongue older than the stones beneath Waterdeep itself, You clearly understood that creature, yet you were so vague on what it said to you. You first said that the creature was calming to you, which brought me some peace, but what followed was "There will be lots of blood, death, people will die" What does that even mean?
 
@@ -24,7 +24,7 @@ The letter written by Gwendolyn, I haven't gotten the chance to read it myself, 
 
  You couldn't have come back at a more convenient time. You always know how to make a heavy situation lighter. This group needs you now more than ever. I hope your return brings the others some peace, a lot has happened since I saw you last. I still owe you an apology for pushing you aside during the bombing. In my attempt to protect you, I only caused harm. You are far stronger than I once gave him credit for. I will not repeat such mistakes. Should this world turn cruel again, I shall see to it that you are not left unguarded.
 
-### [[Sariel|Florien]] and [[Rona]]
+### Florien and Rona
 
 I wonder what you two would have thought when Tarvo returned. You two have chosen your own paths for the time being, I commend your independence, but I can't help but worry about what you two might be up too. This city, Waterdeep, is not a place to be found wandering alone. I trust in their resourcefulness, and I pray they walk safely beneath this city’s ever shadowed skies.
 

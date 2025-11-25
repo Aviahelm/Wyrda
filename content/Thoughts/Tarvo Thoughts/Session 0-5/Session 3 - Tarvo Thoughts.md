@@ -9,16 +9,16 @@ enableToc: "false"
 Tarvo happy. Tarvo have family now. We fight, but not to hurt. Not with swords. Not like bad men.
 ## Tarvo's Thoughts on the group
 
-### [[Kerrick]]
+### Kerrick
 
 Kerrick look stern, like parent, but not with anger. He want to know, but not hurt. His voice strong, his face worry. Tarvo see it. Tarvo feel maybe safe… maybe Kerrick care.
 
-### [[Rona]]
+### Rona
 
 
 Tarvo happy today. Rona make Tarvo remember good things. Warm things. In clothes store we see someone… scary. Tarvo not like, but still… happy stay with Rona.
 
-### [[Florien|Florien]]
+### Florien
 
 Flower. Today Florien brave again… bravest Tarvo knows. Tarvo not afraid of much, but only ’cause Tarvo not know many things. Florien knows… and still he brave.
 

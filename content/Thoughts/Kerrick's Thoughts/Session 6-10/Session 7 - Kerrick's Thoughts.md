@@ -18,17 +18,17 @@ I appreciate Adam standing up for me, shutting down the rumors, for if I were to
   
 ## Kerrick's Thoughts on the group
 
-### [[Tarvo|Adam]]
+### Adam
 
 Adam remains a curious fellow. I suspect he perceives me as lacking in conviction, hesitant, perhaps even timid. He is mistaken. I act with deliberation, not fear. There is a time to step forward and a time to observe. I pride myself on knowing the difference.
   
 His conversation with the Dryad seemed to bring him Hope, “She’s alive” he said. I hope the words this creature speaks are true. Though, I cannot dismiss the knowledge that many beings of the wild possess manipulative tactics. Their wisdom, their truths, often cloaked in riddles, serves as the end of many individuals.
 
-### [[Sariel|Florien]]
+### Florien
 
 Florien, a man of quiet resolve, charting his own course through a world, rare nowadays it seems. There is a discipline in him, he is still maturing, but I have seen the beginnings of something admirable. A careful mind, nimble hand, and a growing mastery of his blade. I trust he can take care of himself. The city is no place for the unprepared, I sense he understands this well.
 
-### [[Rona]]
+### Rona
 
 I find myself concerned for her wellbeing. There is a weight upon her shoulders, that much is clear. Though it seems like she was really considering these reckless acts her brother is asking of her.  
   

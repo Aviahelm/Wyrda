@@ -9,7 +9,7 @@ enableToc: "false"
 This area is quite the place. It has the power to keep the nobles of Waterdeep out, but also out of reach of those in the slums. What is happening behind the scenes here? The history is rich, full of people from my past.
 ## Adam's Thoughts on the group
 
-### [[Sariel|Florien]]
+### Florien
 
 Dear Florien,
 
@@ -19,7 +19,7 @@ Your choice was not to be here.
 
 Adam
 
-### [[Kerrick]]
+### Kerrick
 
 Dear Kerrick,
 
@@ -28,7 +28,7 @@ At the start, you were sloppy and unrefined. Please, do not let me see that agai
 Thanks for being here.
 
 –Adam.
-### [[Rona]]
+### Rona
 
 Dear Rona,
 

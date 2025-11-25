@@ -10,14 +10,14 @@ Where is Tarvo? Why Kerrick look. Sad. At least Tarvo found other man with brain
 
 ## Tarvo's Thoughts on the group
 
-### [[Sariel|Florien]]
+### Sariel|Florien
 
 Tarvo rock. You. Flower. Tarvo stay same. Tarvo strong
 
-### [[Kerrick]]
+### Kerrick
 
 Tarvo sorry about bread lady. Tarvo knew you liked her. Tarvo will kill anyone who hurts you do not worry. Tarvo strong.
-### [[Rona]]
+### Rona
 
 Tarvo wonder where Rona is. Hope ok. Tarvo will come. Tarvo strong.
 
@@ -25,4 +25,4 @@ Tarvo wonder where Rona is. Hope ok. Tarvo will come. Tarvo strong.
 
 ### [[Nirmal]] (Strong Looking Hunter Man)
 
-Tarvo like smart men.
+Tarvo like smart man.

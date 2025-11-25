@@ -19,10 +19,10 @@ The guards scorn the rebels, but I know that a rebellion doesn’t begin without
 
 ## Florien's Thoughts on the group
 
-### [[Kerrick]]
+### Kerrick
 
 There are few things in this world scarier than a man of his stature when he holds suspicion for a person. Yet, when he uttered my name for the first time, I felt that fear melt away. Kerrick is comforting, his approval feels like a paternal presence guiding me. I still don’t know how to approach him at times, but at the very least, I no longer feel as though he peers straight into my soul whenever we talk. There is still a sense of reservation within him, and I hope I’m able to reach a point where he trusts me enough to speak with me.
-### [[Rona]]
+### Rona
 
 The longer I get to know you, the more you surprise me. You care so deeply for me, and it’s such a foreign feeling. I’ve never been so fiercely defended before. It was something so trivial too, just clothing, but you stood up for me. You have my back, and I promise to have yours. I make a lot of promises, don’t I?
 
@@ -31,7 +31,7 @@ If it wasn’t for you, who knows how long I would have taken to speak my mind? 
 The silence that settles between us when we’re alone sometimes makes me anxious. I find myself scrambling to find my words, but I think I’ve messed up the more I try. It worries me, will I be able to speak when it matters most?
 
 Will you be okay? The rebels are so close by, and I worry that you’re pretending everything’s fine. Whatever happens next, I’ll do what I can to protect you. I want to protect you all.
-### [[Tarvo]]
+### Tarvo
 
 He _ate_ the paper. That passport, which I feared would dictate how the people would see me—gone, just like that. I didn’t know whether to laugh or cry, it was so abrupt. I think it was exactly what I needed, though. He does things with so much heart, every single time, and I admire it. Tarvo has such a way with words and I don’t think he knows it.
 

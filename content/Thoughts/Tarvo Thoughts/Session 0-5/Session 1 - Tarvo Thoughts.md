@@ -10,15 +10,15 @@ enableToc: "false"
 Tarvo is happy that he still has pack.
 ## Tarvo's Thoughts on the group
 
-### [[Kerrick]]
+### Kerrick
 
 Tarvo saw him flirting with an old lady who baked bread.
 
-### [[Rona]]
+### Rona
 
 Rona petted wolves today... Tarvo is jealous. 
 
-### [[Florien]]
+### Florien
 
 Tarvo seen Sariel looking pale.
 

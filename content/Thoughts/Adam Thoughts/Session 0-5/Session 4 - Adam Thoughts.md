@@ -13,7 +13,7 @@ So this is what breathing feels like now, thick, accusing, like the air has lear
 _Adam's chest rises, slow and deliberate, before he releases the breath in a controlled exhale that seems to drain the weight from his shoulders._ There. That's better. It's all right. Rest if you must; I am in charge now. I will tend to us.
 ## Adam's Thoughts on the group
 
-### [[Kerrick]]
+### Kerrick
 
 Dear Kerrick,
 
@@ -25,7 +25,7 @@ You will learn who I am, not the shadow you thought you owned, but something sha
 
 —Adam
 
-### [[Rona]]
+### Rona
 
 Dear Rona, 
 
@@ -39,7 +39,7 @@ This is for my eyes alone. Not for you. Not for anyone. A quiet testament, a rec
 
 —Adam
 
-### [[Florien]]
+### Florien
 
 Dear Florien,
 
@@ -52,7 +52,7 @@ I write this not for you to read, for these words are never meant to reach your 
 —Adam
 ## Adam's Thoughts on specific NPCs
 
-### [[Billie]]
+### Billie
 
 **Dear Billie,**
 

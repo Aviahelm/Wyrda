@@ -14,7 +14,7 @@ Knowing he is alive and crowned hollows me out. He has a name, a home, a place a
 
 ## Adam's Thoughts on the group
 
-### [[Kerrick]]
+### Kerrick
 
 Dear Kerrick,
 
@@ -22,7 +22,7 @@ I did it. You were my first true confrontation with this world. Thank you for no
 
 Adam~
 
-### [[Rona]]
+### Rona
 
 Dear Rona,
 
@@ -32,7 +32,7 @@ I hate what you uncover in me. It’s frightening, even... yet I’m grateful. T
 
 Adam~
 
-### [[Florien]]
+### Florien
 
 Dear Florien,
 

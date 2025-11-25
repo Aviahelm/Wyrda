@@ -10,72 +10,79 @@ socialDescription: Rona's Thoughts
 ---
 ## Rona's General Thoughts
 
-I already had the suspicion that there was a higher power behind all of this. There are too many signs pointing to a third party being involved. The coincidence that we found this letter… it's either our luck or our misfortune. But I have to tell Yasin. Eventually, there must be a way to end this cycle of loss and pain, by striking at the root of the problem itself. I'll tell him that Florien was the one who warned us.
+Today was a strange day. It seems to be hard walking around with Kerrick without people assuming that he is my husband or whatever. He is so old. Why? Do I look like some old man's younger wife? No thank you. I have to make sure to call him grandpa at any occasion possible. People are crazy in this town. Like this hunter guy who Kerrick is playing around with. Poor guy does not realise that Kerrick is just too nice to decline his offer to help. He seems strong though, but definitely not someone I could trust with a proper task. Though it is nice to meet people who would rather make you laugh than make my heart grow heavier. There is a lack of that recently.
 
-I keep wondering who it was that came to Waterdeep and made everything worse. I heard the guards talking about Lower Waterdeep and its people, as if they were dangerous. Just as Yasin said, the people there are treated as lesser. "Rebel" is just another word they use to degrade them.
+I had so many new things to learn today. I am not even sure I will be able to memorise all of it. But if I can share this information with Yasin and give any more advantage to them, then I will try my best to recap it to him as well as I can. I learned things about the noble families. The Wolfrics are connected to time magic. They are the "justice" in Waterdeep, the guards. Except for Florien of course. He would never be part of these cruel people. Ever. We saw what they can do, what they have done. They are close to falling from their position. Maybe it is for the better if they do and he can start new with his family, away from nobility and violence. I know Florien could rebuild his family on love and care.
 
-I'm afraid to learn more about these underground fight clubs. I'm afraid there are darker things happening beneath the surface. The fact that there are no patrols in that part of the city means something. I know what that kind of silence hides... from my time at sea, I've seen what happens behind closed doors when no one is asking questions.
+If Faust were to die though, he would be forced to become the next successor in the family. What if he was taken away by force? No. I will not think like that. I know of other families too, though I do not know any of them personally. The Marrowfin are known for controlling people. They seem to be politically the smartest, knowing to marry into families of other kingdoms like Aerys, Revellia or Ashvara. Tactically smart, but every system can be broken, considering how they take root in this world like a virus that spreads.
 
-So I'll stay close to my friends. Maybe I can learn something useful. Even if it's harder to keep myself unseen with a group around me. I hate needing to keep my distance, but I have bigger responsibilities now.
+Another family, the Veylarks, seems the least problematic to me. They stand for culture, religion, art and history. From what I can tell, the library and the cathedral. I hope I find time to pray for my mother there eventually, and maybe for Father too. The rebels, this broken woman. The beauty of the city I saw. They work hard to maintain all of it, but it does not change that even these things are only experienced by certain individuals. They purposely keep information stored away in Upper Waterdeep. Things about the king and queen and who knows what else. Perhaps I can reach the bigger library and find more information that is helpful to Yasin and the rebels. I just wish they could see the culture and beauty of Waterdeep too. But I am certain the guards would prevent that from happening.
+
+The one family that bothers me the most in this city is the Varnoks. They got to play the biggest role in Lower Waterdeep's demise. These damn assholes really think they can do whatever they like. They call Faust the butcher, but what about this man who slaughtered endless amounts of innocent people just because of a drug. Nectar. Not bad enough that they torture dragons to gain their blood and inhale it. That is sick. They caused the death of so many people for it. Just one person. What a messed up system this is, where one person can do such a thing. It does little justice that this man got executed.
+
+Lower Waterdeep is blocked off from the rest of Waterdeep. It serves them well that they lost their position as guards, but they are still here, still responsible for parts of Waterdeep. I worry if this drug is still available in this city. Another advantage for the rich against the rebels. Such an enhancing drug is dangerous in a war. This whole city could crush the rebels under their thumb at any moment. The least we can do is make their lives less miserable. But what if they catch me? What if I fail my mission? What if it is the one thing that will cause worse things to happen? I have to think about anything I can do to ensure this goes well without struggle, without being seen. If they find me, I can always take the blame. I can be very convincing.
+
+I have to report the missing people too, even if some I really do not care for, but it is suspicious regardless. And I cannot stop thinking about the hospital, the people in line. So many wounded people, but they have no idea how fortunate they are to have a place to go to for treatment. And I regret denying being part of the group. It is not something I like to do, but sometimes you do not have a choice but to pretend. God, I hate myself for it. I cannot wait for this to be over, though will it be over? Hmmm...
 
 ## Rona's Thoughts on the group
 
 ### [[Tarvo|Adam/Tarvo]]
 
-Tarvo, this back and forth between you and Adam is starting to worry me. You take it lightly, though not as lightly as Adam did when he first appeared. I've missed your warmth, but somehow, you seem wilder than before. Reckless.
+I got to meet someone significant to you today. I am not completely certain what she was to you, but Adam, what the fuck have you done to this woman? She is terrified and broken. I do not think Kerrick knows how to handle this situation with you, and I am worried that without your mother you have completely drifted away from empathy. Or maybe you have not. You showed it for us, but why not for her? What happened between you, I wonder.
 
-I saw you kill a man without hesitation. I really hope you don't do that to everyone you meet. This isn't the wilderness. The rules here are different. As much as I love you, you could become a danger to my cause if you keep acting this way.
+They called you a monster. You had kindness in your eyes before we parted the first time. It is impossible. Drifting away from us, from your family, we have to get you and Tarvo back. I worry that otherwise you are going to end up in worse places than a prison.
 
-If you truly are the great mother wolf you claim to be, then remember, protection also means restraint. Sometimes, to keep your cubs safe, you have to hold yourself back.
+They speak of the murder in the city already. Tarvo is on their radar. I have to… I have to stay away, but I do not want to. I want to protect you. I hope Florien can help. I hope he can find a way to get you out. I am just worried what consequences this may have for all of you. I know you will do everything to keep Tarvo safe. I know it, Adam. You care even when your words are sharp. I cannot imagine how painful it must have been when you were abandoned by your own mother. She must have had a reason, but that does not make it less painful.
 
-Still… I'm so glad you're back. I just don't know how much of a wild card you and Adam really are. He's unpredictable with his words, and you with your actions. It makes me anxious.
+Kerrick will get you your mother back. We will find her. I know I have not been helping before, but now I see. Now I know what stands behind this, what range this may have, and I get the feeling I can be more help than I was aware of, though it seems like I might be running out of time. I will do the best I can. Do not give up on hope, Adam, and whatever you do, keep Tarvo away from the rebels. He is a danger to the cause. He is too unpredictable.
 
-I don't mean to distrust you. I still see the same charming boy beneath it all, but… what are you doing? You don't belong in a jail, Tarvo. Think about your mother.
+Weird. I write this as if you could read it. Strange.
+
+They are calling Tarvo a rebel. I do not like it. Maybe he is safer behind bars for now. Though I know a cage… no. He does not deserve to be broken like that. It takes something from you.
 
 ### [[Florien|Florien]]
 
-I don't know what's happening to you. You met Faust alone, and now you're acting so unlike yourself. You were anxious before, but this feels different.
+I cannot believe how little I know about your skills, your abilities, of who and what you actually are. Florien, you really never say anything about yourself, do you? It is actually humorous how stupid I felt not being able to say what an Aasimar even is. A halo and wings they have, you have. Interesting. Why did I think you were something holy? Someone perhaps just very dedicated to his god? It makes sense. The way you valued life, I assumed you would have been a god's chosen or something like that.
 
-It reminds me of Mere... of when I heard my mother's voice in my head. That same panic, that same need to pull away. Maybe it's something we can't understand, something only you can feel. I don't know what power he holds over you, or maybe it's just the memory of him, but I wish this wasn't something you had to face alone.
+I wonder what that truly means. I want to know. And you control time? I think I have seen you do that before in battle, but that was nothing I thought had to do with your family specifically, which also means I have so little knowledge about magic. You would think that with a father who is a powerful sorcerer, I would know these things, but I shamefully admit I paid little attention to his teachings. Unlike you. You must have learned these things with hard work and focus, because I know how difficult it is to learn. I tried and failed. I tried hard for some time to impress my father, but I lost that attention to my brother. He was just simply better than me, and I had to accept that. What else can you do, right?
 
-I remember how you were there for me in Mere. Now I understand what it's like... to want to help, but to know all you can do is give someone space and watch.
+I have no interest in magic. It always felt more like a chore to me. I only use it when necessary. But I want to see yours. I know your magic will be something beautiful and powerful. At the magic store I found so many things I had never seen before. A dragon head in a pretty purple colour that seemed to hold true danger behind it. Diamonds and crystals that were devices used as charges. Batteries. Perhaps you would know better what that means, but they reminded me of your necklace. I wish I could have afforded one of those, to wear it as a reminder of you. But instead I was able to afford you a gift. I could not just steal things, not if it is something I want you to have that comes from my heart. Even if I think it may not be as impressive of a gift as I wish it to be. It controls time, I was told. Well, at least it could if used right. Maybe you know what to do with it better than I do.
 
-Whoever Tyr is… I thought Tyr was a god. Do you pray to him to feel better? I'm curious. If it helps, breathing, space, then I'll make sure you have it.
+I miss you. I have missed your gentleness today. Perhaps getting this little gift helped me feel close to you in mind too. I can feel the growing need to have you by my side again. Slowly creeping into my mind. I do not feel worried, but I feel something missing. I might spend and trade everything I own. I am starting to believe that buying things helps an aching heart. I could never be a rich person. I think I would spend every coin I own on the person I… on those who matter to me the most.
 
-I just wish we had more time to enjoy the normal moments. The usual banter. That whole husband-and-wife act made me smile. It felt normal, like the distance between us wasn't so wide after all. It was too short-lived. How do we hold on to those brief moments when everything else is so heavy?
+I think since my words cannot reach you right now, I just need something to convey, to channel these emotions into. Helping Kerrick and finding a way to help Adam and Tarvo. Perhaps a certain task at hand is starting to make me nervous. Perhaps my determination is not enough. I have to keep telling myself what I do it for. I have to do it.
 
-I don't know what I can do for you when you face Faust again. But I'm with you, always. We've parted once more, but at least this time it doesn't feel like forever.
-
-I only hope Faust hasn't cursed you, or that your memories aren't what's hurting you. You once said you don't know how long you'll have us, but the truth is, you already have us within you. You'll have us forever.
-
+I am nervous writing, am I not? Curse my nerves. I am shaking. Perhaps I could use a really strong tea right now.
 Stay strong, Florien.
 
 ### [[Kerrick]]
 
-It makes sense that the rebels don't distrust you as much as they do Adam or Florien. You're quiet, and most of the time, wise. You keep yourself hidden too, and there's a compassion in you that helps you understand the rebels, even if I haven't told you everything I could. I knew you would understand anyway.
+It is overwhelming almost. I feel like I have been thrown into your world. I have to admit, I have not paid much mind to your backstory before, the past you came from. Not because I do not care, but there were more pressing things to think of. Though right now, while I await my turn to serve a mission, I have time and I want to say I always have an open ear for a friend. A dear friend.
 
-We haven't connected much yet, but I think I can trust you. I know I have a strong man watching my back for whatever comes next, even if, for the most part, I have to face this alone. You're a friend who knows what I need to do, and why it's necessary.
+I can tell this woman we met means much to you. I cannot know how deep your connection runs, but you have kind eyes when you look at her. You care about her and what she has been through. You and I can ensure that she will find a safe path back to Aerys. I fear that nobody is safe in Waterdeep unless they are a noble. Well, though they also hang on a thread unless they are part of the bigger families here.
 
-I think I finally understand the reason behind your restrained demeanour. You and I, we're both devoted to what we care about. For you, it may be Gwendolyn. For me, it's my people. Perhaps there's someone else significant for both of us, but I can't focus on that now. The cause comes first.
+Adam shook her up quite a bit. You and I have to speak to him. I want to say you should do it alone, but I am afraid you excuse too much of his behaviour. He is destined to be a pompous little brat if he does not learn. His actions have consequences, and so far he has broken this woman's spirit and that is unacceptable.
 
-I'm glad I understand you better now. Before, you were just an old man, too kind, too forgiving of Adam and Tarvo's actions. But I see it differently now. You're still learning how to be a parental figure yourself, with no one to show you how.
+There is something else you and her mentioned that I cannot quite make sense of. Something you are losing your strength to have, or to endure. I am uncertain, but I understand why you long for more power and why you are willing to try anything to gain it back. Even something like enhancements through magic, though the process concerns me. They say it is extremely painful for those with less coin. I cannot believe these rich bastards get the chance to gain strength or youth or whatever they want if they have enough coin.
 
-I may not have children of my own, but I've always been good with them. I'll gladly share what I know to help you shape our beloved wilderness prince into a good man. Adam and Tarvo, both need guidance. Until he's reunited with his mother, I'll care for him, both of them, as best I can.
+The rebels have no chance. I am starting to understand. They must be aware of that, mustn't they? The nobles can mess with them however they like with enough money. I do not want to lose hope for them, for us, but it scares me. I am scared that the rebel movement is just a big suicide mission. What lengths will the noble families go to in order to ensure the rebels stop if they go too far?
 
-You helped an orphanage once, didn't you? You care for those who will shape the future. I respect that deeply.
-
-I hope the encounter we're about to face brings you the answers you need and brings you a step closer to Gwendolyn.
+Thank you for trusting me enough to see these parts of your life, to meet someone close to you, Kerrick. I hope we get to stick around each other. I want to help you find Gwendolyn and make sure you meet her in one piece. That makes it harder to think about my own actions and the consequences.
 
 ## Rona's Thoughts on specific NPCs
 
-### Willow
+### FanFic Guy
 
-Somehow, you were more right about who to trust than I realized. I had barely left the rebels when I was forced to hide again, one of my friends murdered a guard. I won't cry for the guard, but it's dangerous to be seen with a killer. It puts the entire cause at risk.
+I cannot wait to read the story about these vampire and human romances and the eventual hybrid they produce. I wonder if I could write a song about that, spreading the word of the coming story. I am intrigued. What a fan fiction writer is truly capable of. Maybe a way to convey my appreciation for who I am a fan of. A bard and elf tale perhaps.
 
-And Florien… he's been acting strange. I wonder if this is something you experienced with Faust too.
+I also cannot wait to try writing something nice about animals in the writing contest, perhaps about foxes, such beautiful, lovely, furry creatures.
 
-I have to admit, I miss having you beside me. Another feminine presence, it was comforting. It made me feel grounded. I was reminded of Sir French's toast, and even though my time in Lower Waterdeep humbled me, I find myself missing the charm of that place. Maybe it felt more like home than I ever realized.
+### Hypatia
 
-### Yasin
+This poor woman. She looked so defeated and hopeless. I cannot imagine how Adam is supposed to be the reason for that. I felt out of place listening to her hardships, but it only proved even more that the nobles and the whole gap between rich and poor are even worse in Waterdeep than I remember, and it goes to show how little worth you have even if you spend your whole life dedicated to them. She was not cared about by the powerful people who took her home from her and left her with nothing.
 
-I have my head straight at the task at hand, Brother. I will not disappoint you.
+I just wonder who it was that got her that apartment. I also do not know what to think of Gwendolyn. She must have been desperate to have looked for help from Daveed. I think perhaps the reason why he was split into multiple selves has to do with something related to her. She tried to do something that perhaps went wrong. That is just a thought. I will put it aside for now.
+
+Where could she be? It feels like we are walking in circles, close to her but always missing her. Tracking her tracks is the best way to find her. Too bad Daveed is dead. I do hope perhaps we can find information about him in one of those wizarding schools in Aerys or Dragonfall, or at least Kerrick and Adam can look for information there. I have the feeling that could be helpful for the future.
+
+This woman has endured enough for one lifetime. I hope Kerrick and I can send her off safely to Aerys tomorrow. May she rest now. Kerrick will make sure these nobles suffer for what they have done to her, I know it.

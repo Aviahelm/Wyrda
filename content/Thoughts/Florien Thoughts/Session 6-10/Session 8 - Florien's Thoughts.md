@@ -16,19 +16,19 @@ And then there is that conspiracy. I do not know what to make of it without more
 
 ## Florien's Thoughts on the group
 
-### [[Tarvo|Adam/Tarvo]]
+### Adam/Tarvo
 
 You and I, we have not talked much. Still, I care for you. I know how it feels to be lost, in a sense. Maybe one day we can have a proper heart to heart.
 
 You might enjoy talking to Tyr… I need to tell you about him when all of us meet again.
 
-### [[Kerrick]]
+### Kerrick
 
 There is an absence of a comforting and steadfast presence without him around. It was not noticeable at first, but meeting all these people only made me realise how _difficult_ it is to navigate their conversations. I fear I may have been too blunt with some of my words, I lack the tact Kerrick has.
 
 But…. It _could_ have been worse.
 
-### [[Rona]]
+### Rona
 
 I see you everywhere I go. I feel like a madman, turning to talk to someone who is not there. I suppose I have gotten used to having you by my side.
 

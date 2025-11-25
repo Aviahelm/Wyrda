@@ -22,7 +22,7 @@ This city is more divided than I thought. The guards say the rebels did it, but 
 
 ## Florien's Thoughts on the group
 
-### [[Kerrick]]
+### Kerrick
 
 _“I will give you the blood you seek. Your time will come.”_
 
@@ -33,7 +33,7 @@ I wish I hadn’t overheard those words. Kerrick was supposed to be someone I co
 First it was the goblins, and now the way he talks about the rebels. There are minute details in the way he does things that is so reminiscent of a warrior. His past battles seem to have etched itself into his movements, his mindset.
 
 Then there was the laugh. What the _fuck_ was that? It felt evil—no. Malicious. Whatever that was, that was not Kerrick.
-### [[Rona]]
+### Rona
 
 Since we stepped foot in Waterdeep, I have been by your side as much as you would allow me to be. I thought it would be safer to keep you away from that place, but _something_ happened. I don’t know what you witnessed but you looked shattered. I’m sorry I wasn’t there for you. You and I are so interwoven into the conflict, but where I haven’t chosen my side, I know you have. The rebels. Your family.
 
@@ -42,7 +42,7 @@ I admire the courage you have, to still stand against the guards. But that coura
 The emotions that surface whenever you turn to me are complicated. I care so deeply about you, it worries me. Every little thing I do has its consequence, and I fear that what I’ve done will have its rebuttal. I protected you, and when Faust finds out, does that not single you out?
 
 If it ever comes down to it, please, don’t throw your life aside. I know it’s a noble thing to do, but allow me to be selfish for this one thing. I can’t say this to you, I’m not that brave. But… life feels lighter with you around.
-### [[Tarvo|Adam/Tarvo]]
+### Adam/Tarvo
 
 I knew something was up. He sounded different. I thought he’d hit his head too hard, but he even carried himself differently. I don’t fully understand, but he’s no longer the Tarvo we knew. Adam, he calls himself.
 

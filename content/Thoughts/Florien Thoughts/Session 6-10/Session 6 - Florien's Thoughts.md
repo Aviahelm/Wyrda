@@ -18,13 +18,13 @@ Who am I without them?
 
 ## Florien's Thoughts on the group
 
-### [[Kerrick]]
+### Kerrick
 
 That suspicion, it’s returned in his gaze. He may not say it, but hearing those accusations must have turned his opinions against me. I cannot say I blame him. If I heard of a slaughter, committed even by my own friend, I too would be hesitant.
 
 He is too honest, and yet dishonest all at once. I see him speak in transactions, not of coin, but of information. It makes me wonder just how much I can tell him, if he would ever use that against me. I hate this doubt. He is my friend, but I cannot continue to deny just how little I know of him.
 
-### [[Rona]]
+### Rona
 
 You promised to stay alive. I expect that promise to be kept. I tried my best to etch the memory of your features deep within my mind. What if we never meet again? What if I… What if I lose you? The very thought makes my chest tighten.
 
@@ -32,7 +32,7 @@ I kept my word, brought you to your family. I was foolish to think that I could 
 
 After this is all over, and please, allow me just a moment of delusion—I will find my way back to you.
 
-### [[Tarvo|Adam/Tarvo]]
+### Adam/Tarvo
 
 _Friend_. I heard it, loud and clear in that voice of yours. You think of me as your friend. Have I done anything to deserve that affection? I feel guilty for missing Tarvo, but as time passes and Adam’s presence gets bolder, I find myself enjoying your company. You speak what’s on your mind, and your words cut sharp, precise, like a knife that’s wielded with care.
 

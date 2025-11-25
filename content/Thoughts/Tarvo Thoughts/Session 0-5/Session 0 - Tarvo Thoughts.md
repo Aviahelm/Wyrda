@@ -14,15 +14,15 @@ Tarvo doesn't have general thoughts.
 
 Ari is Tarvo friend from past. Tarvo does not remember her. She gone now. Tarvo is used to being alone.
 
-### [[Kerrick]]
+### Kerrick
 
 Tarvo likes Kerrick. Kerrick makes Tarvo happy. Tarvo hopes he doesn't leave too.
 
-### [[Rona]]
+### Rona
 
 Rona is best singer Tarvo ever seen. Tarvo likes her strong morals.
 
-### [[Florien]]
+### Florien
 
 Sariel is pirate who likes to mate with strangers as pirates do.
 

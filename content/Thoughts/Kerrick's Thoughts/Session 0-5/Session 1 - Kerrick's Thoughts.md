@@ -20,19 +20,19 @@ For now, I keep my head down and my blade sheathed, but the city watches, and I 
 
 ## Kerrick's Thoughts on the group
 
-### [[Rona]]
+### Rona
 
 Rona wears her unease like a shroud. There is something in this city that unsettles her deeply. I’ve noted the closeness growing between her and Sariel. They share a quiet understanding, a silent language built not only on words but almost seem to stem from shared experience.
 
 If I were to speculate, and I often do, there is more between them than mere camaraderie. Perhaps it is trauma that binds them. If so, then I wonder, whose past are we walking into?
 
-### [[Florien|Sariel]]
+### Sariel
 
 Sariel is, without question, a curious individual. I cannot yet determine whether he is a man of influence or merely resembles one. Regardless, the effect is the same. People defer to him with remarkable deference, even caution. It is almost unsettling to watch. 
 
 There is power in mystery, and Sariel wields it, whether knowingly or not. I intend to learn more of this strange phenomenon, though I must tread carefully. Waterdeep is not the place to draw undue attention, not for one such as myself.
 
-### [[Tarvo]]
+### Tarvo
 
 Tarvo stirs a different kind of concern in me. Gentle, yet persistent. He is pure in a way that few men are. His connection to the natural world is admirable, though it sets him apart in ways he may not yet comprehend.
 

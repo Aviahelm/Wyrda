@@ -23,7 +23,7 @@ socialDescription: Adam's Thoughts
 _"I didn't think so."_
 ## Adam's Thoughts on the group
 
-### [[Arispira]]
+### Arispira
 
 _"This meathead needed you here. You loud-mouthed rogue. He is in a place where you would have thrived, he needed you and deep down you knew that. Why did you have to abandon us again."_
 
@@ -41,7 +41,7 @@ _"What am I thinking? You have never heard me. Not once, my simple fool."_
 
 "Tarvo. Ok. Tarvo. Ok. Tarvo. Ok. Tar.."
 
-### [[Kerrick]]
+### Kerrick
 
 *"Kerrick keeping me well fed. Great hunter. Teach me many things. Peaceful. That what Gwen smile look like. Th-ank you. Kerrick."
 
@@ -51,7 +51,7 @@ _"..._
 
 _"I thought so."_
 
-### [[Rona]]
+### Rona
 
 "Tarvo is going to get his hair braided. This makes Tarvo very happy."
 

@@ -10,15 +10,15 @@ Father, please tell me this isn't you behind all this, that seeking power and gr
 
 ## Rona's Thoughts on the group
 
-### [[Kerrick]]
+### Kerrick
 
 I'm losing my hope that people like you truly seek peace for this world. There was something so unnerving about you when I found you with Florien again. And you stood aside, just watching, as the guard executed an innocent man. You hide behind the shield of this proper person that wants to make sure we don't get seen and be on people's radars for behaving out of order, but listen. Order trains us to turn our eyes when it commits its crimes. Please don't be like them, Kerrick. Fight for the people. Sometimes it means doing more than just standing aside. Actions speak louder than words. You can't protect Tarvo… Adam, forever. You wanted Florien and me to be honest with you, but you knew about Adam, didn't you? You hid that from us. What else are you hiding?
 
-### [[Florien]]
+### Florien
 
 I can't handle it, Florien. Every corpse in front of my feet, it crushes me inside. The last time I saw such a slaughter was when my mother… when she left the world. It's a massacre. And the worst part is, I believe it’s just a game. It’s always someone’s game, killing people for power and corruption. Tell me everything will be okay again, please. Things change too fast around here. Waterdeep, a spawn point for war and corruption. You are trying, aren’t you? The others… they don’t cherish life. Killing like it does not affect them. But I know you wouldn’t. You’re a good man. I saw it. I am sorry I forced you to stand up and protect me from them. It was my fault. I was foolish to intercept something I was too weak to stop anyway. But if I am being honest, I would do it again. I know I am reckless, and I don’t want it to cause trouble for you and the others. But I can’t just watch… I just can’t. It’s all so much to process, and I don’t know what things may come from now on, but I know that I need you by my side. I dare to hold onto you as long as I still can. Also, I really don’t mind beating this commander up with you. Just give me a word and, well… show him who the wrong Wolfric is. Stupid asshole.
 
-### [[Tarvo|Adam/Tarvo]]
+### Adam/Tarvo
 
 When you smacked your head against the wall, did it mess with your head? I still don’t understand what exactly Adam is. The true Prince, or are you? Kerrick calls you both the Prince, right? If he lived so many years inside you, or in some way close to you, backed away in your mind… does that mean you will be stuck now?
 

@@ -20,15 +20,15 @@ Here, in this sprawling jewel of the Sword Coast, I have found a renewed spirit.
 
 ## Kerrick's Thoughts on the group
 
-### [[Rona]]
+### Rona
 
 A sharp eye and a kind heart. She notices what others do not, the subtle shifts in the city, the undercurrents that ripple beneath the cobbled surface. Her presence brings a grounding calm to the group. That being said, there was a tension today between her and Sariel, prominent enough that even young Tarvo took note. Emotions simmer near the surface lately. This city seems to stir more than just memories.
 
-### [[Florien|Sariel]]
+### Sariel
 
 There is something shadowed in his demeanor. Reserved, calculating, he moves like a man with ghosts at his heels. The others may not voice it, but I see the uncertainty in their eyes when he speaks too softly, or or is pointed out in a crowd. He blends in well, too well, but not well enough. I find myself wondering, are we safe following him, or guided into peril? Still, I will not pass judgment hastily. One cannot survive long in this world without learning to hide one's truth. All the same, I shall remain vigilant. My duty is foremost to my Lord and I will not see him led blindly into danger.
 
-### [[Tarvo]]
+### Tarvo
 
 His appetite for both food and life has grown each day since we arrived. I watch with some amusement as he devours half a market square’s worth of bread before noon. A boy of royal blood and boundless curiosity, he grows ever more inquisitive of his late mother. The bond between a child and their mother is sacred, and though I have long accepted Lady Gwendolyn’s death, the lad’s belief that she may yet live stirs something deep within me. If he feels her presence, I would be remiss not to lend credence to that instinct. There is strength in such connections, beyond what even the most hardened soldiers can explain.
 

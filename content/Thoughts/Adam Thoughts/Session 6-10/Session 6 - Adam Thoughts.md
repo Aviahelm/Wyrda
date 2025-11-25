@@ -18,7 +18,7 @@ Where are you, Gwen? Why did you abandon me? _Us._
 
 ## Adam's Thoughts on the group
 
-### [[Kerrick]]
+### Kerrick
 
 **Dear Kerrick,**
 
@@ -33,7 +33,8 @@ Yet my mind falls to my father. Why does it fall? Kerrick, who is that man? My "
 Me? I just believe I will repeat what is already written in my veins. Terrible. I am terrible.
 
 -Adam
-### [[Rona]]
+
+### Rona
 
 Dear Rona,
 
@@ -50,7 +51,7 @@ I know what I am doing is wrong. I should be doing a lot of things differently. 
 I thought you were one of them. I thought we all thought the same. That you’d be here for us. For me. You see the world through such a pathetic lens. You’re just naïve. I was wrong about you. And it’s breaking me.
 
 Adam.
-### [[Florien]]
+### Florien
 
 Dear Florien,
 

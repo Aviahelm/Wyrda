@@ -12,17 +12,17 @@ I feel changed. Tired, yes, and unsure of what lies ahead for this city or for t
 
 ## Florien's Thoughts on the group
 
-### [[Kerrick]]
+### Kerrick
 
 I still need to talk to him about that bloodbath, he owes me that much of an explanation.
 
-### [[Rona]]
+### Rona
 
 How I would love to see you dance one day, free of all the worries that weigh on your shoulders. It felt so good to spend time together again; we haven’t had that chance since Mere. You’re always so easy to talk to, and being near you sets me at ease.
 
 You tease me often, saying you love it when I fluster. My mind always scrambles for words, but I welcome the warmth that rises with it. I’ll carry the memory of our “date” with fondness—like a safety net waiting to catch me when everything feels bleak.
 
-### [[Tarvo|Adam/Tarvo]]
+### Adam/Tarvo
 
 I never thought I would see my friend(?) drunk before. Has he ever had a lick of liquor? I only remember his bottomless appetite.
 

@@ -20,15 +20,15 @@ Family is a word I rarely speak, for it carries weight. With them, the word feel
 
 On any ordinary day I would have been ordered to drag someone like Arispira before the magistrates. She lives on the wrong side of the law and carries herself as though she owes nothing to it. Yet there is something different about her. It feels as though her thefts carry purpose, whether to help those beneath the heel of nobles or to fill her own purse. I cannot fault her for that. My parents were once treated as vermin by the noble class, so I know too well how heavy that boot can fall.
 
-### [[Rona]]
+### Rona
 
 Rona often finds herself tangled in awkward exchanges, and I have had to step in more than once to ease the tension. Somehow she always lands on her feet regardless. There is something about her that feels split, as if she is always half-prepared to leave us behind. I wonder what it is that keeps her so divided, and I hope in time she will trust me enough to tell me.
 
-### [[Florien|Sariel]]
+### Sariel
 
 Sariel possesses a depth of empathy that binds this group together more than anything else. He gives of himself without hesitation, caring for us ten times more than he does for his own well-being. I cannot yet claim to know much about his history, yet I suspect it holds scars that explain both his distance and his kindness. It is a rare man who can be guarded and selfless at the same time.
 
-### [[Tarvo]]
+### Tarvo
 
 Tarvo is in many ways the reflection of everything I was trained not to become. He is raw, primal, and driven by survival above all else. I understand, though, that this life was forced upon him rather than chosen. Learning that Tarvo was Adam reshaped my entire journey. I left Aerys nearly defeated, believing my mission had failed before it even began. Then came the revelation that Adam had lived through it all, and with it came new fire. If Adam could survive against the impossible, then perhaps Gwendolyn did as well. Protecting Tarvo is now my duty, not only for who he is but for what he represents. His survival has shaken my faith in the Empire’s words. They told me Gwendolyn was dead. Now I wonder what else was hidden from me.
 

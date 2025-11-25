@@ -17,7 +17,7 @@ I don’t deserve friends like the ones I have, so brave and strong, always tryi
 
 ## Rona's Thoughts on the group
 
-### [[Kerrick]]
+### Kerrick
 
 Kerrick, I have no idea what you might think of me right now, but I know you do not resent me. Even if I make choices you do not approve of, you understand that I have to do what I believe is right. Your respect and trust in my choices mean so much to me. Thank you for not stopping me, even when you would rather I stay safe.
 
@@ -25,7 +25,7 @@ I am sorry for going against the group and doing something probably foolish, but
 
 But Kerrick, please, do not stand with the nobles in this city. Please do not stand against my brother. They are trying to do good. Please see that. Please, do not fight the rebels. Focus on Gwendolyn and avoid the rest. That is the best you can do.
 
-### [[Sariel|Florien]]
+### Florien
 
 Florien, your girl is fucking everything up big time. Who would have thought that this peaceful moment between us would end so fast? In one moment I leaned against your shoulder and watched the sunset with you, imagining doing that every night was possible. Now I'm just sitting here writing, feeling the coldness of being alone again. I wonder if I'll ever get the chance to feel your head on mine, or your sweet voice calling me your girl again.
 
@@ -41,7 +41,7 @@ I am not a good person, I'm not kind. I am but just a selfish little girl that b
 
 You have my word: I will stay alive, and I will try not to do anything I do not truly want to do. I know everyone is thinking I am sacrificing myself, but what I want... no... need you to understand is... that this is what I want to do. There is no coercion here. I cannot be stopped on my path, and you will learn more and more, my dear Florien, that I am the most stubborn woman you have ever met, one that gets her way, even if I have to do it by myself. And as the woman I am, I will stubbornly finish this job and make my way back to you. YEAH! I am determined! I will make you blush again, my silly pretty boy. Just you wait and see. I am such an asshole, I know, not staying away from you even if I should. Fuck it, it is okay to be a little selfish, right?! I mean, you said it yourself, I can hear it in my head right now: "Rona, what do you want?" I want to return back to my friends, to you, Adam, and Kerrick. And I will show you all how much you mean to me. Soon. I promise.
 
-### [[Tarvo|Adam/Tarvo]]
+### Adam/Tarvo
 
 You must be so disappointed in me right now. I saw it on your face. I don’t like us fighting, but ugh… you’re so stubborn sometimes. It’s infuriating and I do believe you have so much to learn, so, so much more. It’s becoming more obvious that you are mentally more a child than I was aware of. I mean, the fact that you don’t even consider the needs of anyone else. I know you’re not cruel, but where has Tarvo’s compassion gone?
 

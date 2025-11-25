@@ -10,17 +10,17 @@ I heard that the rebels that attacked the city just a day ago are now at some wa
 
 ## Rona's Thoughts on the group
 
-### [[Kerrick]]
+### Kerrick
 
 He seems like he is struggling to trust us completely, me and Florian. Understandable, we're not his kin. I wonder if he thinks I am suspicious now? At first I thought he was careful for a good reason with Florian, but I never thought I'd ever be looked at like that by him. Like I could be a threat. It's like I got pushed into something I never asked for and now maybe he thinks the same of me as the guard that spat on me. But I know he cares about me... or did the whole rebel thing cut the bond we have... had?
 
-### [[Florien]]
+### Florien
 
 Florien... Florien Wolfric... It's a really beautiful name. I liked Sariel, though I must admit that does have a pirate-like edge to it, I shan't ever tell him, not with Tarvo's constant comments about him being a pirate, but it is funny.
 
 But Florien... that's beautiful. I agree with Tarvo... it sounds like a flower, a shy one that blooms only once in life. It hides away, but once it embraces its beauty it stays its mesmerising self. I hope you feel a little lighter now. Your smile feels warmer now, like a glimpse of true happiness. I think I'd miss this, the way you smile, hold my hand, your flustered self. Please never change... Always remember, you are not a butcher, you are an angel.
 
-### [[Tarvo]]
+### Tarvo
 
 I heard him say that he loves stories. I wonder if I could write him one. I wonder what stories he likes. I feel like he needs it. I think I reminded him of his mother, and yes that felt strange, but... he is maybe still just a young boy that lost too much too soon. And if I could tell him a tale that he loves, then maybe I could even give him a piece of the childhood he never had. I think I could give him something like peace. I'm sorry, Tarvo... I feel like you are missing parts of yourself. You don't always have to be strong. And what you did for Florien... thank you.
 

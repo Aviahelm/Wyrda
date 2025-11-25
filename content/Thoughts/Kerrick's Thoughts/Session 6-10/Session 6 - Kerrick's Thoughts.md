@@ -10,17 +10,17 @@ enableToc: "false"
   
 ## Kerrick's Thoughts on the group
 
-### [[Rona]]
+### Rona
 
 *"These guards have so much power, you want to give them more?"* Ah, Rona. If only you could see the truth of things. Guards are powerless in this world. That is precisely why so many among us act out, why we cling to the orders given us. We are much like your family’s rebels, bound to obey, yet rarely told why. That knowledge is reserved for those above. 
 
 I worry that you are being manipulated by your Brother. He tasks you with something that could get you imprisoned, and yet you follow blindly, just as his soldiers did. Please, Rona, for your own safety, come back to us. The last thing I want is for Yasin to send you in as a sacrifice as well. 
 
-### [[Sariel|Florien]]
+### Florien
 
 *"A decade apart, and nothing to offer but a difficult decision"* You surprised me today, Your quiet demeanour had led me to believe you required protection. Yet today proved me mistaken. You possess courage enough to stand for your convictions, no matter the cost. I never thought I would witness you and Rona have a difference, but it's bound to happen with everyone who has grown as close as you two have. It is clear you care for her, she must now come to see that for herself.  
 
-### [[Tarvo|Adam]]
+### Adam
 
 *"He's using your kindness against you"* Those words of yours struck me deeply. Not that long ago, I held similar thoughts regarding Tarvo. Adam, the wilderness has left its mark upon you. Not only in hardship but in growth. I wonder of what kind of people you encountered on your travels, for it is clear they have instilled in you a profound empathy. Yet empathy is a blessing and a curse. It reveals the world’s pain to you, yes, but not all men can bear such weight. 
 

@@ -16,13 +16,13 @@ This is bigger than me, I can feel it. It’s so damn scary.
 
 ## Rona's Thoughts on the group
 
-### [[Kerrick]]
+### Kerrick
 
 I think I have never been more thankful to have an old man around me, teaching me how to be more myself. I may look like I am, from the outside, but I have been putting up a mask for most of my time—enjoyable, approachable, and sweet when I need to be. But you… you are so charming and sweet, and it seems genuine. Who are you? Who in this world can have this calm and friendly energy after everything you might have already seen and been through? Always a gentleman, always helpful, always ready to stand on Tarvo’s side.
 
 I want to know… what keeps your spirit so high? Is it all Gwendolyn? Is this what love can do to you? To see you care just a little for me… care if I eat or care if I am around… I feel like I am very privileged for that. Thank you, Kerrick.
 
-### [[Florien|Sariel]]
+### Sariel
 
 I was dumb for trying to disguise you, wasn’t I? I want to know what you think. If I’m too much, too pushy? Was I too much, too fast? I think having someone I feel this way for makes me this annoying being that doesn’t give enough space, because why else… why else did you... I expected too much. You have your own demons to deal with and I am being like this. I should not want to explode on you and tell you everything. Just once… I want to. I want to know what you feel and think. Please show me who you are.
 
@@ -30,7 +30,7 @@ We align, don’t we? You stand back and wait to see if I’m okay, you share sp
 
 You promised me you would be okay, Sariel… that means more than wounds and health. It means you won’t isolate yourself too, right? You’re not Faust… you’re my pretty boy. If Tarvo wouldn’t have been there… I think I would’ve been too scared to talk, and it scares me how easily my family affairs can shake this up, this whatever we have. I was angry, and what irritated me more was you. You were… different. I didn’t know how to react. Please forgive me. I will do better.
 
-### [[Tarvo]]
+### Tarvo
 
 My little brother never had the heart to be so open about his feelings, but you, my friend, you have all this love, like a golden tongue. Your words have more meaning, though they are fewer, than any words of those fancy little buttoned-up people in this world who talk so much but say so little. I wish I could appreciate them as much as you deserve it.
 

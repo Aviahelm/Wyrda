@@ -18,15 +18,15 @@ I've never felt so powerless. Those poor rebels, they seemed confused... I wish 
 
 ## Kerrick's Thoughts on the group
 
-### [[Rona]]
+### Rona
 
 Once more, Rona proved herself to be the heart of our fellowship. In the tavern, she stepped forward with poise and authority, drawing out truths where the rest of us might have faltered. Her ties to the rebels still weigh on my mind, yet I cannot deny the steadiness she lends us. Today, she stood more firmly than I, and though it shames me to admit it, perhaps that was what we all needed.
 
-### [[Florien]]
+### Florien
 
 He overheard me as I struggled to quiet Sekaroth, the voice resounding far too loud in my mind. I thought myself discreet, but not enough. The Knight’s interruption spared me from revealing more, yet I caught the look in Florien’s eyes. Suspicion... perhaps even fear.
 
-### [[Tarvo]]
+### Tarvo
 
 Tarvo conducted himself with unexpected bravery today. Though fear lingered in his eyes, he did not falter. Yet when we parted ways, something changed. His speech grew refined, his posture more regal. I fear my lord may be caught in the grip of amnesia or some other spell. It is as though he has become the very embodiment of Adam himself...
 

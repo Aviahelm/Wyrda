@@ -9,17 +9,17 @@ enableToc: "false"
 I carry a lot of regret from earlier today. The heartbroken look in Rona’s and Florien’s eyes destroyed me. We have to find out what’s really going on here, and soon. I don’t know how much more of this senseless slaughter I can endure. My heart may be trained for war, but it is not made of stone.
 ## Kerrick's Thoughts on the group
 
-### [[Rona]]
+### Rona
 
 Rona and Florien's bond seems to have grown like a beautiful flower whose roots found themselves embedded in a rocky path. It seemed as though we interrupted a date of sorts between them, though I pray our arrival did not sour their rare moment of peace.
 
 I appreciate her for asking about the statue outside, but I fear there is more to it than just decor. I wonder if there are any warlocks here.
 
-### [[Florien]]
+### Florien
 
 Florien seems to grow red whenever Rona is near. It is a breath of fresh air, seeing such a bond take shape in times as bleak as these. A sign of youthful affection, pure and unspoiled by the harsh reality forced upon us. It reminds me of what we fight for.
 
-### [[Tarvo|Adam]]
+### Tarvo/Adam
 
 ~~Tarvo~~ Adam is different. He's stern, knows exactly what he wants, and isn't afraid to say what's on his mind. Our disagreement felt needed; he has been cooped up in Tarvo's mind for some time now. The first change I noticed was when he took the lead in looking for Gwendolyn. I grew comfortable and was enjoying my time. I let my goal leave my head for a moment, and that’s never a good thing. I grew too comfortable, lost in fleeting joys and trivial distractions. If there is going to be any chance of finding Gwen, I must be rid of such distractions and strengthen my resolve.
 
