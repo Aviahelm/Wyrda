@@ -9,13 +9,13 @@ socialDescription: Adam's Thoughts
  
 ## Adam's General Thoughts
 
-Faust said something about Kerrick being a lap dog to my father, the Empire of Aerys. Then this priest said something about a seal on me, possibly my mother's doing. My mind wanders, and I cannot help but ponder what type of terrible things could happen, and what has happened and will happen. I am just thankful that I am not alone right now, which is nice.
+Faust said something about Kerrick being a lap dog to my father, the Emperor of Aerys. Then this priest said something about a seal on me, possibly my mother's doing. My mind wanders, and I cannot help but ponder what type of terrible things could happen, and what has happened and will happen. I am just thankful that I am not alone right now, which is nice.
 
 ## Adam's Thoughts on the group
 
 ### [[Florien|Florien]]
 
-Your brother is something else. I do not mean that in a good way either. I get it, but I feel he is too devoted to your family name. I want to help you as it is the least I can do for you, but I also need to find my mother. I am in debt to you, and in all honesty, I hate it. You, the person I view as the weakest, saving me. Adam, honestly, you surprise me all the time with what you do. I just hope you can bring that energy to this mission your brother has given us. We do it, get this job done, then we get the information to find Gwen. Find my mother, then leave this place. All of us. Before we all change for the worst. This city is cursed. I can see why you and Rona ran away.
+Your brother is something else. I do not mean that in a good way either. I get it, but I feel he is too devoted to your family name. I want to help you as it is the least I can do for you, but I also need to find my mother. I am in debt to you, and in all honesty, I hate it. You, the person I view as the weakest, saving me, Adam. Honestly, you surprise me all the time with what you do. I just hope you can bring that energy to this mission your brother has given us. We do it, get this job done, then we get the information to find Gwen. Find my mother, then leave this place. All of us. Before we all change for the worst. This city is cursed. I can see why you and Rona ran away.
 
 ~Adam
 
