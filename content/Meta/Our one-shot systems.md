@@ -1,6 +1,6 @@
 ---
 title: Our one-shot systems
-draft: true
+draft: false
 tags:
 enableToc: "false"
 ---
@@ -43,7 +43,7 @@ To my players' credit, they killed it. It was a memorable night! For me, though,
 
 ### V1 Mechanics
 
-V1 was designed with a heavy focus on **groundedness and grittiness**. It included:
+V1 was designed with a heavy focus on **'realism' and grittiness**. It included:
 
 - **8 Stats:** Agility, Charisma, Constitution, Intelligence, Luck, Perception, Strength, and Willpower.
     
@@ -141,12 +141,30 @@ The key inclusions and fixes for V2 were driven by the need for more cinematic m
 | **Wraith** | *Ghost*       | _Flashpoint_  |
 | **Mauler** | *Shockwave*   | _Unbreakable_ |
 | **Psyker** | *Pulse*       | _Dominate_    |
+
 *Avia's notes for other DMs*
 
 > When doing tests like this. Be sure to have amazing players who aren't afraid to tell you when something isn't working. 
 > 
 > Just be warned. They will get good at it and they will test you just as much as you test them. 
 
+The System Tests Conducted on V2.
+
+* The Warehouse (Combat)
+* The Bank Vault (Combat)
+* The Tower (Espionage)
+* Slums (One Shot)
+
+Some amazing characters came out of this. 
+
+* Cable - A Psyker played by LeeKoii.
+* Darrel - A Mauler played by Dingus.
+* Mon - A Wraith played by Magnolia.
+* The Boss Enemy - Played by Cobblestein. 
+
+We also had some fun one shot characters. 
+
+A lot of funny ones from Reddiez. My favourite being his Wraith who was very much so out of his depth. There was also Herbert played by Shinn who had their first D&D go in V2 (Sorry)
 
 ## V2.1
 
@@ -156,4 +174,13 @@ V2 was a little too heavy on the Cyberpunk elements and this led to the question
 
 In hindsight V2.1 was significant enough to be called V3 but at the time it didn't feel like so much of a huge step and more so just a natural progression. 
 
-V.2.1 redid everything. 
+V.2.1 redid everything. I want to thank a specific person for helping build a lot of things Funky Pengu (Cam) who helped me with a lot of mechanics. Exploding Dice and D8s were their idea and every iteration of playtesting changed mechanics significantly. 
+
+
+
+## V2.1 (ADAD)
+
+Traits
+
+
+## V2.1 (Avatar)

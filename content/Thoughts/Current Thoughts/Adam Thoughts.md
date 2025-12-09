@@ -9,150 +9,42 @@ socialDescription: Adam's Thoughts
  
 ## Adam's General Thoughts
 
-I got lucky. Dodged the axe.  
-Guess I’ve got my pirate friend to thank for that.
-
-Tarvo and I… we’re finally getting somewhere. Starting to understand each other.  
-But this city  it’s getting inside all of us. Changing things. Twisting them.
-
-We walked in together, but right now?  
-I can see this only ending in blood.
-
-That dryad… she wasn’t subtle. Said there’d be a lot of it.  
-Monsters. People. Doesn’t matter. Someone’s going to bleed. Maybe me. Maybe them.
-
-Mother… wherever you are…  
-Stay safe.
-
-I don’t know what’s coming next.  
-But I can feel it closing in..
+Faust said something about Kerrick being a lap dog to my father, the Empire of Aerys. Then this priest said something about a seal on me, possibly my mother's doing. My mind wanders, and I cannot help but ponder what type of terrible things could happen, and what has happened and will happen. I am just thankful that I am not alone right now, which is nice.
 
 ## Adam's Thoughts on the group
 
 ### [[Florien|Florien]]
 
-I’m sorry, Florien.  
-You lost your father, and you haven’t had a moment to breathe, let alone grieve.  
-My own _father_ was never a kind man… but if someone told me he died the way Faust told you—  
-I don’t know how I’d handle it.
+Your brother is something else. I do not mean that in a good way either. I get it, but I feel he is too devoted to your family name. I want to help you as it is the least I can do for you, but I also need to find my mother. I am in debt to you, and in all honesty, I hate it. You, the person I view as the weakest, saving me. Adam, honestly, you surprise me all the time with what you do. I just hope you can bring that energy to this mission your brother has given us. We do it, get this job done, then we get the information to find Gwen. Find my mother, then leave this place. All of us. Before we all change for the worst. This city is cursed. I can see why you and Rona ran away.
 
-And all you’ve got here is me.  
-Rona would know how to comfort you.  
-Kerrick would know how to just _be there_.  
-Tarvo… he’d at least break the tension in the way only he can.
-
-But me?  
-I don’t know how to react to this.  
-I couldn’t even give answers to the person who raised me as their own.  
-All I managed to do was hurt them.
-
-Don’t fall for Faust’s words.  
-He’s known everything from the beginning.  
-He’s been moving pieces in the dark, setting the board before we ever stepped onto it.
-
-I think we’re already caught in his web.  
-And I’m afraid he wants me as another piece  a pawn with a title.  
-Your family needs someone powerful to stand beside you…  
-and who better than a prince, right?
-
-Faust is smart.  
-Disciplined.  
-Maybe he’s just a terrible brother, gods, I hope that’s all it is.
-
-I’ll try to reason with him.  
-For you.  
-For the others.  
-For Tarvo.
-
-And for me.
-
-—Adam
+~Adam
 
 ### [[Kerrick]]
 
-Kerrick…  
-The way we left things I know you’ve got questions. Too many.  
-You’ve been patient with me. More than anyone should be.
+What is it about you, old man. I trust you. I do. I know you would never do anything now to stop us both from finding Gwen.  
+I know that everything that has happened is something you can not control even with your strength. You can not do anything right now but watch this all unfold.  
+I can not bear to even fathom what type of strain that has on your old body. After seeing how hungry you truly were, I realized how much I have been holding us all back because I wanted to do it my way and not our way.
 
-This place… it pulls me apart. Makes me lose myself.  
-But you the way you spoke about my mother… the way your eyes changed when you said her name…  
-You cared. I can see that now.
+Do not worry, my friend. Can I call you that? "My friend". To me, you are a friend.
 
-Next time we meet, ask me anything. Whatever you need to know.
-
-Because I’m not Tarvo.  
-Not anymore.
-
-I am—
-
-Adam.
+~Adam
 
 ### [[Rona]]
 
-Your man, Florien… He did what he had to.  
-Used *his* name for me, for us. No hesitation. No fear.
+Rona, you do not want to be stopped do you? As a friend, what am I meant to do? I understand why you are doing what you are doing. I just can not help but feel like everything we all went through together was something that did not mean the same to you. I hope I am wrong. I do, truly. You care about us, I can feel it. So why, Rona, why do you want to please a family that wronged you in so many ways that I will never even get to know? However, what I do know is whatever bond we all have is thicker than blood.
 
-Then you vanished before the guards closed in.  
-I don’t know where you went.  
-I just hope you’re still breathing.
+I know this is something you can not run away from, or rather, you will not run away. Not this time. Just know this time that you have us.
 
-And maybe… maybe you’ll think twice.  
-Come back.  
-Stand with us again.  
-Like before Waterdeep took everything and split our lives apart.
+Our mothers would want what is best for us. I think rather, no. I know us all together is what is best.
 
-Next time we cross paths, you can talk to me.
-
-Not as Tarvo.
-
-But as—
-
-Adam.
+~Adam
 
 ## Adam's Thoughts on specific NPCs
 
 ### Faust
 
-You.  
-The butcher.  
-My friend’s brother.
+You sir, are crazy. What is it that you want from me? You clearly see that this city has problems but all you do is complain about what could happen and blah blah blah blah blah. Honestly, even I, Adam, could not stand to hear the amount of false things that came out of your mouth. You see, I am a liar but at least I have class. You, sir, you carry the weight of everything then dump it on your brother. I know Tarvo killed a man because of my actions. However, this means I would know better than anyone else how it is to burden people. I do not hate or like you right now.
 
-Funny thing is… I think he’d consider _me_ more of a brother than you and I’ve known him a fraction of the time you have.  
-I bet that burns.  
-Eats at you.
+Next time we meet let it be on lighter terms.
 
-The way you talked to him.  
-The things you said.  
-And you let me hear it all.  
-Why?  
-What game are you playing?
-
-After all these years… you call for the one person you claim to hate most.  
-The one person whose face you’ve spent a lifetime trying to forget   
-only to see him staring back every time you look in the mirror.
-
-You’ve got problems with Florien.  
-I get that.  
-You must be desperate if you’re calling for him now.  
-And if I heard you right and I know I did  
-you tried to kill him once.
-
-So tell me, Faust…  
-why keep me alive?
-
-My title?  
-Yeah, I figured you knew.  
-Makes me useful.  
-A piece you can move.  
-A pawn in whatever game you’re running.
-
-Fine.  
-I can play along.
-
-But I get something in return.
-
-When this is over…  
-you leave Florien alone.  
-You leave _all_ of us alone.
-
-—Adam
+~Adam
