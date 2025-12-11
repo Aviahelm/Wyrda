@@ -1,5 +1,5 @@
 ---
-title: The Character Thoughts
+title: Current Thoughts
 draft: false
 tags:
 enableToc: "false"
@@ -8,8 +8,13 @@ socialDescription: Character Thoughts
 ---
 ## Welcome to the Character Thoughts
 
-Everything here is within character and within lore. Yes, it is canon! 
+Check out what unfolds inside the characters’ heads!
 
-Our lovely players will be continuing to write after every session so check it out! 
+Is it canon? Absolutely.  
+Is it accurate? Ehhh… that depends on who you ask.
+
+Our wonderful players will be updating these after every session!
+
+Come see how the chaos evolves!
 
 
