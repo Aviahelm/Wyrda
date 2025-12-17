@@ -6,6 +6,8 @@ tags:
   - Revellia
 enableToc: "true"
 ---
+![Pymis](/static/images/pymis.png)
+
 ## Backstory 
 
 Growing up in a village overgrown by nature, everyone was happy, cheerful, and loved connecting with the wildlife around them. Pymis owned a shop for making little gadgets that seemed useless to his people but to Pymis, his creations meant everything to him. You see, Pymis is different from the rest of the Satyr. He grew tired of the high energy, the constant celebrating, and when his own people didn't appreciate his creations, he looked to live elsewhere. He just wanted a simple life, alone, where he can work on his gadgets, so he left home to find somewhere secluded to call home, so that he could finally be alone with his gadgets, because at the end of the day, who's going to love his gadgets more than their own creator?
