@@ -45,7 +45,7 @@ Something about them reminds me of Gwendolyn. I don't want to think too deeply o
 
 ### Romeo Shade
 
-The theatres here are quite different to the ones in Aerys. I remember once sneaking to a theatre with Gwendolyn. I don't remember much of the performance but I do remember how vividly she laughed and clapped. 
+The theatres here are quite different from the ones in Aerys. I remember once sneaking to a theatre with Gwendolyn. I don't remember much of the performance but I do remember how vividly she laughed and clapped. 
 
 I can still hear it a little.
 
