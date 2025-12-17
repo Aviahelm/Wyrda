@@ -10,59 +10,66 @@ socialDescription: Florien's Thoughts
 ---
 ## Florien's General Thoughts
 
-Okay.
+I still feel the aches of the migraine lurking, but for the moment it’s subsided. Must’ve been the calmness of the temple. That, and the weight on my shoulders feels lighter now that I’ve talked to my friends. I almost wish I could have done this sooner, but it’s no use wanting to change what has already happened. What matters is that, at the very least, some things are finally sorted. There still are things I worry about, nagging at the back of my mind. The mission, the conflict, all the sides at play here.
 
-_Okay_.
+But it’s good to keep busy while I wait to meet my brother. That quest board was filled with so many requests—so many old ones. I wonder why those were left behind. And the missing people… That shopkeeper, Nikki, was it? There were so many faces there, I just didn’t expect to see _Samah_. It’s been years since I saw his face, but I could never forget my only friend in this city.
 
-If one more thing happens before I have the chance to reel myself back in, I fear I may snap. The tension feels taut, and a persistent migraine has started behind my missing eye. I really should have eaten more, but my stomach feels as though it has shrunken into the size of a coin. The pizza smelled enticing, but the thought of eating brought on a wave of nausea.
+Where are you? I hope you’re alive and safe, wherever you are. I don’t know how long it has been since you vanished, but gods, I swear I’ll look for you. As Florien, or Faust, it doesn’t matter. If anyone has hurt you, I’ll make sure they pay for it. I don’t know what punishment came upon you for helping me leave Waterdeep—I hope it wasn’t severe. If my search goes badly...
 
-Everything irritates me. Voices are too loud, the clinking of cutlery, the sound of footsteps, chatter, gods, just make it all fucking stop for a moment. There’s a silver lining to it all, though. At least I’m hearing my friends’ voices once more. It feels like it’s been too long since we were all together.
+No. I’ll face that when I get to it. We’ll find these missing people _and_ the culprits.
 
-… I need some silence. I need to catch my breath. If only I could simply hand it all back to Sariel, let that false nonchalance guide me through. Actually, should I trust myself for guidance? Or is that just the blind leading the blind? No offense—none taken too.
+There’s something else too. We’re being watched, every step of the way. I thought I felt it in Middle Waterdeep, and then again at the inn. Something, or someone, is watching us. Could they be linked with the missing people? Gods, I hate having no fucking idea what to do, where to even go from here. All these unanswered questions make my head ache a little more, damn it all.
 
-I wish there was a sign that whatever it is I’m doing is the right choice. For Waterdeep, for my friends, for myself. My family too. Even after all this time, I want things to work between us all. If the Wolfric family were to lose everything, that would break mother’s heart. Faust has worked so hard, and Faith—she’s always wanted more. I cannot be the reason this all falls.
+Hey Patron, whomever you are. Everything gets worse before it gets better, right?
 
-Fucked if I had stayed, and fucked because I left. Sorry for my language, Father.
+_Sure, Florien, sure it does._
 
-The wagon driver’s voice only exacerbates my migraine. Silence would be such a good spell to have. Deep breaths, Florien. Even if every single breath feels like poison right now.
+Huh. Don’t know what I expected. I won’t get an answer, so I’ll just talk to myself.
 
-If I could just talk to someone who knows what to do… I’m a warlock, aren’t I? Kerrick’s patron is a murderous oddity, still never got an answer to that. Who exactly is mine? Just talk to me, send me a sign, whoever you are.
+### Rick and Evie’s Quest
 
-Please.
+When we took on a quest, this was not what I was expecting. It’s nice to help two people come together, but is this really what mattered most? What about all those missing people? I know Rona did not want to look for Nikki, but I have someone who matters to me that’s missing. The hours spent doing this quest… I could have found a lead instead.
+
+One quest together, the party said, for old time’s sake. Now that that’s all said and done, maybe there still will be time for further investigation tomorrow. It’s quite late now, and I have all these troubles on my mind. The letter from Faust, that presence I sensed outside…
+
+I really need to sleep. There is a lot to be done in the morning.
+
 
 ## Florien's Thoughts on the group
 
 ### [[Tarvo|Adam/Tarvo]]
 
-You were there the whole time? You heard everything, every part of a conversation I never wanted anyone else to know about. A part of me is relieved, but the other part fears what you think. You knew close to nothing about me, and now you know more than anyone else in this group does. More than even Rona.
+You know, I may not have known you long as Adam, but I’m really getting used to you. Today, something felt different. As we walked through the streets of the city, I got that same feeling I got with Tarvo, all the way back in Revellia. There was a point where I truly felt like I could see him as a friend. Not just him, but the others in the party. It took a while for me to trust everyone. I’m sure you know the feeling.
 
-I wonder what you think. Is this anything you expected?
+It was just something about the horse we saw. Whether or not you really could talk with it didn’t matter, but you humoured my silly question. You did the silly thing anyway. I don’t know why that meant a lot to me.
 
-Now you work for him too. You made a deal with my brother, the Butcher. He wants me to stick to my word, follow through with my agreement. I never planned to break that deal, even if I regret it with every damn second.
+Look, I’m trying not to be too sentimental, maybe it’s the overhanging impending chaos that lies ahead—but I really needed the laughs we had. Thank you, Adam. Maybe it’s alright that you know some of my secrets after all.
 
 
 ### [[Kerrick]]
 
-That time in Mere, when you snapped and wrecked those crates. I remember being afraid of you, wondering how a man who seemed so patient and understanding of everyone could be pushed to that state.
+Oops. Sorry old man, didn’t mean to spill your secrets like that. I’d forgotten that no one’s really heard what I heard.
 
-I get it now, Kerrick. I feel like I want to break something, but even then I don’t know if that would help. It wouldn’t solve any of my problems.
+Your past… Is that how you became a warlock? Choosing to gain a dragon’s power in the name of strength and duty as a guard, what else did you sacrifice for this? I see you think of yourself only as a soldier, someone who lives for a cause. Someone who’s willing to lay his life down if it meant saving others or fulfilling a purpose.
 
-You have so much distrust in me. I have no one to blame but my own actions. I wish I could deflect, but even my doubts about you pale in comparison to how much I wish to trust you. I never sought out an audience with Faust, but things spiralled one after another and I made a choice out of desperation. Something tells me you know what that feels like too.
-
-You were right. We need to stay together as a group. Maybe some day I can earn everyone’s trust again.
+You need to be careful, Kerrick. That magic is unstable, and whatever augments you have within you at this moment only exacerbates the problem. It won’t do if you die before you get to meet Gwendolyn again.
 
 ### [[Rona]]
 
-I see it on your face. Disappointment, frustration, a lot of justified anger, I’m sure. But it’s good to see you again. I much prefer your wrath over the wrath of my family.
+We’re alright, yeah?
 
-You said that secrets are always dangerous. I have so many. It overflows at times, things I wish I could say, things I want to share. You insist that the party wants me—Florien Wolfric. You think that’s not what I want too? I want to be myself. But I cannot be. You should know what that feels like. Your new clothes, that new look—are you even happy? Was that of your own choice?
+You’re stubborn, but I can be stubborn too. Maybe you understand why I’ve made those choices, maybe you don’t. But we managed to talk, something long overdue. I don’t know what Tyr said to you exactly, but I could see your eyes were still watery. Maybe you’ll tell me someday, when you’re ready.
 
-I hear your tone too. _We can all pretend to be Faust, that’s a fun game._
+That necklace looks good on you. My neck feels empty without it, but it’s safer with you. Yeah, it’s another promise I’ve made, but I’ll keep it. I’ll come back as Florien, after all of this is over. Spineless as I am, I don’t plan on living out my life as my twin brother—fuck no. I think even _he_ doesn’t want that as a permanent arrangement either.
 
-Really, Rona?
+The hourglass… I wonder just how much you know of me. Chronomancy is so inlaid into the lines of my ancestry, and still I haven’t fully understood it. Would you find it as fascinating as I do? Or would you listen to my rambles with a smile?
 
-I had to bite my own tongue, before I said anything I regretted. I’d rather not say something out of spite.
+_A promise in time,_ it says. How fitting, I like it. One day, I’ll get you something nicer. It has to mean as much as this gift did to me.
 
-I know that I’ve hurt you with my own choice. Faust is the last person I ever wanted to become. But we both want the same thing, don’t we? We want to help people. You do it your own way, with your brother. The rebels. I’m not going to stop you—not like you would listen anyway.
+## Florien's Thoughts on specific NPCs
 
-I’ll find a way with the guards. It’s better to have someone on each side, is it not? We are still a group, the four of us. I’ll take whatever damn punishment I’ll get for sharing what I’ve learnt. My loyalties don’t lie with the guards. Have more faith in me, Rona Loran.
+### Romeo Shade
+
+Holy shit, I don’t think I’ve ever seen a Harengon before, much less one that performed on stage. I’ve never quite been to a show like this, but it does remind me of something in the past. A performance, perhaps a travelling bards’ group? It’s foggy, I can’t recall their faces too well. I remember liking the music, though.
+
+This show was different, but enjoyable. Still, I can’t fully enjoy this leisure, not with everything going on. Even sitting in that theatre seat, I still felt odd. Never a moment’s of rest, not until something is done to make this city a better place.
