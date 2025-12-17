@@ -22,7 +22,7 @@ Lower Waterdeep
 
 ### Appearance:
 
-As a water genasi, Willow has water hair, which is in the shape of a ponytail. She is missing her right eye after an incident with the guards when she was a teenager. She has many tattoos as her main source of self expression, as she feels it should remain isolated to herself, rather than affecting others.
+As a Water Genasi, Willow has water hair, which is in the shape of a ponytail. She is missing her right eye after an incident with the guards when she was a teenager. She has many tattoos as her main source of self expression, as she feels it should remain isolated to herself, rather than affecting others.
 
 ![Willow](/static/images/willow.png)
 
