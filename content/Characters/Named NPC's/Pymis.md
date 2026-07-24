@@ -1,6 +1,6 @@
 ---
 title: Pymis
-draft: false
+draft: true
 tags:
   - NPC
 enableToc: "true"

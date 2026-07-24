@@ -1,6 +1,6 @@
 ---
 title: Kerrick
-draft: false
+draft: true
 tags:
   - Kerrick
   - Player

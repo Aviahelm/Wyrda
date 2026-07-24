@@ -1,7 +1,7 @@
 ---
 title: Jorren Krail
-draft: false
-tags: 
+draft: true
+tags:
 enableToc: "false"
 ---
 Pronounced: 
