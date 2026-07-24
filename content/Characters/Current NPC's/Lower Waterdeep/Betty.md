@@ -1,7 +1,8 @@
 ---
 title: Betty
 draft: false
-tags: 
+tags:
+  - NPC
 enableToc: "false"
 ---
  

@@ -1,7 +1,8 @@
 ---
 title: Evaoff
 draft: false
-tags: 
+tags:
+  - NPC
 enableToc: "false"
 ---
  

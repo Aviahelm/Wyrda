@@ -2,6 +2,7 @@
 title: Billie (The Bread Maker)
 draft: false
 tags:
+  - NPC
 enableToc: "false"
 ---
 Pronounced: *bi-lee*

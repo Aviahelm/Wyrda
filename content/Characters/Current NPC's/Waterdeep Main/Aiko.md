@@ -2,6 +2,7 @@
 title: Aiko
 draft: false
 tags:
+  - NPC
 enableToc: "false"
 ---
 Pronounced: *ay-koh*

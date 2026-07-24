@@ -2,6 +2,7 @@
 title: James
 draft: true
 tags:
+  - NPC
 enableToc: "false"
 ---
 Pronounced: *jay-mz*

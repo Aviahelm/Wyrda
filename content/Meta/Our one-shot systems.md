@@ -1,6 +1,6 @@
 ---
 title: Our one-shot systems
-draft: false
+draft: true
 tags:
 enableToc: "false"
 ---
@@ -18,8 +18,8 @@ Of course, in hindsight, coding a full system is incredibly difficult. I was con
 *Avia’s Thoughts for Other DMs*
 
 > Since then, I've met some amazing DMs with amazing systems built entirely on Excel.
-> 
 > Don't be afraid to just sketch out a fun idea on Excel and test it out!
+> That being said, there are so many systems out there. I think I didn't look hard enough! 
 
 That gave me the flexibility I needed, and after some early playtests with my ever-patient ~~victims~~ players, the first version came to life.
 
@@ -76,7 +76,7 @@ Very quickly, I realized several features were unnecessary or clunky:
 
 **A Note on Legacy**
 
-Fun fact: One of the players from _Escape Penance_, Magnolia, potentially will be running it again and its sequel. That world is now theirs, and I’d love to see how they expand and grow it.
+Fun fact: One of the players from _Escape Penance_, Magnolia, potentially will be running it again (but better) and its sequel. That world is now theirs, and I’d love to see how they expand and grow it.
 
 ## V2
 
@@ -157,14 +157,14 @@ The System Tests Conducted on V2.
 
 Some amazing characters came out of this. 
 
-* Cable - A Psyker played by LeeKoii.
-* Darrel - A Mauler played by Dingus.
-* Mon - A Wraith played by Magnolia.
+* Cable - A nervous Psyker played by LeeKoii.
+* Darrel - A very Australian Mauler played by Dingus.
+* Mon - A combat hungry Wraith played by Magnolia.
 * The Boss Enemy - Played by Cobblestein. 
 
 We also had some fun one shot characters. 
 
-A lot of funny ones from Reddiez. My favourite being his Wraith who was very much so out of his depth. There was also Herbert played by Shinn who had their first D&D go in V2 (Sorry)
+A lot of funny ones from Reddiez. My favourite being his Wraith who was very much so out of his depth. There was also Herbert played by Shinn who had their first D&D go in V2.
 
 ## V2.1
 
@@ -172,15 +172,37 @@ As cool as the Cyberpunk setting is but what do you do when you don't want to do
 
 V2 was a little too heavy on the Cyberpunk elements and this led to the question being asked "How do we adapt this to other genres and stories". *Uh Oh*. This led to a bit of a rewrite.
 
+**V2.1 redid everything.** I want to thank a specific person for helping build a lot of things Funky Pengu (Cam) who helped me with a lot of mechanics. Exploding Dice and D8s were their idea and every iteration of playtesting changed mechanics significantly. 
+
 In hindsight V2.1 was significant enough to be called V3 but at the time it didn't feel like so much of a huge step and more so just a natural progression. 
 
-V.2.1 redid everything. I want to thank a specific person for helping build a lot of things Funky Pengu (Cam) who helped me with a lot of mechanics. Exploding Dice and D8s were their idea and every iteration of playtesting changed mechanics significantly. 
+Unlike V2. We did quite a bit of unofficial 'one-shots' to test the system a lot more. 
 
-
-
-## V2.1 (ADAD)
+### V2.1 (ADAD)
 
 Traits
 
+### V2.1 (Avatar)
 
-## V2.1 (Avatar)
+This one-shot was built on the ATLA concept. It was a little attempt at mixing V2 and V2.1 together where you got a class. 
+
+* Fire
+* Air
+* Water
+* Earth
+
+The players would get to climb a tower and meet the Avatar of this time. 
+
+I had 5 players for it.
+
+* Dingus
+* FunkyPengu
+* Leekoii
+* Magnolia
+* Reddiez
+
+### V2.1 (Cabin in the Woods)
+
+### V2.1 (Pirates)
+
+### V2.1 (Vampires)

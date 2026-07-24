@@ -1,7 +1,8 @@
 ---
 title: Cedric
 draft: false
-tags: 
+tags:
+  - NPC
 enableToc: "false"
 ---
 Pronounced: *Sed-rick*

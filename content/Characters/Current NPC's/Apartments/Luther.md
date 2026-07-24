@@ -1,7 +1,8 @@
 ---
 title: Luther
 draft: false
-tags: 
+tags:
+  - NPC
 enableToc: "false"
 ---
 Pronounced: *loo-thur*

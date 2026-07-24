@@ -1,7 +1,8 @@
 ---
 title: Nikki
 draft: false
-tags: 
+tags:
+  - NPC
 enableToc: "false"
 ---
 Pronounced: *ni-kee*

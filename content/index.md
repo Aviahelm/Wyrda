@@ -24,12 +24,7 @@ Great Question!
 1. Eyegum who plays [[Tarvo]]
 2. Jade who plays [[Rona]]
 3. LeeKoii who plays [[Florien|Florien]]
-4. Reddiez who plays [[Kerrick]] and formerly [[Pymis]]
-
-### You have guest roles?
-
-Yeah, we'd love our friends to come join and voice a character or two.
-* Magnolia who has joined us in Waterdeep plays both Nikki and Willow!
+4. Magnolia who plays [[Willow]]
 
 ## Find Us Online
 
@@ -37,11 +32,8 @@ Support the folks who make Wyrda happen!
 
 **Streams:**
 1. LeeKoii is also also on [Twitch](https://www.twitch.tv/leekoii)
-2. MrReddiez is on [Twitch](https://www.twitch.tv/reddiez) 
-3. Magnolia is on [Twitch](https://www.twitch.tv/missmagnoliagaming)
+2. Magnolia is on [Twitch](https://www.twitch.tv/missmagnoliagaming)
 
-**Campaign VODs:** 
-1. Catch up on past episodes on our **[YouTube Channel](https://www.google.com/search?q=https://www.youtube.com/%40WorldOfWyrda)**.
 
 **Artists**
 1. **LeeKoii** has commissions open on [VGen](https://vgen.co/leekoii)

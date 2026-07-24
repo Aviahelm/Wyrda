@@ -1,7 +1,8 @@
 ---
 title: Romeo Shade
 draft: false
-tags: 
+tags:
+  - NPC
 enableToc: "false"
 ---
  

@@ -1,7 +1,8 @@
 ---
 title: Bob
 draft: false
-tags: 
+tags:
+  - NPC
 enableToc: "false"
 ---
 Pronounced: *bahb*

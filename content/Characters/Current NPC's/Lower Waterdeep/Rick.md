@@ -1,7 +1,8 @@
 ---
 title: Rick
 draft: false
-tags: 
+tags:
+  - NPC
 enableToc: "false"
 ---
  

@@ -1,7 +1,8 @@
 ---
 title: Eric
 draft: false
-tags: 
+tags:
+  - NPC
 enableToc: "false"
 ---
 Pronounced: *erik*

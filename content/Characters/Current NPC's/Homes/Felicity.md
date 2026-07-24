@@ -2,6 +2,7 @@
 title: Felicity
 draft: false
 tags:
+  - NPC
 enableToc: "false"
 ---
 Pronounced: 

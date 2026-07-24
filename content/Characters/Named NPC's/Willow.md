@@ -2,6 +2,7 @@
 title: Willow
 draft: false
 tags:
+  - NPC
 enableToc: "false"
 socialImage: images/willow.png
 socialDescription: Willow

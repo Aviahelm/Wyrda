@@ -1,7 +1,8 @@
 ---
 title: Nirmal
 draft: false
-tags: 
+tags:
+  - NPC
 enableToc: "false"
 ---
 Pronounced: *nur-muhl*

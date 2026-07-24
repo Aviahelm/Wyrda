@@ -2,6 +2,7 @@
 title: Tyr
 draft: true
 tags:
+  - NPC
 enableToc: "false"
 ---
 Pronounced: 
