@@ -2,7 +2,8 @@
 title: Wisteria
 draft: false
 tags:
-  - Wisteria
+  - Player
+  - Waterdeep
 enableToc: "false"
 socialImage: images/willow.png
 socialDescription: Willow
