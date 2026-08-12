@@ -47,6 +47,6 @@ Adam~
 
 An interesting fellow, that one. I half worry we’ve set him on the path to losing his post or something worse, but somehow I suspect he’ll land on his feet.
 
-### [[Willow]]
+### [[Wisteria]]
 
 She wore kindness like a mask, only to stab us in the back. Let her try to touch me or him or any of his friends. I swear it: she will pay. _Mark. MY. WORDS._

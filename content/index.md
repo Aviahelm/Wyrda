@@ -24,7 +24,7 @@ Great Question!
 1. Eyegum who plays [[Tarvo]]
 2. Jade who plays [[Rona]]
 3. LeeKoii who plays [[Florien|Florien]]
-4. Magnolia who plays [[Willow]]
+4. Magnolia who plays [[Wisteria]]
 
 ## Find Us Online
 
